@@ -1,0 +1,138 @@
+[
+    /*
+        Notes: Text blocks below format well without a prepended json line. As you see lists get long.
+               Category merged into Units, split and merged. Prob a bug, can't find a workaround atm.
+               Comparison: https://github.com/yairm210/Unciv/blob/master/android/assets/jsons/Tutorials.json
+    */
+
+    {
+        "name": "Readme, usage info",
+        "category": "FancyText Unicode",
+        "civilopediaText": [
+            {  "text": "UTF-8 Symbols", "header": 1, },
+            {  "text": "The original purpose of this mod is to visualize what Unicode works in Unciv and what is unprintable.", },
+            {  "text": "Using symbols in unit or city names adds flavor. All capitol cities and city-states in this mod have a symbol prefix. This works great for sorting, ID'ing at-a-glance, and other nuances.", },
+            {  "text": "Also found adding prefix symbol badges to high ranking units helps direct strategy faster. Different unit types or groups can be assigned their own ranks. Manually of course, just another way to crawl.", },
+            {  "text": "", },
+            {  "text": "Currently unsure if synbols print consistently among diferent platforms.", },
+            {  "text": "", },
+            {  "text": "Within Unciv", "header": 5, },
+            {  "text": "There does not appear to be a way to highlight-select text other than city or unit renaming.", },
+            {  "text": "To use these characters, tap the section link, copy the symbol from your browser to paste into an Unciv textbox in-game.", },
+        ]
+    },
+    {
+        "name": "Geometric Shapes",
+        "category": "FancyText Unicode",
+        "civilopediaText": [
+            { "size": 25,
+              "text": "
+■□▢▣▤▥▦▧▨▩▪▫▬▭▮▯▰▱▲△▴▵▶▷▸▹►▻▼▽▾▿◀◁◂◃◄◅◆
+◇◈◉◊○◌◍◎●◐◑◒◓◔◕◖◗◘◙◚◛◜◝◞◟◠◡◢◣◤◥◦◧◨◩◪◫◬◭
+◮◯◰◱◲◳◴◵◶◷◸◹◺◻◼◽◾◿", },
+
+            { "separator": true },
+            {  "text": "This link opens the W3schools Unicode symbols map in your browser. Copy characters from there",
+               "link": "https://www.w3schools.com/charsets/ref_utf_geometric.asp",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»■«» Black Square
+«#00ff00»□«» White Square
+«#00ff00»▢«» White Square With Rounded Corners
+«#00ff00»▣«» White Square Containing Black Small Square
+«#00ff00»▤«» Square With Horizontal Fill
+«#00ff00»▥«» Square With Vertical Fill
+«#00ff00»▦«» Square With Orthogonal Crosshatch Fill
+«#00ff00»▧«» Square With Upper Left To Lower Right Fill
+«#00ff00»▨«» Square With Upper Right To Lower Left Fill
+«#00ff00»▩«» Square With Diagonal Crosshatch Fill
+«#00ff00»▪«» Black Small Square
+«#00ff00»▫«» White Small Square
+«#00ff00»▬«» Black Rectangle
+«#00ff00»▭«» White Rectangle
+«#00ff00»▮«» Black Vertical Rectangle
+«#00ff00»▯«» White Vertical Rectangle
+«#00ff00»▰«» Black Parallelogram
+«#00ff00»▱«» White Parallelogram
+«#00ff00»▲«» Black Up-Pointing Triangle
+«#00ff00»△«» White Up-Pointing Triangle
+«#00ff00»▴«» Black Up-Pointing Small Triangle
+«#00ff00»▵«» White Up-Pointing Small Triangle
+«#00ff00»▶«» Black Right-Pointing Triangle
+«#00ff00»▷«» White Right-Pointing Triangle
+«#00ff00»▸«» Black Right-Pointing Small Triangle
+«#00ff00»▹«» White Right-Pointing Small Triangle
+«#00ff00»►«» Black Right-Pointing Pointer
+«#00ff00»▻«» White Right-Pointing Pointer
+«#00ff00»▼«» Black Down-Pointing Triangle
+«#00ff00»▽«» White Down-Pointing Triangle
+«#00ff00»▾«» Black Down-Pointing Small Triangle
+«#00ff00»▿«» White Down-Pointing Small Triangle
+«#00ff00»◀«» Black Left-Pointing Triangle
+«#00ff00»◁«» White Left-Pointing Triangle
+«#00ff00»◂«» Black Left-Pointing Small Triangle
+«#00ff00»◃«» White Left-Pointing Small Triangle
+«#00ff00»◄«» Black Left-Pointing Pointer
+«#00ff00»◅«» White Left-Pointing Pointer
+«#00ff00»◆«» Black Diamond
+«#00ff00»◇«» White Diamond
+«#00ff00»◈«» White Diamond Containing Black Small Diamond
+«#00ff00»◉«» Fisheye
+«#00ff00»◊«» Lozenge
+«#00ff00»○«» White Circle
+«#00ff00»◌«» Dotted Circle
+«#00ff00»◍«» Circle With Vertical Fill
+«#00ff00»◎«» Bullseye
+«#00ff00»●«» Black Circle
+«#00ff00»◐«» Circle With Left Half Black
+«#00ff00»◑«» Circle With Right Half Black
+«#00ff00»◒«» Circle With Lower Half Black
+«#00ff00»◓«» Circle With Upper Half Black
+«#00ff00»◔«» Circle With Upper Right Quadrant Black
+«#00ff00»◕«» Circle With All But Upper Left Quadrant Black
+«#00ff00»◖«» Left Half Black Circle
+«#00ff00»◗«» Right Half Black Circle
+«#00ff00»◘«» Inverse Bullet
+«#00ff00»◙«» Inverse White Circle
+«#00ff00»◚«» Upper Half Inverse White Circle
+«#00ff00»◛«» Lower Half Inverse White Circle
+«#00ff00»◜«» Upper Left Quadrant Circular Arc
+«#00ff00»◝«» Upper Right Quadrant Circular Arc
+«#00ff00»◞«» Lower Right Quadrant Circular Arc
+«#00ff00»◟«» Lower Left Quadrant Circular Arc
+«#00ff00»◠«» Upper Half Circle
+«#00ff00»◡«» Lower Half Circle
+«#00ff00»◢«» Black Lower Right Triangle
+«#00ff00»◣«» Black Lower Left Triangle
+«#00ff00»◤«» Black Upper Left Triangle
+«#00ff00»◥«» Black Upper Right Triangle
+«#00ff00»◦«» White Bullet
+«#00ff00»◧«» Square With Left Half Black
+«#00ff00»◨«» Square With Right Half Black
+«#00ff00»◩«» Square With Upper Left Diagonal Half Black
+«#00ff00»◪«» Square With Lower Right Diagonal Half Black
+«#00ff00»◫«» White Square With Vertical Bisecting Line
+«#00ff00»◬«» White Up-Pointing Triangle With Dot
+«#00ff00»◭«» Up-Pointing Triangle With Left Half Black
+«#00ff00»◮«» Up-Pointing Triangle With Right Half Black
+«#00ff00»◯«» Large Circle
+«#00ff00»◰«» White Square With Upper Left Quadrant
+«#00ff00»◱«» White Square With Lower Left Quadrant
+«#00ff00»◲«» White Square With Lower Right Quadrant
+«#00ff00»◳«» White Square With Upper Right Quadrant
+«#00ff00»◴«» White Circle With Upper Left Quadrant
+«#00ff00»◵«» White Circle With Lower Left Quadrant
+«#00ff00»◶«» White Circle With Lower Right Quadrant
+«#00ff00»◷«» White Circle With Upper Right Quadrant
+«#00ff00»◸«» Upper Left Triangle
+«#00ff00»◹«» Upper Right Triangle
+«#00ff00»◺«» Lower Left Triangle
+«#00ff00»◻«» White Medium Square
+«#00ff00»◼«» Black Medium Square
+«#00ff00»◽«» White Medium Small Square
+«#00ff00»◾«» Black Medium Small Square
+«#00ff00»◿«» Lower Right Triangle", },
+        ]
+    }
+]
