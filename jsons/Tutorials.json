@@ -34,11 +34,17 @@ Florence = ⟰Florence
 ⚛GDR Boss
 ⚍Lt Cmdr
 ⛉⛉⛉Sky Admiral (3rd rank)
+☮Great Prophet
 ⚑⭐Washington (flag says this is my capital city)", },
             {  "text": "", },
-            {  "text": "Within Unciv", "header": 5, },
-            {  "text": "There does not appear to be a way to highlight-select text other than city or unit renaming. You can't copy any characters from here! :P 😝 😛 <-- and emoji smiley characters don't work fyi :P:P:P", },
-            {  "text": "To use these characters, tap the link under the preview block within the section, copy the symbol from your browser, paste into an Unciv textbox in-game.", },
+            {  "text": "Inside Unciv", "header": 5, },
+            {  "text": "There does not appear to be a way to highlight-select text other than city or unit renaming. «#ff0000»You cannot copy characters from this help screen!«» :P 😝 ☹ 😛 ← the Emoji Faces (Smileys) character set doesn't work fyi but there are a few other basic emojis that do ☠☠☠", },
+            {  "text": "", },
+            {  "text": "To use these characters:", },
+            {  "text": "
+▸ «#00FFFF»tap the link under the sections' preview block«» which opens Firefox etc,
+▸ «#00FFFF»copy the symbol«» from your browser,
+▸ «#00FFFF»paste into an Unciv textbox«» from in-game.", },
         ]
     },
     {
@@ -46,7 +52,6 @@ Florence = ⟰Florence
         "category": "FancyText Unicode",
         "civilopediaText": [
             { "size": 25,
-              "color": "#CCCC40",
               "padding": 1,
               "text": "
 ■□▢▣▤▥▦▧▨▩▪▫▬▭▮▯▰▱▲△▴▵▶▷▸▹►▻▼▽▾▿◀◁◂◃◄◅◆◇
@@ -163,7 +168,6 @@ Florence = ⟰Florence
         "category": "FancyText Unicode",
         "civilopediaText": [
             { "size": 25,
-              "color": "#CCCC40",
               "padding": 1,
               "text": "
 ☀☁☂☃☄★☆☇☈☉☊☋☌☍☎☏☐☑☒☓☔☕☖☗☘☙☚☛☜☝☞☟☠☡☢☣☤☥☦☧
