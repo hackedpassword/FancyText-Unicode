@@ -6,19 +6,39 @@
     */
 
     {
-        "name": "Readme, usage info",
+        "name": "FancyText Unicode",
         "category": "FancyText Unicode",
         "civilopediaText": [
             {  "text": "UTF-8 Symbols", "header": 1, },
-            {  "text": "The original purpose of this mod is to visualize what Unicode works in Unciv and what is unprintable.", },
-            {  "text": "Using symbols in unit or city names adds flavor. All capitol cities and city-states in this mod have a symbol prefix. This works great for sorting, ID'ing at-a-glance, and other nuances.", },
-            {  "text": "Also found adding prefix symbol badges to high ranking units helps direct strategy faster. Different unit types or groups can be assigned their own ranks. Manually of course, just another way to crawl.", },
+            {  "text": "Using symbols in unit or city names adds flavor! All capitol cities and city-states in this mod have a symbol prefix. See jsons/English.properties", },
             {  "text": "", },
-            {  "text": "Currently unsure if synbols print consistently among diferent platforms.", },
+            {  "text": "
+Aliased cities look like:
+Babylon = ⭐Babylon
+Athens = ⭐Athens
+Beijing = ⭐Beijing
+...
+Brussels = ⟰Brussels
+Bucharest = ⟰Bucharest
+Florence = ⟰Florence
+...
+", "padding": 5,},
+            {  "text": "", },
+            {  "header": 1, "text": "Why?", },
+            {  "text": "The original purpose of this mod is to visualize which Unicode characters render in Unciv.", },
+            {  "text": "", },
+            {  "text": "This works great for sorting, ID'ing at-a-glance, and other nuances. For example, spy_screen cities auto-sort, city_screen city names reveal CS or capitals, unit_screen can auto-sort special cities, etc.", },
+            {  "text": "Also found by adding prefix symbol badges to high ranking units, this helps manage unit strategy faster. Different unit types or groups can be assigned their own ranks (manually of course, just another way to crawl).", },
+            {  "text": "", },
+            {  "text": "Add prefixes to units like these examples:
+⚛GDR Boss
+⚍Lt Cmdr
+⛉⛉⛉Sky Admiral (3rd rank)
+⚑⭐Washington (flag says this is my capital city)", },
             {  "text": "", },
             {  "text": "Within Unciv", "header": 5, },
-            {  "text": "There does not appear to be a way to highlight-select text other than city or unit renaming.", },
-            {  "text": "To use these characters, tap the section link, copy the symbol from your browser to paste into an Unciv textbox in-game.", },
+            {  "text": "There does not appear to be a way to highlight-select text other than city or unit renaming. You can't copy any characters from here! :P 😝 😛 <-- and emoji smiley characters don't work fyi :P:P:P", },
+            {  "text": "To use these characters, tap the link under the preview block within the section, copy the symbol from your browser, paste into an Unciv textbox in-game.", },
         ]
     },
     {
@@ -26,113 +46,397 @@
         "category": "FancyText Unicode",
         "civilopediaText": [
             { "size": 25,
+              "color": "#CCCC40",
+              "padding": 1,
               "text": "
-■□▢▣▤▥▦▧▨▩▪▫▬▭▮▯▰▱▲△▴▵▶▷▸▹►▻▼▽▾▿◀◁◂◃◄◅◆
-◇◈◉◊○◌◍◎●◐◑◒◓◔◕◖◗◘◙◚◛◜◝◞◟◠◡◢◣◤◥◦◧◨◩◪◫◬◭
-◮◯◰◱◲◳◴◵◶◷◸◹◺◻◼◽◾◿", },
+■□▢▣▤▥▦▧▨▩▪▫▬▭▮▯▰▱▲△▴▵▶▷▸▹►▻▼▽▾▿◀◁◂◃◄◅◆◇
+◈◉◊○◌◍◎●◐◑◒◓◔◕◖◗◘◙◚◛◜◝◞◟◠◡◢◣◤◥◦◧◨◩◪◫◬◭◮◯
+◰◱◲◳◴◵◶◷◸◹◺◻◼◽◾◿", },
 
             { "separator": true },
-            {  "text": "This link opens the W3schools Unicode symbols map in your browser. Copy characters from there",
+            {  "text": "This link opens the W3schools Unicode symbols map in your browser. Copy characters from there.",
                "link": "https://www.w3schools.com/charsets/ref_utf_geometric.asp",
+               "color": "#00FFFF",
                "size": 16, },
 
             { "size": 22, "text": "
-«#00ff00»■«» Black Square
-«#00ff00»□«» White Square
-«#00ff00»▢«» White Square With Rounded Corners
-«#00ff00»▣«» White Square Containing Black Small Square
-«#00ff00»▤«» Square With Horizontal Fill
-«#00ff00»▥«» Square With Vertical Fill
-«#00ff00»▦«» Square With Orthogonal Crosshatch Fill
-«#00ff00»▧«» Square With Upper Left To Lower Right Fill
-«#00ff00»▨«» Square With Upper Right To Lower Left Fill
-«#00ff00»▩«» Square With Diagonal Crosshatch Fill
-«#00ff00»▪«» Black Small Square
-«#00ff00»▫«» White Small Square
-«#00ff00»▬«» Black Rectangle
-«#00ff00»▭«» White Rectangle
-«#00ff00»▮«» Black Vertical Rectangle
-«#00ff00»▯«» White Vertical Rectangle
-«#00ff00»▰«» Black Parallelogram
-«#00ff00»▱«» White Parallelogram
-«#00ff00»▲«» Black Up-Pointing Triangle
-«#00ff00»△«» White Up-Pointing Triangle
-«#00ff00»▴«» Black Up-Pointing Small Triangle
-«#00ff00»▵«» White Up-Pointing Small Triangle
-«#00ff00»▶«» Black Right-Pointing Triangle
-«#00ff00»▷«» White Right-Pointing Triangle
-«#00ff00»▸«» Black Right-Pointing Small Triangle
-«#00ff00»▹«» White Right-Pointing Small Triangle
-«#00ff00»►«» Black Right-Pointing Pointer
-«#00ff00»▻«» White Right-Pointing Pointer
-«#00ff00»▼«» Black Down-Pointing Triangle
-«#00ff00»▽«» White Down-Pointing Triangle
-«#00ff00»▾«» Black Down-Pointing Small Triangle
-«#00ff00»▿«» White Down-Pointing Small Triangle
-«#00ff00»◀«» Black Left-Pointing Triangle
-«#00ff00»◁«» White Left-Pointing Triangle
-«#00ff00»◂«» Black Left-Pointing Small Triangle
-«#00ff00»◃«» White Left-Pointing Small Triangle
-«#00ff00»◄«» Black Left-Pointing Pointer
-«#00ff00»◅«» White Left-Pointing Pointer
-«#00ff00»◆«» Black Diamond
-«#00ff00»◇«» White Diamond
-«#00ff00»◈«» White Diamond Containing Black Small Diamond
-«#00ff00»◉«» Fisheye
-«#00ff00»◊«» Lozenge
-«#00ff00»○«» White Circle
-«#00ff00»◌«» Dotted Circle
-«#00ff00»◍«» Circle With Vertical Fill
-«#00ff00»◎«» Bullseye
-«#00ff00»●«» Black Circle
-«#00ff00»◐«» Circle With Left Half Black
-«#00ff00»◑«» Circle With Right Half Black
-«#00ff00»◒«» Circle With Lower Half Black
-«#00ff00»◓«» Circle With Upper Half Black
-«#00ff00»◔«» Circle With Upper Right Quadrant Black
-«#00ff00»◕«» Circle With All But Upper Left Quadrant Black
-«#00ff00»◖«» Left Half Black Circle
-«#00ff00»◗«» Right Half Black Circle
-«#00ff00»◘«» Inverse Bullet
-«#00ff00»◙«» Inverse White Circle
-«#00ff00»◚«» Upper Half Inverse White Circle
-«#00ff00»◛«» Lower Half Inverse White Circle
-«#00ff00»◜«» Upper Left Quadrant Circular Arc
-«#00ff00»◝«» Upper Right Quadrant Circular Arc
-«#00ff00»◞«» Lower Right Quadrant Circular Arc
-«#00ff00»◟«» Lower Left Quadrant Circular Arc
-«#00ff00»◠«» Upper Half Circle
-«#00ff00»◡«» Lower Half Circle
-«#00ff00»◢«» Black Lower Right Triangle
-«#00ff00»◣«» Black Lower Left Triangle
-«#00ff00»◤«» Black Upper Left Triangle
-«#00ff00»◥«» Black Upper Right Triangle
-«#00ff00»◦«» White Bullet
-«#00ff00»◧«» Square With Left Half Black
-«#00ff00»◨«» Square With Right Half Black
-«#00ff00»◩«» Square With Upper Left Diagonal Half Black
-«#00ff00»◪«» Square With Lower Right Diagonal Half Black
-«#00ff00»◫«» White Square With Vertical Bisecting Line
-«#00ff00»◬«» White Up-Pointing Triangle With Dot
-«#00ff00»◭«» Up-Pointing Triangle With Left Half Black
-«#00ff00»◮«» Up-Pointing Triangle With Right Half Black
-«#00ff00»◯«» Large Circle
-«#00ff00»◰«» White Square With Upper Left Quadrant
-«#00ff00»◱«» White Square With Lower Left Quadrant
-«#00ff00»◲«» White Square With Lower Right Quadrant
-«#00ff00»◳«» White Square With Upper Right Quadrant
-«#00ff00»◴«» White Circle With Upper Left Quadrant
-«#00ff00»◵«» White Circle With Lower Left Quadrant
-«#00ff00»◶«» White Circle With Lower Right Quadrant
-«#00ff00»◷«» White Circle With Upper Right Quadrant
-«#00ff00»◸«» Upper Left Triangle
-«#00ff00»◹«» Upper Right Triangle
-«#00ff00»◺«» Lower Left Triangle
-«#00ff00»◻«» White Medium Square
-«#00ff00»◼«» Black Medium Square
-«#00ff00»◽«» White Medium Small Square
-«#00ff00»◾«» Black Medium Small Square
-«#00ff00»◿«» Lower Right Triangle", },
+«#00ff00»■«»	Black Square
+«#00ff00»□«»	White Square
+«#00ff00»▢«»	White Square With Rounded Corners
+«#00ff00»▣«»	White Square Containing Black Small Square
+«#00ff00»▤«»	Square With Horizontal Fill
+«#00ff00»▥«»	Square With Vertical Fill
+«#00ff00»▦«»	Square With Orthogonal Crosshatch Fill
+«#00ff00»▧«»	Square With Upper Left To Lower Right Fill
+«#00ff00»▨«»	Square With Upper Right To Lower Left Fill
+«#00ff00»▩«»	Square With Diagonal Crosshatch Fill
+«#00ff00»▪«»	Black Small Square
+«#00ff00»▫«»	White Small Square
+«#00ff00»▬«»	Black Rectangle
+«#00ff00»▭«»	White Rectangle
+«#00ff00»▮«»	Black Vertical Rectangle
+«#00ff00»▯«»	White Vertical Rectangle
+«#00ff00»▰«»	Black Parallelogram
+«#00ff00»▱«»	White Parallelogram
+«#00ff00»▲«»	Black Up-Pointing Triangle
+«#00ff00»△«»	White Up-Pointing Triangle
+«#00ff00»▴«»	Black Up-Pointing Small Triangle
+«#00ff00»▵«»	White Up-Pointing Small Triangle
+«#00ff00»▶«»	Black Right-Pointing Triangle
+«#00ff00»▷«»	White Right-Pointing Triangle
+«#00ff00»▸«»	Black Right-Pointing Small Triangle
+«#00ff00»▹«»	White Right-Pointing Small Triangle
+«#00ff00»►«»	Black Right-Pointing Pointer
+«#00ff00»▻«»	White Right-Pointing Pointer
+«#00ff00»▼«»	Black Down-Pointing Triangle
+«#00ff00»▽«»	White Down-Pointing Triangle
+«#00ff00»▾«»	Black Down-Pointing Small Triangle
+«#00ff00»▿«»	White Down-Pointing Small Triangle
+«#00ff00»◀«»	Black Left-Pointing Triangle
+«#00ff00»◁«»	White Left-Pointing Triangle
+«#00ff00»◂«»	Black Left-Pointing Small Triangle
+«#00ff00»◃«»	White Left-Pointing Small Triangle
+«#00ff00»◄«»	Black Left-Pointing Pointer
+«#00ff00»◅«»	White Left-Pointing Pointer
+«#00ff00»◆«»	Black Diamond
+«#00ff00»◇«»	White Diamond
+«#00ff00»◈«»	White Diamond Containing Black Small Diamond
+«#00ff00»◉«»	Fisheye
+«#00ff00»◊«»	Lozenge
+«#00ff00»○«»	White Circle
+«#00ff00»◌«»	Dotted Circle
+«#00ff00»◍«»	Circle With Vertical Fill
+«#00ff00»◎«»	Bullseye
+«#00ff00»●«»	Black Circle
+«#00ff00»◐«»	Circle With Left Half Black
+«#00ff00»◑«»	Circle With Right Half Black
+«#00ff00»◒«»	Circle With Lower Half Black
+«#00ff00»◓«»	Circle With Upper Half Black
+«#00ff00»◔«»	Circle With Upper Right Quadrant Black
+«#00ff00»◕«»	Circle With All But Upper Left Quadrant Black
+«#00ff00»◖«»	Left Half Black Circle
+«#00ff00»◗«»	Right Half Black Circle
+«#00ff00»◘«»	Inverse Bullet
+«#00ff00»◙«»	Inverse White Circle
+«#00ff00»◚«»	Upper Half Inverse White Circle
+«#00ff00»◛«»	Lower Half Inverse White Circle
+«#00ff00»◜«»	Upper Left Quadrant Circular Arc
+«#00ff00»◝«»	Upper Right Quadrant Circular Arc
+«#00ff00»◞«»	Lower Right Quadrant Circular Arc
+«#00ff00»◟«»	Lower Left Quadrant Circular Arc
+«#00ff00»◠«»	Upper Half Circle
+«#00ff00»◡«»	Lower Half Circle
+«#00ff00»◢«»	Black Lower Right Triangle
+«#00ff00»◣«»	Black Lower Left Triangle
+«#00ff00»◤«»	Black Upper Left Triangle
+«#00ff00»◥«»	Black Upper Right Triangle
+«#00ff00»◦«»	White Bullet
+«#00ff00»◧«»	Square With Left Half Black
+«#00ff00»◨«»	Square With Right Half Black
+«#00ff00»◩«»	Square With Upper Left Diagonal Half Black
+«#00ff00»◪«»	Square With Lower Right Diagonal Half Black
+«#00ff00»◫«»	White Square With Vertical Bisecting Line
+«#00ff00»◬«»	White Up-Pointing Triangle With Dot
+«#00ff00»◭«»	Up-Pointing Triangle With Left Half Black
+«#00ff00»◮«»	Up-Pointing Triangle With Right Half Black
+«#00ff00»◯«»	Large Circle
+«#00ff00»◰«»	White Square With Upper Left Quadrant
+«#00ff00»◱«»	White Square With Lower Left Quadrant
+«#00ff00»◲«»	White Square With Lower Right Quadrant
+«#00ff00»◳«»	White Square With Upper Right Quadrant
+«#00ff00»◴«»	White Circle With Upper Left Quadrant
+«#00ff00»◵«»	White Circle With Lower Left Quadrant
+«#00ff00»◶«»	White Circle With Lower Right Quadrant
+«#00ff00»◷«»	White Circle With Upper Right Quadrant
+«#00ff00»◸«»	Upper Left Triangle
+«#00ff00»◹«»	Upper Right Triangle
+«#00ff00»◺«»	Lower Left Triangle
+«#00ff00»◻«»	White Medium Square
+«#00ff00»◼«»	Black Medium Square
+«#00ff00»◽«»	White Medium Small Square
+«#00ff00»◾«»	Black Medium Small Square
+«#00ff00»◿«»	Lower Right Triangle", },
         ]
-    }
+    },
+    {
+        "name": "Miscellaneous Symbols",
+        "category": "FancyText Unicode",
+        "civilopediaText": [
+            { "size": 25,
+              "color": "#CCCC40",
+              "padding": 1,
+              "text": "
+☀☁☂☃☄★☆☇☈☉☊☋☌☍☎☏☐☑☒☓☔☕☖☗☘☙☚☛☜☝☞☟☠☡☢☣☤☥☦☧
+☨☩☪☫☬☭☮☯☰☱☲☳☴☵☶☷☸☹☺☻☼☽☾☿♀♁♂♃♄♅♆♇♈♉♊♋♌♍♎♏
+♐♑♒♓♔♕♖♗♘♙♚♛♜♝♞♟♠♡♢♣♤♥♦♧♨♩♪♫♬♭♮♯♰♱♲♳♴♵♶♷
+♸♹♺♻♼♽♾♿⚀⚁⚂⚃⚄⚅⚆⚇⚈⚉⚊⚋⚌⚍⚎⚏⚐⚑⚒⚓⚔⚕⚖⚗⚘⚙⚚⚛⚜⚝⚞⚟
+⚠⚡⚢⚣⚤⚥⚦⚧⚨⚩⚪⚫⚬⚭⚮⚯⚰⚱⚲⚳⚴⚵⚶⚷⚸⚹⚺⚻⚼⚽⚾⚿⛀⛁⛂⛃⛄⛅⛆⛇
+⛈⛉⛊⛋⛌⛍⛎⛏⛐⛑⛒⛓⛔⛕⛖⛗⛘⛙⛚⛛⛜⛝⛞⛟⛠⛡⛢⛣⛤⛥⛦⛧⛨⛩⛪
+⛫⛬⛭⛮⛯⛰⛱⛲⛳⛴⛵⛶⛷⛸⛹⛺⛻⛼⛽⛾⛿", },
+            { "separator": true },
+            {  "text": "This link opens the W3schools Unicode symbols map in your browser. Copy characters from there.",
+               "link": "https://www.w3schools.com/charsets/ref_utf_symbols.asp",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»☀«»	Black Sun With Rays
+«#00ff00»☁«»	Cloud
+«#00ff00»☂«»	Umbrella
+«#00ff00»☃«»	Snowman
+«#00ff00»☄«»	Comet
+«#00ff00»★«»	Black Star
+«#00ff00»☆«»	White Star
+«#00ff00»☇«»	Lightning
+«#00ff00»☈«»	Thunderstorm
+«#00ff00»☉«»	Sun
+«#00ff00»☊«»	Ascending Node
+«#00ff00»☋«»	Descending Node
+«#00ff00»☌«»	Conjunction
+«#00ff00»☍«»	Opposition
+«#00ff00»☎«»	Black Telephone
+«#00ff00»☏«»	White Telephone
+«#00ff00»☐«»	Ballot Box
+«#00ff00»☑«»	Ballot Box With Check
+«#00ff00»☒«»	Ballot Box With X
+«#00ff00»☓«»	Saltire
+«#00ff00»☔«»	Umbrella With Rain Drops
+«#00ff00»☕«»	Hot Beverage
+«#00ff00»☖«»	White Shogi Piece
+«#00ff00»☗«»	Black Shogi Piece
+«#00ff00»☘«»	Shamrock
+«#00ff00»☙«»	Reversed Rotated Floral Heart Bullet
+«#00ff00»☚«»	Black Left Pointing Index
+«#00ff00»☛«»	Black Right Pointing Index
+«#00ff00»☜«»	White Left Pointing Index
+«#00ff00»☝«»	White Up Pointing Index
+«#00ff00»☞«»	White Right Pointing Index
+«#00ff00»☟«»	White Down Pointing Index
+«#00ff00»☠«»	Skull And Crossbones
+«#00ff00»☡«»	Caution Sign
+«#00ff00»☢«»	Radioactive Sign
+«#00ff00»☣«»	Biohazard Sign
+«#00ff00»☤«»	Caduceus
+«#00ff00»☥«»	Ankh
+«#00ff00»☦«»	Orthodox Cross
+«#00ff00»☧«»	Chi Rho
+«#00ff00»☨«»	Cross Of Lorraine
+«#00ff00»☩«»	Cross Of Jerusalem
+«#00ff00»☪«»	Star And Crescent
+«#00ff00»☫«»	Farsi Symbol
+«#00ff00»☬«»	Khanda
+«#00ff00»☭«»	Hammer And Sickle
+«#00ff00»☮«»	Peace Symbol
+«#00ff00»☯«»	Yin Yang
+«#00ff00»☰«»	Trigram For Heaven
+«#00ff00»☱«»	Trigram For Lake
+«#00ff00»☲«»	Trigram For Fire
+«#00ff00»☳«»	Trigram For Thunder
+«#00ff00»☴«»	Trigram For Wind
+«#00ff00»☵«»	Trigram For Water
+«#00ff00»☶«»	Trigram For Mountain
+«#00ff00»☷«»	Trigram For Earth
+«#00ff00»☸«»	Wheel Of Dharma
+«#00ff00»☹«»	White Frowning Face
+«#00ff00»☺«»	White Smiling Face
+«#00ff00»☻«»	Black Smiling Face
+«#00ff00»☼«»	White Sun With Rays
+«#00ff00»☽«»	First Quarter Moon
+«#00ff00»☾«»	Last Quarter Moon
+«#00ff00»☿«»	Mercury
+«#00ff00»♀«»	Female Sign
+«#00ff00»♁«»	Earth
+«#00ff00»♂«»	Male Sign
+«#00ff00»♃«»	Jupiter
+«#00ff00»♄«»	Saturn
+«#00ff00»♅«»	Uranus
+«#00ff00»♆«»	Neptune
+«#00ff00»♇«»	Pluto
+«#00ff00»♈«»	Aries
+«#00ff00»♉«»	Taurus
+«#00ff00»♊«»	Gemini
+«#00ff00»♋«»	Cancer
+«#00ff00»♌«»	Leo
+«#00ff00»♍«»	Virgo
+«#00ff00»♎«»	Libra
+«#00ff00»♏«»	Scorpius
+«#00ff00»♐«»	Sagittarius
+«#00ff00»♑«»	Capricorn
+«#00ff00»♒«»	Aquarius
+«#00ff00»♓«»	Pisces
+«#00ff00»♔«»	White Chess King
+«#00ff00»♕«»	White Chess Queen
+«#00ff00»♖«»	White Chess Rook
+«#00ff00»♗«»	White Chess Bishop
+«#00ff00»♘«»	White Chess Knight
+«#00ff00»♙«»	White Chess Pawn
+«#00ff00»♚«»	Black Chess King
+«#00ff00»♛«»	Black Chess Queen
+«#00ff00»♜«»	Black Chess Rook
+«#00ff00»♝«»	Black Chess Bishop
+«#00ff00»♞«»	Black Chess Knight
+«#00ff00»♟«»	Black Chess Pawn
+«#00ff00»♠«»	Black Spade Suit
+«#00ff00»♡«»	White Heart Suit
+«#00ff00»♢«»	White Diamond Suit
+«#00ff00»♣«»	Black Club Suit
+«#00ff00»♤«»	White Spade Suit
+«#00ff00»♥«»	Black Heart Suit
+«#00ff00»♦«»	Black Diamond Suit
+«#00ff00»♧«»	White Club Suit
+«#00ff00»♨«»	Hot Springs
+«#00ff00»♩«»	Quarter Note
+«#00ff00»♪«»	Eighth Note
+«#00ff00»♫«»	Beamed Eighth Notes
+«#00ff00»♬«»	Beamed Sixteenth Notes
+«#00ff00»♭«»	Music Flat Sign
+«#00ff00»♮«»	Music Natural Sign
+«#00ff00»♯«»	Music Sharp Sign
+«#00ff00»♰«»	West Syriac Cross
+«#00ff00»♱«»	East Syriac Cross
+«#00ff00»♲«»	Universal Recycling Symbol
+«#00ff00»♳«»	Recycling Symbol For Type-1 Plastics
+«#00ff00»♴«»	Recycling Symbol For Type-2 Plastics
+«#00ff00»♵«»	Recycling Symbol For Type-3 Plastics
+«#00ff00»♶«»	Recycling Symbol For Type-4 Plastics
+«#00ff00»♷«»	Recycling Symbol For Type-5 Plastics
+«#00ff00»♸«»	Recycling Symbol For Type-6 Plastics
+«#00ff00»♹«»	Recycling Symbol For Type-7 Plastics
+«#00ff00»♺«»	Recycling Symbol For Generic Materials
+«#00ff00»♻«»	Black Universal Recycling Symbol
+«#00ff00»♼«»	Recycled Paper Symbol
+«#00ff00»♽«»	Partially-Recycled Paper Symbol
+«#00ff00»♾«»	Permanent Paper Sign
+«#00ff00»♿«»	Wheelchair Symbol
+«#00ff00»⚀«»	Die Face-1
+«#00ff00»⚁«»	Die Face-2
+«#00ff00»⚂«»	Die Face-3
+«#00ff00»⚃«»	Die Face-4
+«#00ff00»⚄«»	Die Face-5
+«#00ff00»⚅«»	Die Face-6
+«#00ff00»⚆«»	White Circle With Dot Right
+«#00ff00»⚇«»	White Circle With Two Dots
+«#00ff00»⚈«»	Black Circle With White Dot Right
+«#00ff00»⚉«»	Black Circle With Two White Dots
+«#00ff00»⚊«»	Monogram For Yang
+«#00ff00»⚋«»	Monogram For Yin
+«#00ff00»⚌«»	Digram For Greater Yang
+«#00ff00»⚍«»	Digram For Lesser Yin
+«#00ff00»⚎«»	Digram For Lesser Yang
+«#00ff00»⚏«»	Digram For Greater Yin
+«#00ff00»⚐«»	White Flag
+«#00ff00»⚑«»	Black Flag
+«#00ff00»⚒«»	Hammer And Pick
+«#00ff00»⚓«»	Anchor
+«#00ff00»⚔«»	Crossed Swords
+«#00ff00»⚕«»	Staff Of Aesculapius
+«#00ff00»⚖«»	Scales
+«#00ff00»⚗«»	Alembic
+«#00ff00»⚘«»	Flower
+«#00ff00»⚙«»	Gear
+«#00ff00»⚚«»	Staff Of Hermes
+«#00ff00»⚛«»	Atom Symbol
+«#00ff00»⚜«»	Fleur-De-Lis
+«#00ff00»⚝«»	Outlined White Star
+«#00ff00»⚞«»	Three Lines Converging Right
+«#00ff00»⚟«»	Three Lines Converging Left
+«#00ff00»⚠«»	Warning Sign
+«#00ff00»⚡«»	High Voltage Sign
+«#00ff00»⚢«»	Doubled Female Sign
+«#00ff00»⚣«»	Doubled Male Sign
+«#00ff00»⚤«»	Interlocked Female And Male Sign
+«#00ff00»⚥«»	Male And Female Sign
+«#00ff00»⚦«»	Male With Stroke Sign
+«#00ff00»⚧«»	Male With Stroke And Male And Female Sign
+«#00ff00»⚨«»	Vertical Male With Stroke Sign
+«#00ff00»⚩«»	Horizontal Male With Stroke Sign
+«#00ff00»⚪«»	Medium White Circle
+«#00ff00»⚫«»	Medium Black Circle
+«#00ff00»⚬«»	Medium Small White Circle
+«#00ff00»⚭«»	Marriage Symbol
+«#00ff00»⚮«»	Divorce Symbol
+«#00ff00»⚯«»	Unmarried Partnership Symbol
+«#00ff00»⚰«»	Coffin
+«#00ff00»⚱«»	Funeral Urn
+«#00ff00»⚲«»	Neuter
+«#00ff00»⚳«»	Ceres
+«#00ff00»⚴«»	Pallas
+«#00ff00»⚵«»	Juno
+«#00ff00»⚶«»	Vesta
+«#00ff00»⚷«»	Chiron
+«#00ff00»⚸«»	Black Moon Lilith
+«#00ff00»⚹«»	Sextile
+«#00ff00»⚺«»	Semisextile
+«#00ff00»⚻«»	Quincunx
+«#00ff00»⚼«»	Sesquiquadrate
+«#00ff00»⚽«»	Soccer Ball
+«#00ff00»⚾«»	Baseball
+«#00ff00»⚿«»	Squared Key
+«#00ff00»⛀«»	White Draughts Man
+«#00ff00»⛁«»	White Draughts King
+«#00ff00»⛂«»	Black Draughts Man
+«#00ff00»⛃«»	Black Draughts King
+«#00ff00»⛄«»	Snowman Without Snow
+«#00ff00»⛅«»	Sun Behind Cloud
+«#00ff00»⛆«»	Rain
+«#00ff00»⛇«»	Black Snowman
+«#00ff00»⛈«»	Thunder Cloud And Rain
+«#00ff00»⛉«»	Turned White Shogi Piece
+«#00ff00»⛊«»	Turned Black Shogi Piece
+«#00ff00»⛋«»	White Diamond In Square
+«#00ff00»⛌«»	Crossing Lanes
+«#00ff00»⛍«»	Disabled Car
+«#00ff00»⛎«»	Ophiuchus
+«#00ff00»⛏«»	Pick
+«#00ff00»⛐«»	Car Sliding
+«#00ff00»⛑«»	Helmet With White Cross
+«#00ff00»⛒«»	Circled Crossing Lanes
+«#00ff00»⛓«»	Chains
+«#00ff00»⛔«»	No Entry
+«#00ff00»⛕«»	Alternate One-Way Left Way Traffic
+«#00ff00»⛖«»	Black Two-Way Left Way Traffic
+«#00ff00»⛗«»	White Two-Way Left Way Traffic
+«#00ff00»⛘«»	Black Left Lane Merge
+«#00ff00»⛙«»	White Left Lane Merge
+«#00ff00»⛚«»	Drive Slow Sign
+«#00ff00»⛛«»	Heavy White Down-Pointing Triangle
+«#00ff00»⛜«»	Left Closed Entry
+«#00ff00»⛝«»	Squared Saltire
+«#00ff00»⛞«»	Falling Diagonal In White Circle In Black Square
+«#00ff00»⛟«»	Black Truck
+«#00ff00»⛠«»	Restricted Left Entry-1
+«#00ff00»⛡«»	Restricted Left Entry-2
+«#00ff00»⛢«»	Astronomical Symbol For Uranus
+«#00ff00»⛣«»	Heavy Circle With Stroke And Two Dots Above
+«#00ff00»⛤«»	Pentagram
+«#00ff00»⛥«»	Right-Handed Interlaced Pentagram
+«#00ff00»⛦«»	Left-Handed Interlaced Pentagram
+«#00ff00»⛧«»	Inverted Pentagram
+«#00ff00»⛨«»	Black Cross On Shield
+«#00ff00»⛩«»	Shinto Shrine
+«#00ff00»⛪«»	Church
+«#00ff00»⛫«»	Castle
+«#00ff00»⛬«»	Historic Site
+«#00ff00»⛭«»	Gear Without Hub
+«#00ff00»⛮«»	Gear With Handles
+«#00ff00»⛯«»	Map Symbol For Lighthouse
+«#00ff00»⛰«»	Mountain
+«#00ff00»⛱«»	Umbrella On Ground
+«#00ff00»⛲«»	Fountain
+«#00ff00»⛳«»	Flag In Hole
+«#00ff00»⛴«»	Ferry
+«#00ff00»⛵«»	Sailboat
+«#00ff00»⛶«»	Square Four Corners
+«#00ff00»⛷«»	Skier
+«#00ff00»⛸«»	Ice Skate
+«#00ff00»⛹«»	Person With Ball
+«#00ff00»⛺«»	Tent
+«#00ff00»⛻«»	Japanese Bank Symbol
+«#00ff00»⛼«»	Headstone Graveyard Symbol
+«#00ff00»⛽«»	Fuel Pump
+«#00ff00»⛾«»	Cup On Black Square
+«#00ff00»⛿«»	White Flag With Horizontal Middle Black Stripe", },
+        ]
+    },
+
 ]
