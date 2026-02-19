@@ -3,4 +3,4 @@ Add flavor text characters to units, cities, or otherwise, visualizing which Uni
 
 Comes stock with prepended symbols for capitols and city-states.
 
-WIP. Only one symbol block added, more to come.
+Use your F1 help in-game, in Tutorials, see the FancyText Unicode section for character render previews.
