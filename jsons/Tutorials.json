@@ -1,19 +1,31 @@
 [
     /*
-        Notes: Text blocks below format well without a prepended json line. As you see lists get long.
-               Category merged into Units, split and merged. Prob a bug, can't find a workaround atm.
-               Comparison: https://github.com/yairm210/Unciv/blob/master/android/assets/jsons/Tutorials.json
+        Notes: Comparison: https://github.com/yairm210/Unciv/blob/master/android/assets/jsons/Tutorials.json
+               Documentation: https://yairm210.github.io/Unciv/Modders/Mod-file-structure/5-Miscellaneous-JSON-files/#civilopedia-text
+               Schema code fix chat for this Tutorial: https://chatgpt.com/share/6a05de60-ae0c-83ea-b355-7d06ae652967
+               Original build by Kimi: https://www.kimi.com/share/19e26f1f-08e2-8546-8000-00004920fbff
+                 Because this format is a very tight customization of Unciv-accepted json.
     */
 
     {
-        "name": "FancyText Unicode",
-        "category": "FancyText Unicode",
+        "name": "_FancyText Unicode_",
+        "category": "⚑ FancyText Unicode ⚑",
         "civilopediaText": [
             {  "text": "UTF-8 Symbols", "header": 1, },
-            {  "text": "Using symbols in unit or city names adds flavor! All capitol cities and city-states in this mod have a symbol prefix. See jsons/English.properties", },
+            {  "text": "", },
+            {  "text": "A dual-purpose mod:", },
+            {  "text": "    1. Pre-pend unicode symbols to city names", },
+            {  "text": "    2. Unicode character rendering checker", },
+            {  "text": "", },
+
+            {  "text": "Make city names more referential", "header": 1, },
+            {  "text": "Using symbols in unit or city names adds a fun and readable attribute! ♬", "starred":true, },
+            {  "text": "", },
+            {  "text": "All capitol cities ⭐ and city-states ⟰ in this mod have a symbol prefix.", },
             {  "text": "", },
             {  "text": "
 Aliased cities look like:
+
 Babylon = ⭐Babylon
 Athens = ⭐Athens
 Beijing = ⭐Beijing
@@ -21,35 +33,69 @@ Beijing = ⭐Beijing
 Brussels = ⟰Brussels
 Bucharest = ⟰Bucharest
 Florence = ⟰Florence
-...
-", "padding": 5,},
+...", },
+            {  "text": "See: jsons/English.properties",
+               "link": "https://github.com/hackedpassword/FancyText-Unicode/blob/main/jsons/translations/English.properties",
+               "color": "#00FFFF",
+               "size": 16, },
             {  "text": "", },
-            {  "header": 1, "text": "Why?", },
-            {  "text": "The original purpose of this mod is to visualize which Unicode characters render in Unciv.", },
+            {  "separator": true, },
+
+            {  "header": 1, "text": "Uses: City/Unit names", },
             {  "text": "", },
-            {  "text": "This works great for sorting, ID'ing at-a-glance, and other nuances. For example, spy_screen cities auto-sort, city_screen city names reveal CS or capitals, unit_screen can auto-sort special cities, etc.", },
-            {  "text": "Also found by adding prefix symbol badges to high ranking units, this helps manage unit strategy faster. Different unit types or groups can be assigned their own ranks (manually of course, just another way to crawl).", },
+            {  "text": "⚔ Improve *sorting* city/unit names and labels in various screens and menus!", },
+            {  "text": "⚔ Better unit identification at-a-glance!", },
             {  "text": "", },
-            {  "text": "Add prefixes to units like these examples:
-⚛GDR Boss
-⚍Lt Cmdr
-⛉⛉⛉Sky Admiral (3rd rank)
-☮Great Prophet
-⚑⭐Washington (flag says this is my capital city)", },
+            {  "header": 1, "text": "Uses: Examples", },
             {  "text": "", },
-            {  "text": "Inside Unciv", "header": 5, },
-            {  "text": "There does not appear to be a way to highlight-select text other than city or unit renaming. «#ff0000»You cannot copy characters from this help screen!«» :P 😝 ☹ 😛 ← the Emoji Faces (Smileys) character set doesn't work fyi but there are a few other basic emojis that do ☠☠☠", },
+            {  "text": "By adding a symbol prefix to a name:", },
             {  "text": "", },
-            {  "text": "To use these characters:", },
+            {  "text": "❈ The spy_screen cities will auto-sort based on Capitols and CS's", },
+            {  "text": "❈ The city_screen [city name] reveals if this city is a CS or Capitol", },
+            {  "text": "❈ The unit_screen can auto-sort by special cities", },
+            {  "text": "", },
+            {  "text": "By adding prefix symbol badges to high ranking units, this helps manage unit strategy faster.", },
+            {  "text": "Different unit types or groups can be assigned their own ranks (manually of course, just another way to crawl).", },
+            {  "text": "", },
+            {  "header": 1, "text": "Uses: Advanced assets", },
+            {  "text": "", },
+            {  "text": "An even more clever use is for naming mod assets in very unique ways.", },
+            {  "text": "", },
+            {  "text": "Rather than a long description, a unicode symbol says it all, i.e.:
+  ⮝ ╦.png", },
+            {  "text": "", },
+            {  "text": "..says this asset has reduced a descriptive name from 5 words to 2 symbols, describing an upper aligned top-to-bottom T-intersection.", },
+            {  "text": "", },
+            {  "text": "Add unit prefixes like in these examples:
+
+☮ Great Prophet
+⚛ GDR Boss
+⚍ Lt Cmdr
+⛉⛉⛉ Sky Admiral (3rd rank)
+⚑⭐ Washington (the additional flag tells me this is _my_ capital city, vs _other_ captured capitals)", },
+            {  "text": "", },
+            {  "separator": true, },
+            {  "text": "☣ Gotchas ☣", "header": 5, },
+            {  "text": "", },
+            {  "text": "  ☹ Copying characters? There does not appear to be a way to highlight-select text in-game, other than from city or unit renaming.", },
+            {  "text": "  ☹ «#ff0000»You cannot copy characters from this help screen!«» See below.", },
+            {  "text": "  ☹ 😝 ☹ 😛 ← the Emoji Faces (Smileys) pictograph set doesn't work. Other basic emojis do ☠ ☺", },
+            {  "text": "", },
+            {  "separator": true, },
+            {  "text": "", },
+            {  "text": "To use these symbols for your cities or units:", "starred": true, },
             {  "text": "
-▸ «#00FFFF»tap the link under the sections' preview block«» which opens Firefox etc,
+▸ «#00FFFF»tap the link«» under the sections' preview block which opens Firefox etc,
 ▸ «#00FFFF»copy the symbol«» from your browser,
 ▸ «#00FFFF»paste into an Unciv textbox«» from in-game.", },
+            {  "text": "", },
+            {  "text": "The FancyText sections here are known good rendering Unicode blocks. Pictograph symbols generally don't work. More sections to be added.", },
+
         ]
     },
     {
         "name": "Geometric Shapes",
-        "category": "FancyText Unicode",
+        "category": "⚑ FancyText Unicode ⚑",
         "civilopediaText": [
             { "size": 25,
               "padding": 1,
@@ -165,7 +211,7 @@ Florence = ⟰Florence
     },
     {
         "name": "Miscellaneous Symbols",
-        "category": "FancyText Unicode",
+        "category": "⚑ FancyText Unicode ⚑",
         "civilopediaText": [
             { "size": 25,
               "padding": 1,
@@ -442,5 +488,805 @@ Florence = ⟰Florence
 «#00ff00»⛿«»	White Flag With Horizontal Middle Black Stripe", },
         ]
     },
+    {
+        "name": "Box Drawing",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+─━│┃┄┅┆┇┈┉┊┋┌┍┎┏┐┑┒┓└┕┖┗┘┙┚┛├┝┞┟┠┡┢┣┤┥┦┧┨┩┪
+┫┬┭┮┯┰┱┲┳┴┵┶┷┸┹┺┻┼┽┾┿╀╁╂╃╄╅╆╇╈╉╊╋╌╍╎╏═║╒╓╔╕
+╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬╭╮╯╰╱╲╳╴╵╶╷╸╹╺╻╼╽╾╿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2500",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»─«»	Box Drawings Light Horizontal
+«#00ff00»━«»	Box Drawings Heavy Horizontal
+«#00ff00»│«»	Box Drawings Light Vertical
+«#00ff00»┃«»	Box Drawings Heavy Vertical
+«#00ff00»┄«»	Box Drawings Light Triple Dash Horizontal
+«#00ff00»┅«»	Box Drawings Heavy Triple Dash Horizontal
+«#00ff00»┆«»	Box Drawings Light Triple Dash Vertical
+«#00ff00»┇«»	Box Drawings Heavy Triple Dash Vertical
+«#00ff00»┈«»	Box Drawings Light Quadruple Dash Horizontal
+«#00ff00»┉«»	Box Drawings Heavy Quadruple Dash Horizontal
+«#00ff00»┊«»	Box Drawings Light Quadruple Dash Vertical
+«#00ff00»┋«»	Box Drawings Heavy Quadruple Dash Vertical
+«#00ff00»┌«»	Box Drawings Light Down and Right
+«#00ff00»┍«»	Box Drawings Down Light and Right Heavy
+«#00ff00»┎«»	Box Drawings Down Heavy and Right Light
+«#00ff00»┏«»	Box Drawings Heavy Down and Right
+«#00ff00»┐«»	Box Drawings Light Down and Left
+«#00ff00»┑«»	Box Drawings Down Light and Left Heavy
+«#00ff00»┒«»	Box Drawings Down Heavy and Left Light
+«#00ff00»┓«»	Box Drawings Heavy Down and Left
+«#00ff00»└«»	Box Drawings Light Up and Right
+«#00ff00»┕«»	Box Drawings Up Light and Right Heavy
+«#00ff00»┖«»	Box Drawings Up Heavy and Right Light
+«#00ff00»┗«»	Box Drawings Heavy Up and Right
+«#00ff00»┘«»	Box Drawings Light Up and Left
+«#00ff00»┙«»	Box Drawings Up Light and Left Heavy
+«#00ff00»┚«»	Box Drawings Up Heavy and Left Light
+«#00ff00»┛«»	Box Drawings Heavy Up and Left
+«#00ff00»├«»	Box Drawings Light Vertical and Right
+«#00ff00»┝«»	Box Drawings Vertical Light and Right Heavy
+«#00ff00»┞«»	Box Drawings Up Heavy and Right Down Light
+«#00ff00»┟«»	Box Drawings Down Heavy and Right Up Light
+«#00ff00»┠«»	Box Drawings Vertical Heavy and Right Light
+«#00ff00»┡«»	Box Drawings Down Light and Right Up Heavy
+«#00ff00»┢«»	Box Drawings Up Light and Right Down Heavy
+«#00ff00»┣«»	Box Drawings Heavy Vertical and Right
+«#00ff00»┤«»	Box Drawings Light Vertical and Left
+«#00ff00»┥«»	Box Drawings Vertical Light and Left Heavy
+«#00ff00»┦«»	Box Drawings Up Heavy and Left Down Light
+«#00ff00»┧«»	Box Drawings Down Heavy and Left Up Light
+«#00ff00»┨«»	Box Drawings Vertical Heavy and Left Light
+«#00ff00»┩«»	Box Drawings Down Light and Left Up Heavy
+«#00ff00»┪«»	Box Drawings Up Light and Left Down Heavy
+«#00ff00»┫«»	Box Drawings Heavy Vertical and Left
+«#00ff00»┬«»	Box Drawings Light Down and Horizontal
+«#00ff00»┭«»	Box Drawings Left Heavy and Right Down Light
+«#00ff00»┮«»	Box Drawings Right Heavy and Left Down Light
+«#00ff00»┯«»	Box Drawings Down Light and Horizontal Heavy
+«#00ff00»┰«»	Box Drawings Down Heavy and Horizontal Light
+«#00ff00»┱«»	Box Drawings Right Light and Left Down Heavy
+«#00ff00»┲«»	Box Drawings Left Light and Right Down Heavy
+«#00ff00»┳«»	Box Drawings Heavy Down and Horizontal
+«#00ff00»┴«»	Box Drawings Light Up and Horizontal
+«#00ff00»┵«»	Box Drawings Left Heavy and Right Up Light
+«#00ff00»┶«»	Box Drawings Right Heavy and Left Up Light
+«#00ff00»┷«»	Box Drawings Up Light and Horizontal Heavy
+«#00ff00»┸«»	Box Drawings Up Heavy and Horizontal Light
+«#00ff00»┹«»	Box Drawings Right Light and Left Up Heavy
+«#00ff00»┺«»	Box Drawings Left Light and Right Up Heavy
+«#00ff00»┻«»	Box Drawings Heavy Up and Horizontal
+«#00ff00»┼«»	Box Drawings Light Vertical and Horizontal
+«#00ff00»┽«»	Box Drawings Left Heavy and Right Vertical Light
+«#00ff00»┾«»	Box Drawings Right Heavy and Left Vertical Light
+«#00ff00»┿«»	Box Drawings Vertical Light and Horizontal Heavy
+«#00ff00»╀«»	Box Drawings Up Heavy and Down Horizontal Light
+«#00ff00»╁«»	Box Drawings Down Heavy and Up Horizontal Light
+«#00ff00»╂«»	Box Drawings Vertical Heavy and Horizontal Light
+«#00ff00»╃«»	Box Drawings Left Up Heavy and Right Down Light
+«#00ff00»╄«»	Box Drawings Right Up Heavy and Left Down Light
+«#00ff00»╅«»	Box Drawings Left Down Heavy and Right Up Light
+«#00ff00»╆«»	Box Drawings Right Down Heavy and Left Up Light
+«#00ff00»╇«»	Box Drawings Down Light and Up Horizontal Heavy
+«#00ff00»╈«»	Box Drawings Up Light and Down Horizontal Heavy
+«#00ff00»╉«»	Box Drawings Right Light and Left Vertical Heavy
+«#00ff00»╊«»	Box Drawings Left Light and Right Vertical Heavy
+«#00ff00»╋«»	Box Drawings Heavy Vertical and Horizontal
+«#00ff00»╌«»	Box Drawings Light Double Dash Horizontal
+«#00ff00»╍«»	Box Drawings Heavy Double Dash Horizontal
+«#00ff00»╎«»	Box Drawings Light Double Dash Vertical
+«#00ff00»╏«»	Box Drawings Heavy Double Dash Vertical
+«#00ff00»═«»	Box Drawings Double Horizontal
+«#00ff00»║«»	Box Drawings Double Vertical
+«#00ff00»╒«»	Box Drawings Down Single and Right Double
+«#00ff00»╓«»	Box Drawings Down Double and Right Single
+«#00ff00»╔«»	Box Drawings Double Down and Right
+«#00ff00»╕«»	Box Drawings Down Single and Left Double
+«#00ff00»╖«»	Box Drawings Down Double and Left Single
+«#00ff00»╗«»	Box Drawings Double Down and Left
+«#00ff00»╘«»	Box Drawings Up Single and Right Double
+«#00ff00»╙«»	Box Drawings Up Double and Right Single
+«#00ff00»╚«»	Box Drawings Double Up and Right
+«#00ff00»╛«»	Box Drawings Up Single and Left Double
+«#00ff00»╜«»	Box Drawings Up Double and Left Single
+«#00ff00»╝«»	Box Drawings Double Up and Left
+«#00ff00»╞«»	Box Drawings Vertical Single and Right Double
+«#00ff00»╟«»	Box Drawings Vertical Double and Right Single
+«#00ff00»╠«»	Box Drawings Double Vertical and Right
+«#00ff00»╡«»	Box Drawings Vertical Single and Left Double
+«#00ff00»╢«»	Box Drawings Vertical Double and Left Single
+«#00ff00»╣«»	Box Drawings Double Vertical and Left
+«#00ff00»╤«»	Box Drawings Down Single and Horizontal Double
+«#00ff00»╥«»	Box Drawings Down Double and Horizontal Single
+«#00ff00»╦«»	Box Drawings Double Down and Horizontal
+«#00ff00»╧«»	Box Drawings Up Single and Horizontal Double
+«#00ff00»╨«»	Box Drawings Up Double and Horizontal Single
+«#00ff00»╩«»	Box Drawings Double Up and Horizontal
+«#00ff00»╪«»	Box Drawings Vertical Single and Horizontal Double
+«#00ff00»╫«»	Box Drawings Vertical Double and Horizontal Single
+«#00ff00»╬«»	Box Drawings Double Vertical and Horizontal
+«#00ff00»╭«»	Box Drawings Light Arc Down and Right
+«#00ff00»╮«»	Box Drawings Light Arc Down and Left
+«#00ff00»╯«»	Box Drawings Light Arc Up and Left
+«#00ff00»╰«»	Box Drawings Light Arc Up and Right
+«#00ff00»╱«»	Box Drawings Light Diagonal Upper Right To Lower Left
+«#00ff00»╲«»	Box Drawings Light Diagonal Upper Left To Lower Right
+«#00ff00»╳«»	Box Drawings Light Diagonal Cross
+«#00ff00»╴«»	Box Drawings Light Left
+«#00ff00»╵«»	Box Drawings Light Up
+«#00ff00»╶«»	Box Drawings Light Right
+«#00ff00»╷«»	Box Drawings Light Down
+«#00ff00»╸«»	Box Drawings Heavy Left
+«#00ff00»╹«»	Box Drawings Heavy Up
+«#00ff00»╺«»	Box Drawings Heavy Right
+«#00ff00»╻«»	Box Drawings Heavy Down
+«#00ff00»╼«»	Box Drawings Light Left and Heavy Right
+«#00ff00»╽«»	Box Drawings Light Up and Heavy Down
+«#00ff00»╾«»	Box Drawings Heavy Left and Light Right
+«#00ff00»╿«»	Box Drawings Heavy Up and Light Down", },
+        ]
+    },
+    {
+        "name": "Dingbats",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+✀✁✂✃✄✅✆✇✈✉✊✋✌✍✎✏✐✑✒✓✔✕✖✗✘✙✚✛✜✝✞✟✠✡✢✣✤✥
+✦✧✨✩✪✫✬✭✮✯✰✱✲✳✴✵✶✷✸✹✺✻✼✽✾✿❀❁❂❃❄❅❆❇❈❉❊❋
+❌❍❎❏❐❑❒❓❔❕❖❗❘❙❚❛❜❝❞❟❠❡❢❣❤❥❦❧❨❩❪❫❬❭❮❯❰❱
+❲❳❴❵❶❷❸❹❺❻❼❽❾❿➀➁➂➃➄➅➆➇➈➉➊➋➌➍➎➏➐➑➒➓➔➕➖➗
+➘➙➚➛➜➝➞➟➠➡➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽
+➾➿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2700",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»✀«»	Black Safety Scissors
+«#00ff00»✁«»	Upper Blade Scissors
+«#00ff00»✂«»	Black Scissors
+«#00ff00»✃«»	Lower Blade Scissors
+«#00ff00»✄«»	White Scissors
+«#00ff00»✅«»	White Heavy Check Mark
+«#00ff00»✆«»	Telephone Location Sign
+«#00ff00»✇«»	Tape Drive
+«#00ff00»✈«»	Airplane
+«#00ff00»✉«»	Envelope
+«#00ff00»✊«»	Raised Fist
+«#00ff00»✋«»	Raised Hand
+«#00ff00»✌«»	Victory Hand
+«#00ff00»✍«»	Writing Hand
+«#00ff00»✎«»	Lower Right Pencil
+«#00ff00»✏«»	Pencil
+«#00ff00»✐«»	Upper Right Pencil
+«#00ff00»✑«»	White Nib
+«#00ff00»✒«»	Black Nib
+«#00ff00»✓«»	Check Mark
+«#00ff00»✔«»	Heavy Check Mark
+«#00ff00»✕«»	Multiplication X
+«#00ff00»✖«»	Heavy Multiplication X
+«#00ff00»✗«»	Ballot X
+«#00ff00»✘«»	Heavy Ballot X
+«#00ff00»✙«»	Outlined Greek Cross
+«#00ff00»✚«»	Heavy Greek Cross
+«#00ff00»✛«»	Open Centre Cross
+«#00ff00»✜«»	Heavy Open Centre Cross
+«#00ff00»✝«»	Latin Cross
+«#00ff00»✞«»	Shadowed White Latin Cross
+«#00ff00»✟«»	Outlined Latin Cross
+«#00ff00»✠«»	Maltese Cross
+«#00ff00»✡«»	Star of David
+«#00ff00»✢«»	Four Teardrop-spoked Asterisk
+«#00ff00»✣«»	Four Balloon-spoked Asterisk
+«#00ff00»✤«»	Heavy Four Balloon-spoked Asterisk
+«#00ff00»✥«»	Four Club-spoked Asterisk
+«#00ff00»✦«»	Black Four Pointed Star
+«#00ff00»✧«»	White Four Pointed Star
+«#00ff00»✨«»	Sparkles
+«#00ff00»✩«»	Stress Outlined White Star
+«#00ff00»✪«»	Circled White Star
+«#00ff00»✫«»	Open Centre Black Star
+«#00ff00»✬«»	Black Centre White Star
+«#00ff00»✭«»	Outlined Black Star
+«#00ff00»✮«»	Heavy Outlined Black Star
+«#00ff00»✯«»	Pinwheel Star
+«#00ff00»✰«»	Shadowed White Star
+«#00ff00»✱«»	Heavy Asterisk
+«#00ff00»✲«»	Open Centre Asterisk
+«#00ff00»✳«»	Eight Spoked Asterisk
+«#00ff00»✴«»	Eight Pointed Black Star
+«#00ff00»✵«»	Eight Pointed Pinwheel Star
+«#00ff00»✶«»	Six Pointed Black Star
+«#00ff00»✷«»	Eight Pointed Rectilinear Black Star
+«#00ff00»✸«»	Heavy Eight Pointed Rectilinear Black Star
+«#00ff00»✹«»	Twelve Pointed Black Star
+«#00ff00»✺«»	Sixteen Pointed Asterisk
+«#00ff00»✻«»	Teardrop-spoked Asterisk
+«#00ff00»✼«»	Open Centre Teardrop-spoked Asterisk
+«#00ff00»✽«»	Heavy Teardrop-spoked Asterisk
+«#00ff00»✾«»	Six Petalled Black and White Florette
+«#00ff00»✿«»	Black Florette
+«#00ff00»❀«»	White Florette
+«#00ff00»❁«»	Eight Petalled Outlined Black Florette
+«#00ff00»❂«»	Circled Open Centre Eight Pointed Star
+«#00ff00»❃«»	Heavy Teardrop-spoked Pinwheel Asterisk
+«#00ff00»❄«»	Snowflake
+«#00ff00»❅«»	Tight Trifoliate Snowflake
+«#00ff00»❆«»	Heavy Chevron Snowflake
+«#00ff00»❇«»	Sparkle
+«#00ff00»❈«»	Heavy Sparkle
+«#00ff00»❉«»	Balloon-spoked Asterisk
+«#00ff00»❊«»	Eight Teardrop-spoked Propeller Asterisk
+«#00ff00»❋«»	Heavy Eight Teardrop-spoked Propeller Asterisk
+«#00ff00»❌«»	Cross Mark
+«#00ff00»❍«»	Shadowed White Circle
+«#00ff00»❎«»	Negative Squared Cross Mark
+«#00ff00»❏«»	Lower Right Drop-shadowed White Square
+«#00ff00»❐«»	Upper Right Drop-shadowed White Square
+«#00ff00»❑«»	Lower Right Shadowed White Square
+«#00ff00»❒«»	Upper Right Shadowed White Square
+«#00ff00»❓«»	Black Question Mark Ornament
+«#00ff00»❔«»	White Question Mark Ornament
+«#00ff00»❕«»	White Exclamation Mark Ornament
+«#00ff00»❖«»	Black Diamond Minus White X
+«#00ff00»❗«»	Heavy Exclamation Mark Symbol
+«#00ff00»❘«»	Light Vertical Bar
+«#00ff00»❙«»	Medium Vertical Bar
+«#00ff00»❚«»	Heavy Vertical Bar
+«#00ff00»❛«»	Heavy Single Turned Comma Quotation Mark Ornament
+«#00ff00»❜«»	Heavy Single Comma Quotation Mark Ornament
+«#00ff00»❝«»	Heavy Double Turned Comma Quotation Mark Ornament
+«#00ff00»❞«»	Heavy Double Comma Quotation Mark Ornament
+«#00ff00»❟«»	Heavy Low Single Comma Quotation Mark Ornament
+«#00ff00»❠«»	Heavy Low Double Comma Quotation Mark Ornament
+«#00ff00»❡«»	Curved Stem Paragraph Sign Ornament
+«#00ff00»❢«»	Heavy Exclamation Mark Ornament
+«#00ff00»❣«»	Heavy Heart Exclamation Mark Ornament
+«#00ff00»❤«»	Heavy Black Heart
+«#00ff00»❥«»	Rotated Heavy Black Heart Bullet
+«#00ff00»❦«»	Floral Heart
+«#00ff00»❧«»	Rotated Floral Heart Bullet
+«#00ff00»❨«»	Medium Left Parenthesis Ornament
+«#00ff00»❩«»	Medium Right Parenthesis Ornament
+«#00ff00»❪«»	Medium Flattened Left Parenthesis Ornament
+«#00ff00»❫«»	Medium Flattened Right Parenthesis Ornament
+«#00ff00»❬«»	Medium Left-pointing Angle Bracket Ornament
+«#00ff00»❭«»	Medium Right-pointing Angle Bracket Ornament
+«#00ff00»❮«»	Heavy Left-pointing Angle Quotation Mark Ornament
+«#00ff00»❯«»	Heavy Right-pointing Angle Quotation Mark Ornament
+«#00ff00»❰«»	Heavy Left-pointing Angle Bracket Ornament
+«#00ff00»❱«»	Heavy Right-pointing Angle Bracket Ornament
+«#00ff00»❲«»	Light Left Tortoise Shell Bracket Ornament
+«#00ff00»❳«»	Light Right Tortoise Shell Bracket Ornament
+«#00ff00»❴«»	Medium Left Curly Bracket Ornament
+«#00ff00»❵«»	Medium Right Curly Bracket Ornament
+«#00ff00»❶«»	Dingbat Negative Circled Digit One
+«#00ff00»❷«»	Dingbat Negative Circled Digit Two
+«#00ff00»❸«»	Dingbat Negative Circled Digit Three
+«#00ff00»❹«»	Dingbat Negative Circled Digit Four
+«#00ff00»❺«»	Dingbat Negative Circled Digit Five
+«#00ff00»❻«»	Dingbat Negative Circled Digit Six
+«#00ff00»❼«»	Dingbat Negative Circled Digit Seven
+«#00ff00»❽«»	Dingbat Negative Circled Digit Eight
+«#00ff00»❾«»	Dingbat Negative Circled Digit Nine
+«#00ff00»❿«»	Dingbat Negative Circled Number Ten
+«#00ff00»➀«»	Dingbat Circled Sans-serif Digit One
+«#00ff00»➁«»	Dingbat Circled Sans-serif Digit Two
+«#00ff00»➂«»	Dingbat Circled Sans-serif Digit Three
+«#00ff00»➃«»	Dingbat Circled Sans-serif Digit Four
+«#00ff00»➄«»	Dingbat Circled Sans-serif Digit Five
+«#00ff00»➅«»	Dingbat Circled Sans-serif Digit Six
+«#00ff00»➆«»	Dingbat Circled Sans-serif Digit Seven
+«#00ff00»➇«»	Dingbat Circled Sans-serif Digit Eight
+«#00ff00»➈«»	Dingbat Circled Sans-serif Digit Nine
+«#00ff00»➉«»	Dingbat Circled Sans-serif Number Ten
+«#00ff00»➊«»	Dingbat Negative Circled Sans-serif Digit One
+«#00ff00»➋«»	Dingbat Negative Circled Sans-serif Digit Two
+«#00ff00»➌«»	Dingbat Negative Circled Sans-serif Digit Three
+«#00ff00»➍«»	Dingbat Negative Circled Sans-serif Digit Four
+«#00ff00»➎«»	Dingbat Negative Circled Sans-serif Digit Five
+«#00ff00»➏«»	Dingbat Negative Circled Sans-serif Digit Six
+«#00ff00»➐«»	Dingbat Negative Circled Sans-serif Digit Seven
+«#00ff00»➑«»	Dingbat Negative Circled Sans-serif Digit Eight
+«#00ff00»➒«»	Dingbat Negative Circled Sans-serif Digit Nine
+«#00ff00»➓«»	Dingbat Negative Circled Sans-serif Number Ten
+«#00ff00»➔«»	Heavy Wide-headed Rightwards Arrow
+«#00ff00»➕«»	Heavy Plus Sign
+«#00ff00»➖«»	Heavy Minus Sign
+«#00ff00»➗«»	Heavy Division Sign
+«#00ff00»➘«»	Heavy South East Arrow
+«#00ff00»➙«»	Heavy Rightwards Arrow
+«#00ff00»➚«»	Heavy North East Arrow
+«#00ff00»➛«»	Drafting Point Rightwards Arrow
+«#00ff00»➜«»	Heavy Round-tipped Rightwards Arrow
+«#00ff00»➝«»	Triangle-headed Rightwards Arrow
+«#00ff00»➞«»	Heavy Triangle-headed Rightwards Arrow
+«#00ff00»➟«»	Dashed Triangle-headed Rightwards Arrow
+«#00ff00»➠«»	Heavy Dashed Triangle-headed Rightwards Arrow
+«#00ff00»➡«»	Black Rightwards Arrow
+«#00ff00»➢«»	Three-d Top-lighted Rightwards Arrowhead
+«#00ff00»➣«»	Three-d Bottom-lighted Rightwards Arrowhead
+«#00ff00»➤«»	Black Rightwards Arrowhead
+«#00ff00»➥«»	Heavy Black Curved Downwards and Rightwards Arrow
+«#00ff00»➦«»	Heavy Black Curved Upwards and Rightwards Arrow
+«#00ff00»➧«»	Squat Black Rightwards Arrow
+«#00ff00»➨«»	Heavy Concave-pointed Black Rightwards Arrow
+«#00ff00»➩«»	Right-shaded White Rightwards Arrow
+«#00ff00»➪«»	Left-shaded White Rightwards Arrow
+«#00ff00»➫«»	Back-tilted Shadowed White Rightwards Arrow
+«#00ff00»➬«»	Front-tilted Shadowed White Rightwards Arrow
+«#00ff00»➭«»	Heavy Lower Right-shadowed White Rightwards Arrow
+«#00ff00»➮«»	Heavy Upper Right-shadowed White Rightwards Arrow
+«#00ff00»➯«»	Notched Lower Right-shadowed White Rightwards Arrow
+«#00ff00»➰«»	Curly Loop
+«#00ff00»➱«»	Notched Upper Right-shadowed White Rightwards Arrow
+«#00ff00»➲«»	Circled Heavy White Rightwards Arrow
+«#00ff00»➳«»	White-feathered Rightwards Arrow
+«#00ff00»➴«»	Black-feathered South East Arrow
+«#00ff00»➵«»	Black-feathered Rightwards Arrow
+«#00ff00»➶«»	Black-feathered North East Arrow
+«#00ff00»➷«»	Heavy Black-feathered South East Arrow
+«#00ff00»➸«»	Heavy Black-feathered Rightwards Arrow
+«#00ff00»➹«»	Heavy Black-feathered North East Arrow
+«#00ff00»➺«»	Teardrop-barbed Rightwards Arrow
+«#00ff00»➻«»	Heavy Teardrop-shanked Rightwards Arrow
+«#00ff00»➼«»	Wedge-tailed Rightwards Arrow
+«#00ff00»➽«»	Heavy Wedge-tailed Rightwards Arrow
+«#00ff00»➾«»	Open-outlined Rightwards Arrow
+«#00ff00»➿«»	Double Curly Loop", },
+        ]
+    },
+    {
+        "name": "Miscellaneous Technical",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⌀⌁⌂⌃⌄⌅⌆⌇⌈⌉⌊⌋⌌⌍⌎⌏⌐⌑⌒⌓⌔⌕⌖⌗⌘⌙⌚⌛⌜⌝⌞⌟⌠⌡⌢⌣⌤⌥⌦⌧
+⌨〈〉⌫⌬⌭⌮⌯⌰⌱⌲⌳⌴⌵⌶⌷⌸⌹⌺⌻⌼⌽⌾⌿⍀⍁⍂⍃⍄⍅⍆⍇⍈⍉⍊⍋⍌⍍⍎⍏
+⍐⍑⍒⍓⍔⍕⍖⍗⍘⍙⍚⍛⍜⍝⍞⍟⍠⍡⍢⍣⍤⍥⍦⍧⍨⍩⍪⍫⍬⍭⍮⍯⍰⍱⍲⍳⍴⍵⍶⍷
+⍸⍹⍺⍻⍼⍽⍾⍿⎀⎁⎂⎃⎄⎅⎆⎇⎈⎉⎊⎋⎌⎍⎎⎏⎐⎑⎒⎓⎔⎕⎖⎗⎘⎙⎚⎛⎜⎝⎞⎟
+⎠⎡⎢⎣⎤⎥⎦⎧⎨⎩⎪⎫⎬⎭⎮⎯⎰⎱⎲⎳⎴⎵⎶⎷⎸⎹⎺⎻⎼⎽⎾⎿⏀⏁⏂⏃⏄⏅⏆⏇
+⏈⏉⏊⏋⏌⏍⏎⏏⏐⏑⏒⏓⏔⏕⏖⏗⏘⏙⏚⏛⏜⏝⏞⏟⏠⏡⏢⏣⏤⏥⏦⏧⏨⏩⏪⏫⏬⏭⏮⏯
+⏰⏱⏲⏳⏴⏵⏶⏷⏸⏹⏺⏻⏼⏽⏾⏿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2300",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⌀«»	Diameter Sign
+«#00ff00»⌁«»	Electric Arrow
+«#00ff00»⌂«»	House
+«#00ff00»⌃«»	Up Arrowhead
+«#00ff00»⌄«»	Down Arrowhead
+«#00ff00»⌅«»	Projective
+«#00ff00»⌆«»	Perspective
+«#00ff00»⌇«»	Wavy Line
+«#00ff00»⌈«»	Left Ceiling
+«#00ff00»⌉«»	Right Ceiling
+«#00ff00»⌊«»	Left Floor
+«#00ff00»⌋«»	Right Floor
+«#00ff00»⌌«»	Bottom Right Crop
+«#00ff00»⌍«»	Bottom Left Crop
+«#00ff00»⌎«»	Top Right Crop
+«#00ff00»⌏«»	Top Left Crop
+«#00ff00»⌐«»	Reversed Not Sign
+«#00ff00»⌑«»	Square Lozenge
+«#00ff00»⌒«»	Arc
+«#00ff00»⌓«»	Segment
+«#00ff00»⌔«»	Sector
+«#00ff00»⌕«»	Telephone Recorder
+«#00ff00»⌖«»	Position Indicator
+«#00ff00»⌗«»	Viewdata Square
+«#00ff00»⌘«»	Place of Interest Sign
+«#00ff00»⌙«»	Turned Not Sign
+«#00ff00»⌚«»	Watch
+«#00ff00»⌛«»	Hourglass
+«#00ff00»⌜«»	Top Left Corner
+«#00ff00»⌝«»	Top Right Corner
+«#00ff00»⌞«»	Bottom Left Corner
+«#00ff00»⌟«»	Bottom Right Corner
+«#00ff00»⌠«»	Top Half Integral
+«#00ff00»⌡«»	Bottom Half Integral
+«#00ff00»⌢«»	Frown
+«#00ff00»⌣«»	Smile
+«#00ff00»⌤«»	Up Arrowhead Between Two Horizontal Bars
+«#00ff00»⌥«»	Option Key
+«#00ff00»⌦«»	Erase To The Right
+«#00ff00»⌧«»	X In A Rectangle Box
+«#00ff00»⌨«»	Keyboard
+«#00ff00»〈«»	Left-pointing Angle Bracket
+«#00ff00»〉«»	Right-pointing Angle Bracket
+«#00ff00»⌫«»	Erase To The Left
+«#00ff00»⌬«»	Benzene Ring
+«#00ff00»⌭«»	Cylindricity
+«#00ff00»⌮«»	All Around-profile
+«#00ff00»⌯«»	Symmetry
+«#00ff00»⌰«»	Total Runout
+«#00ff00»⌱«»	Dimension Origin
+«#00ff00»⌲«»	Conical Taper
+«#00ff00»⌳«»	Slope
+«#00ff00»⌴«»	Counterbore
+«#00ff00»⌵«»	Countersink
+«#00ff00»⌶«»	Apl Functional Symbol I-beam
+«#00ff00»⌷«»	Apl Functional Symbol Squish Quad
+«#00ff00»⌸«»	Apl Functional Symbol Quad Equal
+«#00ff00»⌹«»	Apl Functional Symbol Quad Divide
+«#00ff00»⌺«»	Apl Functional Symbol Quad Diamond
+«#00ff00»⌻«»	Apl Functional Symbol Quad Jot
+«#00ff00»⌼«»	Apl Functional Symbol Quad Circle
+«#00ff00»⌽«»	Apl Functional Symbol Circle Stile
+«#00ff00»⌾«»	Apl Functional Symbol Circle Jot
+«#00ff00»⌿«»	Apl Functional Symbol Slash Bar
+«#00ff00»⍀«»	Apl Functional Symbol Backslash Bar
+«#00ff00»⍁«»	Apl Functional Symbol Quad Slash
+«#00ff00»⍂«»	Apl Functional Symbol Quad Backslash
+«#00ff00»⍃«»	Apl Functional Symbol Quad Less-than
+«#00ff00»⍄«»	Apl Functional Symbol Quad Greater-than
+«#00ff00»⍅«»	Apl Functional Symbol Leftwards Vane
+«#00ff00»⍆«»	Apl Functional Symbol Rightwards Vane
+«#00ff00»⍇«»	Apl Functional Symbol Quad Leftwards Arrow
+«#00ff00»⍈«»	Apl Functional Symbol Quad Rightwards Arrow
+«#00ff00»⍉«»	Apl Functional Symbol Circle Backslash
+«#00ff00»⍊«»	Apl Functional Symbol Down Tack Underbar
+«#00ff00»⍋«»	Apl Functional Symbol Delta Stile
+«#00ff00»⍌«»	Apl Functional Symbol Quad Down Caret
+«#00ff00»⍍«»	Apl Functional Symbol Quad Delta
+«#00ff00»⍎«»	Apl Functional Symbol Down Tack Jot
+«#00ff00»⍏«»	Apl Functional Symbol Upwards Vane
+«#00ff00»⍐«»	Apl Functional Symbol Quad Upwards Arrow
+«#00ff00»⍑«»	Apl Functional Symbol Up Tack Overbar
+«#00ff00»⍒«»	Apl Functional Symbol Del Stile
+«#00ff00»⍓«»	Apl Functional Symbol Quad Up Caret
+«#00ff00»⍔«»	Apl Functional Symbol Quad Del
+«#00ff00»⍕«»	Apl Functional Symbol Up Tack Jot
+«#00ff00»⍖«»	Apl Functional Symbol Downwards Vane
+«#00ff00»⍗«»	Apl Functional Symbol Quad Downwards Arrow
+«#00ff00»⍘«»	Apl Functional Symbol Quote Underbar
+«#00ff00»⍙«»	Apl Functional Symbol Delta Underbar
+«#00ff00»⍚«»	Apl Functional Symbol Diamond Underbar
+«#00ff00»⍛«»	Apl Functional Symbol Jot Underbar
+«#00ff00»⍜«»	Apl Functional Symbol Circle Underbar
+«#00ff00»⍝«»	Apl Functional Symbol Up Shoe Jot
+«#00ff00»⍞«»	Apl Functional Symbol Quote Quad
+«#00ff00»⍟«»	Apl Functional Symbol Circle Star
+«#00ff00»⍠«»	Apl Functional Symbol Quad Colon
+«#00ff00»⍡«»	Apl Functional Symbol Up Tack Diaeresis
+«#00ff00»⍢«»	Apl Functional Symbol Del Diaeresis
+«#00ff00»⍣«»	Apl Functional Symbol Star Diaeresis
+«#00ff00»⍤«»	Apl Functional Symbol Jot Diaeresis
+«#00ff00»⍥«»	Apl Functional Symbol Circle Diaeresis
+«#00ff00»⍦«»	Apl Functional Symbol Down Shoe Stile
+«#00ff00»⍧«»	Apl Functional Symbol Left Shoe Stile
+«#00ff00»⍨«»	Apl Functional Symbol Tilde Diaeresis
+«#00ff00»⍩«»	Apl Functional Symbol Greater-than Diaeresis
+«#00ff00»⍪«»	Apl Functional Symbol Comma Bar
+«#00ff00»⍫«»	Apl Functional Symbol Del Tilde
+«#00ff00»⍬«»	Apl Functional Symbol Zilde
+«#00ff00»⍭«»	Apl Functional Symbol Stile Tilde
+«#00ff00»⍮«»	Apl Functional Symbol Semicolon Underbar
+«#00ff00»⍯«»	Apl Functional Symbol Quad Not Equal
+«#00ff00»⍰«»	Apl Functional Symbol Quad Question
+«#00ff00»⍱«»	Apl Functional Symbol Down Caret Tilde
+«#00ff00»⍲«»	Apl Functional Symbol Up Caret Tilde
+«#00ff00»⍳«»	Apl Functional Symbol Iota
+«#00ff00»⍴«»	Apl Functional Symbol Rho
+«#00ff00»⍵«»	Apl Functional Symbol Omega
+«#00ff00»⍶«»	Apl Functional Symbol Alpha Underbar
+«#00ff00»⍷«»	Apl Functional Symbol Epsilon Underbar
+«#00ff00»⍸«»	Apl Functional Symbol Iota Underbar
+«#00ff00»⍹«»	Apl Functional Symbol Omega Underbar
+«#00ff00»⍺«»	Apl Functional Symbol Alpha
+«#00ff00»⍻«»	Not Check Mark
+«#00ff00»⍼«»	Right Angle with Downwards Zigzag Arrow
+«#00ff00»⍽«»	Shouldered Open Box
+«#00ff00»⍾«»	Bell Symbol
+«#00ff00»⍿«»	Vertical Line with Middle Dot
+«#00ff00»⎀«»	Insertion Symbol
+«#00ff00»⎁«»	Continuous Underline Symbol
+«#00ff00»⎂«»	Discontinuous Underline Symbol
+«#00ff00»⎃«»	Emphasis Symbol
+«#00ff00»⎄«»	Composition Symbol
+«#00ff00»⎅«»	White Square with Centre Vertical Line
+«#00ff00»⎆«»	Enter Symbol
+«#00ff00»⎇«»	Alternative Key Symbol
+«#00ff00»⎈«»	Helm Symbol
+«#00ff00»⎉«»	Circled Horizontal Bar with Notch
+«#00ff00»⎊«»	Circled Triangle Down
+«#00ff00»⎋«»	Broken Circle with Northwest Arrow
+«#00ff00»⎌«»	Undo Symbol
+«#00ff00»⎍«»	Monostable Symbol
+«#00ff00»⎎«»	Hysteresis Symbol
+«#00ff00»⎏«»	Open-circuit-output H-type Symbol
+«#00ff00»⎐«»	Open-circuit-output L-type Symbol
+«#00ff00»⎑«»	Passive-pull-down-output Symbol
+«#00ff00»⎒«»	Passive-pull-up-output Symbol
+«#00ff00»⎓«»	Direct Current Symbol Form Two
+«#00ff00»⎔«»	Software-function Symbol
+«#00ff00»⎕«»	Apl Functional Symbol Quad
+«#00ff00»⎖«»	Decimal Separator Key Symbol
+«#00ff00»⎗«»	Previous Page
+«#00ff00»⎘«»	Next Page
+«#00ff00»⎙«»	Print Screen Symbol
+«#00ff00»⎚«»	Clear Screen Symbol
+«#00ff00»⎛«»	Left Parenthesis Upper Hook
+«#00ff00»⎜«»	Left Parenthesis Extension
+«#00ff00»⎝«»	Left Parenthesis Lower Hook
+«#00ff00»⎞«»	Right Parenthesis Upper Hook
+«#00ff00»⎟«»	Right Parenthesis Extension
+«#00ff00»⎠«»	Right Parenthesis Lower Hook
+«#00ff00»⎡«»	Left Square Bracket Upper Corner
+«#00ff00»⎢«»	Left Square Bracket Extension
+«#00ff00»⎣«»	Left Square Bracket Lower Corner
+«#00ff00»⎤«»	Right Square Bracket Upper Corner
+«#00ff00»⎥«»	Right Square Bracket Extension
+«#00ff00»⎦«»	Right Square Bracket Lower Corner
+«#00ff00»⎧«»	Left Curly Bracket Upper Hook
+«#00ff00»⎨«»	Left Curly Bracket Middle Piece
+«#00ff00»⎩«»	Left Curly Bracket Lower Hook
+«#00ff00»⎪«»	Curly Bracket Extension
+«#00ff00»⎫«»	Right Curly Bracket Upper Hook
+«#00ff00»⎬«»	Right Curly Bracket Middle Piece
+«#00ff00»⎭«»	Right Curly Bracket Lower Hook
+«#00ff00»⎮«»	Integral Extension
+«#00ff00»⎯«»	Horizontal Line Extension
+«#00ff00»⎰«»	Upper Left or Lower Right Curly Bracket Section
+«#00ff00»⎱«»	Upper Right or Lower Left Curly Bracket Section
+«#00ff00»⎲«»	Summation Top
+«#00ff00»⎳«»	Summation Bottom
+«#00ff00»⎴«»	Top Square Bracket
+«#00ff00»⎵«»	Bottom Square Bracket
+«#00ff00»⎶«»	Bottom Square Bracket Over Top Square Bracket
+«#00ff00»⎷«»	Radical Symbol Bottom
+«#00ff00»⎸«»	Left Vertical Box Line
+«#00ff00»⎹«»	Right Vertical Box Line
+«#00ff00»⎺«»	Horizontal Scan Line-1
+«#00ff00»⎻«»	Horizontal Scan Line-3
+«#00ff00»⎼«»	Horizontal Scan Line-7
+«#00ff00»⎽«»	Horizontal Scan Line-9
+«#00ff00»⎾«»	Dentistry Symbol Light Vertical and Top Right
+«#00ff00»⎿«»	Dentistry Symbol Light Vertical and Bottom Right
+«#00ff00»⏀«»	Dentistry Symbol Light Vertical with Circle
+«#00ff00»⏁«»	Dentistry Symbol Light Down and Horizontal with Circle
+«#00ff00»⏂«»	Dentistry Symbol Light Up and Horizontal with Circle
+«#00ff00»⏃«»	Dentistry Symbol Light Vertical with Triangle
+«#00ff00»⏄«»	Dentistry Symbol Light Down and Horizontal with Triangle
+«#00ff00»⏅«»	Dentistry Symbol Light Up and Horizontal with Triangle
+«#00ff00»⏆«»	Dentistry Symbol Light Vertical and Wave
+«#00ff00»⏇«»	Dentistry Symbol Light Down and Horizontal with Wave
+«#00ff00»⏈«»	Dentistry Symbol Light Up and Horizontal with Wave
+«#00ff00»⏉«»	Dentistry Symbol Light Down and Horizontal
+«#00ff00»⏊«»	Dentistry Symbol Light Up and Horizontal
+«#00ff00»⏋«»	Dentistry Symbol Light Vertical and Top Left
+«#00ff00»⏌«»	Dentistry Symbol Light Vertical and Bottom Left
+«#00ff00»⏍«»	Square Foot
+«#00ff00»⏎«»	Return Symbol
+«#00ff00»⏏«»	Eject Symbol
+«#00ff00»⏐«»	Vertical Line Extension
+«#00ff00»⏑«»	Metrical Breve
+«#00ff00»⏒«»	Metrical Long Over Short
+«#00ff00»⏓«»	Metrical Short Over Long
+«#00ff00»⏔«»	Metrical Long Over Two Shorts
+«#00ff00»⏕«»	Metrical Two Shorts Over Long
+«#00ff00»⏖«»	Metrical Two Shorts Joined
+«#00ff00»⏗«»	Metrical Triseme
+«#00ff00»⏘«»	Metrical Tetraseme
+«#00ff00»⏙«»	Metrical Pentaseme
+«#00ff00»⏚«»	Earth Ground
+«#00ff00»⏛«»	Fuse
+«#00ff00»⏜«»	Top Parenthesis
+«#00ff00»⏝«»	Bottom Parenthesis
+«#00ff00»⏞«»	Top Curly Bracket
+«#00ff00»⏟«»	Bottom Curly Bracket
+«#00ff00»⏠«»	Top Tortoise Shell Bracket
+«#00ff00»⏡«»	Bottom Tortoise Shell Bracket
+«#00ff00»⏢«»	White Trapezium
+«#00ff00»⏣«»	Benzene Ring with Circle
+«#00ff00»⏤«»	Straightness
+«#00ff00»⏥«»	Flatness
+«#00ff00»⏦«»	Ac Current
+«#00ff00»⏧«»	Electrical Intersection
+«#00ff00»⏨«»	Decimal Exponent Symbol
+«#00ff00»⏩«»	Black Right-pointing Double Triangle
+«#00ff00»⏪«»	Black Left-pointing Double Triangle
+«#00ff00»⏫«»	Black Up-pointing Double Triangle
+«#00ff00»⏬«»	Black Down-pointing Double Triangle
+«#00ff00»⏭«»	Black Right-pointing Double Triangle with Vertical Bar
+«#00ff00»⏮«»	Black Left-pointing Double Triangle with Vertical Bar
+«#00ff00»⏯«»	Black Right-pointing Triangle with Double Vertical Bar
+«#00ff00»⏰«»	Alarm Clock
+«#00ff00»⏱«»	Stopwatch
+«#00ff00»⏲«»	Timer Clock
+«#00ff00»⏳«»	Hourglass with Flowing Sand
+«#00ff00»⏴«»	Black Medium Left-pointing Triangle
+«#00ff00»⏵«»	Black Medium Right-pointing Triangle
+«#00ff00»⏶«»	Black Medium Up-pointing Triangle
+«#00ff00»⏷«»	Black Medium Down-pointing Triangle
+«#00ff00»⏸«»	Double Vertical Bar
+«#00ff00»⏹«»	Black Square for Stop
+«#00ff00»⏺«»	Black Circle for Record
+«#00ff00»⏻«»	Power Symbol
+«#00ff00»⏼«»	Power On-off Symbol
+«#00ff00»⏽«»	Power On Symbol
+«#00ff00»⏾«»	Power Sleep Symbol
+«#00ff00»⏿«»	Observer Eye Symbol", },
+        ]
+    },
+    {
+        "name": "Greek and Coptic",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+ͰͱͲͳʹ͵Ͷͷͺͻͼͽ;Ϳ΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ
+ΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψ
+ωϊϋόύώϏϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰ
+ϱϲϳϴϵ϶ϷϸϹϺϻϼϽϾϿ", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+0370",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»Ͱ«»	Greek Capital Letter Heta
+«#00ff00»ͱ«»	Greek Small Letter Heta
+«#00ff00»Ͳ«»	Greek Capital Letter Archaic Sampi
+«#00ff00»ͳ«»	Greek Small Letter Archaic Sampi
+«#00ff00»ʹ«»	Greek Numeral Sign
+«#00ff00»͵«»	Greek Lower Numeral Sign
+«#00ff00»Ͷ«»	Greek Capital Letter Pamphylian Digamma
+«#00ff00»ͷ«»	Greek Small Letter Pamphylian Digamma
+«#00ff00»ͺ«»	Greek Ypogegrammeni
+«#00ff00»ͻ«»	Greek Small Reversed Lunate Sigma Symbol
+«#00ff00»ͼ«»	Greek Small Dotted Lunate Sigma Symbol
+«#00ff00»ͽ«»	Greek Small Reversed Dotted Lunate Sigma Symbol
+«#00ff00»;«»	Greek Question Mark
+«#00ff00»Ϳ«»	Greek Capital Letter Yot
+«#00ff00»΄«»	Greek Tonos
+«#00ff00»΅«»	Greek Dialytika Tonos
+«#00ff00»Ά«»	Greek Capital Letter Alpha with Tonos
+«#00ff00»·«»	Greek Ano Teleia
+«#00ff00»Έ«»	Greek Capital Letter Epsilon with Tonos
+«#00ff00»Ή«»	Greek Capital Letter Eta with Tonos
+«#00ff00»Ί«»	Greek Capital Letter Iota with Tonos
+«#00ff00»Ό«»	Greek Capital Letter Omicron with Tonos
+«#00ff00»Ύ«»	Greek Capital Letter Upsilon with Tonos
+«#00ff00»Ώ«»	Greek Capital Letter Omega with Tonos
+«#00ff00»ΐ«»	Greek Small Letter Iota with Dialytika and Tonos
+«#00ff00»Α«»	Greek Capital Letter Alpha
+«#00ff00»Β«»	Greek Capital Letter Beta
+«#00ff00»Γ«»	Greek Capital Letter Gamma
+«#00ff00»Δ«»	Greek Capital Letter Delta
+«#00ff00»Ε«»	Greek Capital Letter Epsilon
+«#00ff00»Ζ«»	Greek Capital Letter Zeta
+«#00ff00»Η«»	Greek Capital Letter Eta
+«#00ff00»Θ«»	Greek Capital Letter Theta
+«#00ff00»Ι«»	Greek Capital Letter Iota
+«#00ff00»Κ«»	Greek Capital Letter Kappa
+«#00ff00»Λ«»	Greek Capital Letter Lamda
+«#00ff00»Μ«»	Greek Capital Letter Mu
+«#00ff00»Ν«»	Greek Capital Letter Nu
+«#00ff00»Ξ«»	Greek Capital Letter Xi
+«#00ff00»Ο«»	Greek Capital Letter Omicron
+«#00ff00»Π«»	Greek Capital Letter Pi
+«#00ff00»Ρ«»	Greek Capital Letter Rho
+«#00ff00»Σ«»	Greek Capital Letter Sigma
+«#00ff00»Τ«»	Greek Capital Letter Tau
+«#00ff00»Υ«»	Greek Capital Letter Upsilon
+«#00ff00»Φ«»	Greek Capital Letter Phi
+«#00ff00»Χ«»	Greek Capital Letter Chi
+«#00ff00»Ψ«»	Greek Capital Letter Psi
+«#00ff00»Ω«»	Greek Capital Letter Omega
+«#00ff00»Ϊ«»	Greek Capital Letter Iota with Dialytika
+«#00ff00»Ϋ«»	Greek Capital Letter Upsilon with Dialytika
+«#00ff00»ά«»	Greek Small Letter Alpha with Tonos
+«#00ff00»έ«»	Greek Small Letter Epsilon with Tonos
+«#00ff00»ή«»	Greek Small Letter Eta with Tonos
+«#00ff00»ί«»	Greek Small Letter Iota with Tonos
+«#00ff00»ΰ«»	Greek Small Letter Upsilon with Dialytika and Tonos
+«#00ff00»α«»	Greek Small Letter Alpha
+«#00ff00»β«»	Greek Small Letter Beta
+«#00ff00»γ«»	Greek Small Letter Gamma
+«#00ff00»δ«»	Greek Small Letter Delta
+«#00ff00»ε«»	Greek Small Letter Epsilon
+«#00ff00»ζ«»	Greek Small Letter Zeta
+«#00ff00»η«»	Greek Small Letter Eta
+«#00ff00»θ«»	Greek Small Letter Theta
+«#00ff00»ι«»	Greek Small Letter Iota
+«#00ff00»κ«»	Greek Small Letter Kappa
+«#00ff00»λ«»	Greek Small Letter Lamda
+«#00ff00»μ«»	Greek Small Letter Mu
+«#00ff00»ν«»	Greek Small Letter Nu
+«#00ff00»ξ«»	Greek Small Letter Xi
+«#00ff00»ο«»	Greek Small Letter Omicron
+«#00ff00»π«»	Greek Small Letter Pi
+«#00ff00»ρ«»	Greek Small Letter Rho
+«#00ff00»ς«»	Greek Small Letter Final Sigma
+«#00ff00»σ«»	Greek Small Letter Sigma
+«#00ff00»τ«»	Greek Small Letter Tau
+«#00ff00»υ«»	Greek Small Letter Upsilon
+«#00ff00»φ«»	Greek Small Letter Phi
+«#00ff00»χ«»	Greek Small Letter Chi
+«#00ff00»ψ«»	Greek Small Letter Psi
+«#00ff00»ω«»	Greek Small Letter Omega
+«#00ff00»ϊ«»	Greek Small Letter Iota with Dialytika
+«#00ff00»ϋ«»	Greek Small Letter Upsilon with Dialytika
+«#00ff00»ό«»	Greek Small Letter Omicron with Tonos
+«#00ff00»ύ«»	Greek Small Letter Upsilon with Tonos
+«#00ff00»ώ«»	Greek Small Letter Omega with Tonos
+«#00ff00»Ϗ«»	Greek Capital Kai Symbol
+«#00ff00»ϐ«»	Greek Beta Symbol
+«#00ff00»ϑ«»	Greek Theta Symbol
+«#00ff00»ϒ«»	Greek Upsilon with Hook Symbol
+«#00ff00»ϓ«»	Greek Upsilon with Acute and Hook Symbol
+«#00ff00»ϔ«»	Greek Upsilon with Diaeresis and Hook Symbol
+«#00ff00»ϕ«»	Greek Phi Symbol
+«#00ff00»ϖ«»	Greek Pi Symbol
+«#00ff00»ϗ«»	Greek Kai Symbol
+«#00ff00»Ϙ«»	Greek Letter Archaic Koppa
+«#00ff00»ϙ«»	Greek Small Letter Archaic Koppa
+«#00ff00»Ϛ«»	Greek Letter Stigma
+«#00ff00»ϛ«»	Greek Small Letter Stigma
+«#00ff00»Ϝ«»	Greek Letter Digamma
+«#00ff00»ϝ«»	Greek Small Letter Digamma
+«#00ff00»Ϟ«»	Greek Letter Koppa
+«#00ff00»ϟ«»	Greek Small Letter Koppa
+«#00ff00»Ϡ«»	Greek Letter Sampi
+«#00ff00»ϡ«»	Greek Small Letter Sampi
+«#00ff00»Ϣ«»	Coptic Capital Letter Shei
+«#00ff00»ϣ«»	Coptic Small Letter Shei
+«#00ff00»Ϥ«»	Coptic Capital Letter Fei
+«#00ff00»ϥ«»	Coptic Small Letter Fei
+«#00ff00»Ϧ«»	Coptic Capital Letter Khei
+«#00ff00»ϧ«»	Coptic Small Letter Khei
+«#00ff00»Ϩ«»	Coptic Capital Letter Hori
+«#00ff00»ϩ«»	Coptic Small Letter Hori
+«#00ff00»Ϫ«»	Coptic Capital Letter Gangia
+«#00ff00»ϫ«»	Coptic Small Letter Gangia
+«#00ff00»Ϭ«»	Coptic Capital Letter Shima
+«#00ff00»ϭ«»	Coptic Small Letter Shima
+«#00ff00»Ϯ«»	Coptic Capital Letter Dei
+«#00ff00»ϯ«»	Coptic Small Letter Dei
+«#00ff00»ϰ«»	Greek Kappa Symbol
+«#00ff00»ϱ«»	Greek Rho Symbol
+«#00ff00»ϲ«»	Greek Lunate Sigma Symbol
+«#00ff00»ϳ«»	Greek Letter Yot
+«#00ff00»ϴ«»	Greek Capital Theta Symbol
+«#00ff00»ϵ«»	Greek Lunate Epsilon Symbol
+«#00ff00»϶«»	Greek Reversed Lunate Epsilon Symbol
+«#00ff00»Ϸ«»	Greek Capital Letter Sho
+«#00ff00»ϸ«»	Greek Small Letter Sho
+«#00ff00»Ϲ«»	Greek Capital Lunate Sigma Symbol
+«#00ff00»Ϻ«»	Greek Capital Letter San
+«#00ff00»ϻ«»	Greek Small Letter San
+«#00ff00»ϼ«»	Greek Rho with Stroke Symbol
+«#00ff00»Ͻ«»	Greek Capital Reversed Lunate Sigma Symbol
+«#00ff00»Ͼ«»	Greek Capital Dotted Lunate Sigma Symbol
+«#00ff00»Ͽ«»	Greek Capital Reversed Dotted Lunate Sigma Symbol", },
+        ]
+    },
+
 
 ]
