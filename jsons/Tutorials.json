@@ -1287,6 +1287,2087 @@ Florence = ⟰Florence
 «#00ff00»Ͽ«»	Greek Capital Reversed Dotted Lunate Sigma Symbol", },
         ]
     },
+    {
+        "name": "Miscellaneous Symbols and Arrows",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⬀⬁⬂⬃⬄⬅⬆⬇⬈⬉⬊⬋⬌⬍⬎⬏⬐⬑⬒⬓⬔⬕⬖⬗⬘⬙⬚⬛⬜⬝⬞⬟⬠⬡⬢⬣⬤⬥
+⬦⬧⬨⬩⬪⬫⬬⬭⬮⬯⬰⬱⬲⬳⬴⬵⬶⬷⬸⬹⬺⬻⬼⬽⬾⬿⭀⭁⭂⭃⭄⭅⭆⭇⭈⭉⭊⭋
+⭌⭍⭎⭏⭐⭑⭒⭓⭔⭕⭖⭗⭘⭙⭚⭛⭜⭝⭞⭟⭠⭡⭢⭣⭤⭥⭦⭧⭨⭩⭪⭫⭬⭭⭮⭯⭰⭱
+⭲⭳⭶⭷⭸⭹⭺⭻⭼⭽⭾⭿⮀⮁⮂⮃⮄⮅⮆⮇⮈⮉⮊⮋⮌⮍⮎⮏⮐⮑⮒⮓⮔⮕⮗⮘⮙⮚
+⮛⮜⮝⮞⮟⮠⮡⮢⮣⮤⮥⮦⮧⮨⮩⮪⮫⮬⮭⮮⮯⮰⮱⮲⮳⮴⮵⮶⮷⮸⮹⮺⮻⮼⮽⮾⮿⯀
+⯁⯂⯃⯄⯅⯆⯇⯈⯉⯊⯋⯌⯍⯎⯏⯐⯑⯒⯓⯔⯕⯖⯗⯘⯙⯚⯛⯜⯝⯞⯟⯠⯡⯢⯣⯤⯥⯦
+⯧⯨⯩⯪⯫⯬⯭⯮⯯⯰⯱⯲⯳⯴⯵⯶⯷⯸⯹⯺⯻⯼⯽⯾⯿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2B00",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⬀«»	North East White Arrow
+«#00ff00»⬁«»	North West White Arrow
+«#00ff00»⬂«»	South East White Arrow
+«#00ff00»⬃«»	South West White Arrow
+«#00ff00»⬄«»	Left Right White Arrow
+«#00ff00»⬅«»	Leftwards Black Arrow
+«#00ff00»⬆«»	Upwards Black Arrow
+«#00ff00»⬇«»	Downwards Black Arrow
+«#00ff00»⬈«»	North East Black Arrow
+«#00ff00»⬉«»	North West Black Arrow
+«#00ff00»⬊«»	South East Black Arrow
+«#00ff00»⬋«»	South West Black Arrow
+«#00ff00»⬌«»	Left Right Black Arrow
+«#00ff00»⬍«»	Up Down Black Arrow
+«#00ff00»⬎«»	Rightwards Arrow with Tip Downwards
+«#00ff00»⬏«»	Rightwards Arrow with Tip Upwards
+«#00ff00»⬐«»	Leftwards Arrow with Tip Downwards
+«#00ff00»⬑«»	Leftwards Arrow with Tip Upwards
+«#00ff00»⬒«»	Square with Top Half Black
+«#00ff00»⬓«»	Square with Bottom Half Black
+«#00ff00»⬔«»	Square with Upper Right Diagonal Half Black
+«#00ff00»⬕«»	Square with Lower Left Diagonal Half Black
+«#00ff00»⬖«»	Diamond with Left Half Black
+«#00ff00»⬗«»	Diamond with Right Half Black
+«#00ff00»⬘«»	Diamond with Top Half Black
+«#00ff00»⬙«»	Diamond with Bottom Half Black
+«#00ff00»⬚«»	Dotted Square
+«#00ff00»⬛«»	Black Large Square
+«#00ff00»⬜«»	White Large Square
+«#00ff00»⬝«»	Black Very Small Square
+«#00ff00»⬞«»	White Very Small Square
+«#00ff00»⬟«»	Black Pentagon
+«#00ff00»⬠«»	White Pentagon
+«#00ff00»⬡«»	White Hexagon
+«#00ff00»⬢«»	Black Hexagon
+«#00ff00»⬣«»	Horizontal Black Hexagon
+«#00ff00»⬤«»	Black Large Circle
+«#00ff00»⬥«»	Black Medium Diamond
+«#00ff00»⬦«»	White Medium Diamond
+«#00ff00»⬧«»	Black Medium Lozenge
+«#00ff00»⬨«»	White Medium Lozenge
+«#00ff00»⬩«»	Black Small Diamond
+«#00ff00»⬪«»	Black Small Lozenge
+«#00ff00»⬫«»	White Small Lozenge
+«#00ff00»⬬«»	Black Horizontal Ellipse
+«#00ff00»⬭«»	White Horizontal Ellipse
+«#00ff00»⬮«»	Black Vertical Ellipse
+«#00ff00»⬯«»	White Vertical Ellipse
+«#00ff00»⬰«»	Left Arrow with Small Circle
+«#00ff00»⬱«»	Three Leftwards Arrows
+«#00ff00»⬲«»	Left Arrow with Circled Plus
+«#00ff00»⬳«»	Long Leftwards Squiggle Arrow
+«#00ff00»⬴«»	Leftwards Two-headed Arrow with Vertical Stroke
+«#00ff00»⬵«»	Leftwards Two-headed Arrow with Double Vertical Stroke
+«#00ff00»⬶«»	Leftwards Two-headed Arrow From Bar
+«#00ff00»⬷«»	Leftwards Two-headed Triple Dash Arrow
+«#00ff00»⬸«»	Leftwards Arrow with Dotted Stem
+«#00ff00»⬹«»	Leftwards Arrow with Tail with Vertical Stroke
+«#00ff00»⬺«»	Leftwards Arrow with Tail with Double Vertical Stroke
+«#00ff00»⬻«»	Leftwards Two-headed Arrow with Tail
+«#00ff00»⬼«»	Leftwards Two-headed Arrow with Tail with Vertical Stroke
+«#00ff00»⬽«»	Leftwards Two-headed Arrow with Tail with Double Vertical Stroke
+«#00ff00»⬾«»	Leftwards Arrow Through X
+«#00ff00»⬿«»	Wave Arrow Pointing Directly Left
+«#00ff00»⭀«»	Equals Sign Above Leftwards Arrow
+«#00ff00»⭁«»	Reverse Tilde Operator Above Leftwards Arrow
+«#00ff00»⭂«»	Leftwards Arrow Above Reverse Almost Equal To
+«#00ff00»⭃«»	Rightwards Arrow Through Greater-than
+«#00ff00»⭄«»	Rightwards Arrow Through Superset
+«#00ff00»⭅«»	Leftwards Quadruple Arrow
+«#00ff00»⭆«»	Rightwards Quadruple Arrow
+«#00ff00»⭇«»	Reverse Tilde Operator Above Rightwards Arrow
+«#00ff00»⭈«»	Rightwards Arrow Above Reverse Almost Equal To
+«#00ff00»⭉«»	Tilde Operator Above Leftwards Arrow
+«#00ff00»⭊«»	Leftwards Arrow Above Almost Equal To
+«#00ff00»⭋«»	Leftwards Arrow Above Reverse Tilde Operator
+«#00ff00»⭌«»	Rightwards Arrow Above Reverse Tilde Operator
+«#00ff00»⭍«»	Downwards Triangle-headed Zigzag Arrow
+«#00ff00»⭎«»	Short Slanted North Arrow
+«#00ff00»⭏«»	Short Backslanted South Arrow
+«#00ff00»⭐«»	White Medium Star
+«#00ff00»⭑«»	Black Small Star
+«#00ff00»⭒«»	White Small Star
+«#00ff00»⭓«»	Black Right-pointing Pentagon
+«#00ff00»⭔«»	White Right-pointing Pentagon
+«#00ff00»⭕«»	Heavy Large Circle
+«#00ff00»⭖«»	Heavy Oval with Oval Inside
+«#00ff00»⭗«»	Heavy Circle with Circle Inside
+«#00ff00»⭘«»	Heavy Circle
+«#00ff00»⭙«»	Heavy Circled Saltire
+«#00ff00»⭚«»	Slanted North Arrow with Hooked Head
+«#00ff00»⭛«»	Backslanted South Arrow with Hooked Tail
+«#00ff00»⭜«»	Slanted North Arrow with Horizontal Tail
+«#00ff00»⭝«»	Backslanted South Arrow with Horizontal Tail
+«#00ff00»⭞«»	Bent Arrow Pointing Downwards Then North East
+«#00ff00»⭟«»	Short Bent Arrow Pointing Downwards Then North East
+«#00ff00»⭠«»	Leftwards Triangle-headed Arrow
+«#00ff00»⭡«»	Upwards Triangle-headed Arrow
+«#00ff00»⭢«»	Rightwards Triangle-headed Arrow
+«#00ff00»⭣«»	Downwards Triangle-headed Arrow
+«#00ff00»⭤«»	Left Right Triangle-headed Arrow
+«#00ff00»⭥«»	Up Down Triangle-headed Arrow
+«#00ff00»⭦«»	North West Triangle-headed Arrow
+«#00ff00»⭧«»	North East Triangle-headed Arrow
+«#00ff00»⭨«»	South East Triangle-headed Arrow
+«#00ff00»⭩«»	South West Triangle-headed Arrow
+«#00ff00»⭪«»	Leftwards Triangle-headed Dashed Arrow
+«#00ff00»⭫«»	Upwards Triangle-headed Dashed Arrow
+«#00ff00»⭬«»	Rightwards Triangle-headed Dashed Arrow
+«#00ff00»⭭«»	Downwards Triangle-headed Dashed Arrow
+«#00ff00»⭮«»	Clockwise Triangle-headed Open Circle Arrow
+«#00ff00»⭯«»	Anticlockwise Triangle-headed Open Circle Arrow
+«#00ff00»⭰«»	Leftwards Triangle-headed Arrow To Bar
+«#00ff00»⭱«»	Upwards Triangle-headed Arrow To Bar
+«#00ff00»⭲«»	Rightwards Triangle-headed Arrow To Bar
+«#00ff00»⭳«»	Downwards Triangle-headed Arrow To Bar
+«#00ff00»⭶«»	North West Triangle-headed Arrow To Bar
+«#00ff00»⭷«»	North East Triangle-headed Arrow To Bar
+«#00ff00»⭸«»	South East Triangle-headed Arrow To Bar
+«#00ff00»⭹«»	South West Triangle-headed Arrow To Bar
+«#00ff00»⭺«»	Leftwards Triangle-headed Arrow with Double Horizontal Stroke
+«#00ff00»⭻«»	Upwards Triangle-headed Arrow with Double Horizontal Stroke
+«#00ff00»⭼«»	Rightwards Triangle-headed Arrow with Double Horizontal Stroke
+«#00ff00»⭽«»	Downwards Triangle-headed Arrow with Double Horizontal Stroke
+«#00ff00»⭾«»	Horizontal Tab Key
+«#00ff00»⭿«»	Vertical Tab Key
+«#00ff00»⮀«»	Leftwards Triangle-headed Arrow Over Rightwards Triangle-headed Arrow
+«#00ff00»⮁«»	Upwards Triangle-headed Arrow Leftwards of Downwards Triangle-headed Arrow
+«#00ff00»⮂«»	Rightwards Triangle-headed Arrow Over Leftwards Triangle-headed Arrow
+«#00ff00»⮃«»	Downwards Triangle-headed Arrow Leftwards of Upwards Triangle-headed Arrow
+«#00ff00»⮄«»	Leftwards Triangle-headed Paired Arrows
+«#00ff00»⮅«»	Upwards Triangle-headed Paired Arrows
+«#00ff00»⮆«»	Rightwards Triangle-headed Paired Arrows
+«#00ff00»⮇«»	Downwards Triangle-headed Paired Arrows
+«#00ff00»⮈«»	Leftwards Black Circled White Arrow
+«#00ff00»⮉«»	Upwards Black Circled White Arrow
+«#00ff00»⮊«»	Rightwards Black Circled White Arrow
+«#00ff00»⮋«»	Downwards Black Circled White Arrow
+«#00ff00»⮌«»	Anticlockwise Triangle-headed Right U-shaped Arrow
+«#00ff00»⮍«»	Anticlockwise Triangle-headed Bottom U-shaped Arrow
+«#00ff00»⮎«»	Anticlockwise Triangle-headed Left U-shaped Arrow
+«#00ff00»⮏«»	Anticlockwise Triangle-headed Top U-shaped Arrow
+«#00ff00»⮐«»	Return Left
+«#00ff00»⮑«»	Return Right
+«#00ff00»⮒«»	Newline Left
+«#00ff00»⮓«»	Newline Right
+«#00ff00»⮔«»	Four Corner Arrows Circling Anticlockwise
+«#00ff00»⮕«»	Rightwards Black Arrow
+«#00ff00»⮗«»	Symbol for Type A Electronics
+«#00ff00»⮘«»	Three-d Top-lighted Leftwards Equilateral Arrowhead
+«#00ff00»⮙«»	Three-d Right-lighted Upwards Equilateral Arrowhead
+«#00ff00»⮚«»	Three-d Top-lighted Rightwards Equilateral Arrowhead
+«#00ff00»⮛«»	Three-d Left-lighted Downwards Equilateral Arrowhead
+«#00ff00»⮜«»	Black Leftwards Equilateral Arrowhead
+«#00ff00»⮝«»	Black Upwards Equilateral Arrowhead
+«#00ff00»⮞«»	Black Rightwards Equilateral Arrowhead
+«#00ff00»⮟«»	Black Downwards Equilateral Arrowhead
+«#00ff00»⮠«»	Downwards Triangle-headed Arrow with Long Tip Leftwards
+«#00ff00»⮡«»	Downwards Triangle-headed Arrow with Long Tip Rightwards
+«#00ff00»⮢«»	Upwards Triangle-headed Arrow with Long Tip Leftwards
+«#00ff00»⮣«»	Upwards Triangle-headed Arrow with Long Tip Rightwards
+«#00ff00»⮤«»	Leftwards Triangle-headed Arrow with Long Tip Upwards
+«#00ff00»⮥«»	Rightwards Triangle-headed Arrow with Long Tip Upwards
+«#00ff00»⮦«»	Leftwards Triangle-headed Arrow with Long Tip Downwards
+«#00ff00»⮧«»	Rightwards Triangle-headed Arrow with Long Tip Downwards
+«#00ff00»⮨«»	Black Curved Downwards and Leftwards Arrow
+«#00ff00»⮩«»	Black Curved Downwards and Rightwards Arrow
+«#00ff00»⮪«»	Black Curved Upwards and Leftwards Arrow
+«#00ff00»⮫«»	Black Curved Upwards and Rightwards Arrow
+«#00ff00»⮬«»	Black Curved Leftwards and Upwards Arrow
+«#00ff00»⮭«»	Black Curved Rightwards and Upwards Arrow
+«#00ff00»⮮«»	Black Curved Leftwards and Downwards Arrow
+«#00ff00»⮯«»	Black Curved Rightwards and Downwards Arrow
+«#00ff00»⮰«»	Ribbon Arrow Down Left
+«#00ff00»⮱«»	Ribbon Arrow Down Right
+«#00ff00»⮲«»	Ribbon Arrow Up Left
+«#00ff00»⮳«»	Ribbon Arrow Up Right
+«#00ff00»⮴«»	Ribbon Arrow Left Up
+«#00ff00»⮵«»	Ribbon Arrow Right Up
+«#00ff00»⮶«»	Ribbon Arrow Left Down
+«#00ff00»⮷«»	Ribbon Arrow Right Down
+«#00ff00»⮸«»	Upwards White Arrow From Bar with Horizontal Bar
+«#00ff00»⮹«»	Up Arrowhead In A Rectangle Box
+«#00ff00»⮺«»	Overlapping White Squares
+«#00ff00»⮻«»	Overlapping White and Black Squares
+«#00ff00»⮼«»	Overlapping Black Squares
+«#00ff00»⮽«»	Ballot Box with Light X
+«#00ff00»⮾«»	Circled X
+«#00ff00»⮿«»	Circled Bold X
+«#00ff00»⯀«»	Black Square Centred
+«#00ff00»⯁«»	Black Diamond Centred
+«#00ff00»⯂«»	Turned Black Pentagon
+«#00ff00»⯃«»	Horizontal Black Octagon
+«#00ff00»⯄«»	Black Octagon
+«#00ff00»⯅«»	Black Medium Up-pointing Triangle Centred
+«#00ff00»⯆«»	Black Medium Down-pointing Triangle Centred
+«#00ff00»⯇«»	Black Medium Left-pointing Triangle Centred
+«#00ff00»⯈«»	Black Medium Right-pointing Triangle Centred
+«#00ff00»⯉«»	Neptune Form Two
+«#00ff00»⯊«»	Top Half Black Circle
+«#00ff00»⯋«»	Bottom Half Black Circle
+«#00ff00»⯌«»	Light Four Pointed Black Cusp
+«#00ff00»⯍«»	Rotated Light Four Pointed Black Cusp
+«#00ff00»⯎«»	White Four Pointed Cusp
+«#00ff00»⯏«»	Rotated White Four Pointed Cusp
+«#00ff00»⯐«»	Square Position Indicator
+«#00ff00»⯑«»	Uncertainty Sign
+«#00ff00»⯒«»	Group Mark
+«#00ff00»⯓«»	Pluto Form Two
+«#00ff00»⯔«»	Pluto Form Three
+«#00ff00»⯕«»	Pluto Form Four
+«#00ff00»⯖«»	Pluto Form Five
+«#00ff00»⯗«»	Transpluto
+«#00ff00»⯘«»	Proserpina
+«#00ff00»⯙«»	Astraea
+«#00ff00»⯚«»	Hygiea
+«#00ff00»⯛«»	Pholus
+«#00ff00»⯜«»	Nessus
+«#00ff00»⯝«»	White Moon Selena
+«#00ff00»⯞«»	Black Diamond On Cross
+«#00ff00»⯟«»	True Light Moon Arta
+«#00ff00»⯠«»	Cupido
+«#00ff00»⯡«»	Hades
+«#00ff00»⯢«»	Zeus
+«#00ff00»⯣«»	Kronos
+«#00ff00»⯤«»	Apollon
+«#00ff00»⯥«»	Admetos
+«#00ff00»⯦«»	Vulcanus
+«#00ff00»⯧«»	Poseidon
+«#00ff00»⯨«»	Left Half Black Star
+«#00ff00»⯩«»	Right Half Black Star
+«#00ff00»⯪«»	Star with Left Half Black
+«#00ff00»⯫«»	Star with Right Half Black
+«#00ff00»⯬«»	Leftwards Two-headed Arrow with Triangle Arrowheads
+«#00ff00»⯭«»	Upwards Two-headed Arrow with Triangle Arrowheads
+«#00ff00»⯮«»	Rightwards Two-headed Arrow with Triangle Arrowheads
+«#00ff00»⯯«»	Downwards Two-headed Arrow with Triangle Arrowheads
+«#00ff00»⯰«»	Eris Form One
+«#00ff00»⯱«»	Eris Form Two
+«#00ff00»⯲«»	Sedna
+«#00ff00»⯳«»	Russian Astrological Symbol Vigintile
+«#00ff00»⯴«»	Russian Astrological Symbol Novile
+«#00ff00»⯵«»	Russian Astrological Symbol Quintile
+«#00ff00»⯶«»	Russian Astrological Symbol Binovile
+«#00ff00»⯷«»	Russian Astrological Symbol Sentagon
+«#00ff00»⯸«»	Russian Astrological Symbol Tredecile
+«#00ff00»⯹«»	Equals Sign with Infinity Below
+«#00ff00»⯺«»	United Symbol
+«#00ff00»⯻«»	Separated Symbol
+«#00ff00»⯼«»	Doubled Symbol
+«#00ff00»⯽«»	Passed Symbol
+«#00ff00»⯾«»	Reversed Right Angle
+«#00ff00»⯿«»	Hellschreiber Pause Symbol", },
+        ]
+    },
+    {
+        "name": "Letterlike Symbols",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+℀℁ℂ℃℄℅℆ℇ℈℉ℊℋℌℍℎℏℐℑℒℓ℔ℕ№℗℘ℙℚℛℜℝ℞℟℠℡™℣ℤ℥
+Ω℧ℨ℩KÅℬℭ℮ℯℰℱℲℳℴℵℶℷℸℹ℺℻ℼℽℾℿ⅀⅁⅂⅃⅄ⅅⅆⅇⅈⅉ⅊⅋
+⅌⅍ⅎ⅏", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2100",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»℀«»	Account of
+«#00ff00»℁«»	Addressed To The Subject
+«#00ff00»ℂ«»	Double-struck Capital C
+«#00ff00»℃«»	Degree Celsius
+«#00ff00»℄«»	Centre Line Symbol
+«#00ff00»℅«»	Care of
+«#00ff00»℆«»	Cada Una
+«#00ff00»ℇ«»	Euler Constant
+«#00ff00»℈«»	Scruple
+«#00ff00»℉«»	Degree Fahrenheit
+«#00ff00»ℊ«»	Script Small G
+«#00ff00»ℋ«»	Script Capital H
+«#00ff00»ℌ«»	Black-letter Capital H
+«#00ff00»ℍ«»	Double-struck Capital H
+«#00ff00»ℎ«»	Planck Constant
+«#00ff00»ℏ«»	Planck Constant Over Two Pi
+«#00ff00»ℐ«»	Script Capital I
+«#00ff00»ℑ«»	Black-letter Capital I
+«#00ff00»ℒ«»	Script Capital L
+«#00ff00»ℓ«»	Script Small L
+«#00ff00»℔«»	L B Bar Symbol
+«#00ff00»ℕ«»	Double-struck Capital N
+«#00ff00»№«»	Numero Sign
+«#00ff00»℗«»	Sound Recording Copyright
+«#00ff00»℘«»	Script Capital P
+«#00ff00»ℙ«»	Double-struck Capital P
+«#00ff00»ℚ«»	Double-struck Capital Q
+«#00ff00»ℛ«»	Script Capital R
+«#00ff00»ℜ«»	Black-letter Capital R
+«#00ff00»ℝ«»	Double-struck Capital R
+«#00ff00»℞«»	Prescription Take
+«#00ff00»℟«»	Response
+«#00ff00»℠«»	Service Mark
+«#00ff00»℡«»	Telephone Sign
+«#00ff00»™«»	Trade Mark Sign
+«#00ff00»℣«»	Versicle
+«#00ff00»ℤ«»	Double-struck Capital Z
+«#00ff00»℥«»	Ounce Sign
+«#00ff00»Ω«»	Ohm Sign
+«#00ff00»℧«»	Inverted Ohm Sign
+«#00ff00»ℨ«»	Black-letter Capital Z
+«#00ff00»℩«»	Turned Greek Small Letter Iota
+«#00ff00»K«»	Kelvin Sign
+«#00ff00»Å«»	Angstrom Sign
+«#00ff00»ℬ«»	Script Capital B
+«#00ff00»ℭ«»	Black-letter Capital C
+«#00ff00»℮«»	Estimated Symbol
+«#00ff00»ℯ«»	Script Small E
+«#00ff00»ℰ«»	Script Capital E
+«#00ff00»ℱ«»	Script Capital F
+«#00ff00»Ⅎ«»	Turned Capital F
+«#00ff00»ℳ«»	Script Capital M
+«#00ff00»ℴ«»	Script Small O
+«#00ff00»ℵ«»	Alef Symbol
+«#00ff00»ℶ«»	Bet Symbol
+«#00ff00»ℷ«»	Gimel Symbol
+«#00ff00»ℸ«»	Dalet Symbol
+«#00ff00»ℹ«»	Information Source
+«#00ff00»℺«»	Rotated Capital Q
+«#00ff00»℻«»	Facsimile Sign
+«#00ff00»ℼ«»	Double-struck Small Pi
+«#00ff00»ℽ«»	Double-struck Small Gamma
+«#00ff00»ℾ«»	Double-struck Capital Gamma
+«#00ff00»ℿ«»	Double-struck Capital Pi
+«#00ff00»⅀«»	Double-struck N-ary Summation
+«#00ff00»⅁«»	Turned Sans-serif Capital G
+«#00ff00»⅂«»	Turned Sans-serif Capital L
+«#00ff00»⅃«»	Reversed Sans-serif Capital L
+«#00ff00»⅄«»	Turned Sans-serif Capital Y
+«#00ff00»ⅅ«»	Double-struck Italic Capital D
+«#00ff00»ⅆ«»	Double-struck Italic Small D
+«#00ff00»ⅇ«»	Double-struck Italic Small E
+«#00ff00»ⅈ«»	Double-struck Italic Small I
+«#00ff00»ⅉ«»	Double-struck Italic Small J
+«#00ff00»⅊«»	Property Line
+«#00ff00»⅋«»	Turned Ampersand
+«#00ff00»⅌«»	Per Sign
+«#00ff00»⅍«»	Aktieselskab
+«#00ff00»ⅎ«»	Turned Small F
+«#00ff00»⅏«»	Symbol for Samaritan Source", },
+        ]
+    },
+    {
+        "name": "Number Forms",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯⅰⅱⅲⅳⅴⅵ
+ⅶⅷⅸⅹⅺⅻⅼⅽⅾⅿↀↁↂↃↄↅↆↇↈ↉↊↋", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2150",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⅐«»	Vulgar Fraction One Seventh
+«#00ff00»⅑«»	Vulgar Fraction One Ninth
+«#00ff00»⅒«»	Vulgar Fraction One Tenth
+«#00ff00»⅓«»	Vulgar Fraction One Third
+«#00ff00»⅔«»	Vulgar Fraction Two Thirds
+«#00ff00»⅕«»	Vulgar Fraction One Fifth
+«#00ff00»⅖«»	Vulgar Fraction Two Fifths
+«#00ff00»⅗«»	Vulgar Fraction Three Fifths
+«#00ff00»⅘«»	Vulgar Fraction Four Fifths
+«#00ff00»⅙«»	Vulgar Fraction One Sixth
+«#00ff00»⅚«»	Vulgar Fraction Five Sixths
+«#00ff00»⅛«»	Vulgar Fraction One Eighth
+«#00ff00»⅜«»	Vulgar Fraction Three Eighths
+«#00ff00»⅝«»	Vulgar Fraction Five Eighths
+«#00ff00»⅞«»	Vulgar Fraction Seven Eighths
+«#00ff00»⅟«»	Fraction Numerator One
+«#00ff00»Ⅰ«»	Roman Numeral One
+«#00ff00»Ⅱ«»	Roman Numeral Two
+«#00ff00»Ⅲ«»	Roman Numeral Three
+«#00ff00»Ⅳ«»	Roman Numeral Four
+«#00ff00»Ⅴ«»	Roman Numeral Five
+«#00ff00»Ⅵ«»	Roman Numeral Six
+«#00ff00»Ⅶ«»	Roman Numeral Seven
+«#00ff00»Ⅷ«»	Roman Numeral Eight
+«#00ff00»Ⅸ«»	Roman Numeral Nine
+«#00ff00»Ⅹ«»	Roman Numeral Ten
+«#00ff00»Ⅺ«»	Roman Numeral Eleven
+«#00ff00»Ⅻ«»	Roman Numeral Twelve
+«#00ff00»Ⅼ«»	Roman Numeral Fifty
+«#00ff00»Ⅽ«»	Roman Numeral One Hundred
+«#00ff00»Ⅾ«»	Roman Numeral Five Hundred
+«#00ff00»Ⅿ«»	Roman Numeral One Thousand
+«#00ff00»ⅰ«»	Small Roman Numeral One
+«#00ff00»ⅱ«»	Small Roman Numeral Two
+«#00ff00»ⅲ«»	Small Roman Numeral Three
+«#00ff00»ⅳ«»	Small Roman Numeral Four
+«#00ff00»ⅴ«»	Small Roman Numeral Five
+«#00ff00»ⅵ«»	Small Roman Numeral Six
+«#00ff00»ⅶ«»	Small Roman Numeral Seven
+«#00ff00»ⅷ«»	Small Roman Numeral Eight
+«#00ff00»ⅸ«»	Small Roman Numeral Nine
+«#00ff00»ⅹ«»	Small Roman Numeral Ten
+«#00ff00»ⅺ«»	Small Roman Numeral Eleven
+«#00ff00»ⅻ«»	Small Roman Numeral Twelve
+«#00ff00»ⅼ«»	Small Roman Numeral Fifty
+«#00ff00»ⅽ«»	Small Roman Numeral One Hundred
+«#00ff00»ⅾ«»	Small Roman Numeral Five Hundred
+«#00ff00»ⅿ«»	Small Roman Numeral One Thousand
+«#00ff00»ↀ«»	Roman Numeral One Thousand C D
+«#00ff00»ↁ«»	Roman Numeral Five Thousand
+«#00ff00»ↂ«»	Roman Numeral Ten Thousand
+«#00ff00»Ↄ«»	Roman Numeral Reversed One Hundred
+«#00ff00»ↄ«»	Latin Small Letter Reversed C
+«#00ff00»ↅ«»	Roman Numeral Six Late Form
+«#00ff00»ↆ«»	Roman Numeral Fifty Early Form
+«#00ff00»ↇ«»	Roman Numeral Fifty Thousand
+«#00ff00»ↈ«»	Roman Numeral One Hundred Thousand
+«#00ff00»↉«»	Vulgar Fraction Zero Thirds
+«#00ff00»↊«»	Turned Digit Two
+«#00ff00»↋«»	Turned Digit Three", },
+        ]
+    },
+    {
+        "name": "Arrows",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+←↑→↓↔↕↖↗↘↙↚↛↜↝↞↟↠↡↢↣↤↥↦↧↨↩↪↫↬↭↮↯↰↱↲↳↴↵
+↶↷↸↹↺↻↼↽↾↿⇀⇁⇂⇃⇄⇅⇆⇇⇈⇉⇊⇋⇌⇍⇎⇏⇐⇑⇒⇓⇔⇕⇖⇗⇘⇙⇚⇛
+⇜⇝⇞⇟⇠⇡⇢⇣⇤⇥⇦⇧⇨⇩⇪⇫⇬⇭⇮⇯⇰⇱⇲⇳⇴⇵⇶⇷⇸⇹⇺⇻⇼⇽⇾⇿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2190",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»←«»	Leftwards Arrow
+«#00ff00»↑«»	Upwards Arrow
+«#00ff00»→«»	Rightwards Arrow
+«#00ff00»↓«»	Downwards Arrow
+«#00ff00»↔«»	Left Right Arrow
+«#00ff00»↕«»	Up Down Arrow
+«#00ff00»↖«»	North West Arrow
+«#00ff00»↗«»	North East Arrow
+«#00ff00»↘«»	South East Arrow
+«#00ff00»↙«»	South West Arrow
+«#00ff00»↚«»	Leftwards Arrow with Stroke
+«#00ff00»↛«»	Rightwards Arrow with Stroke
+«#00ff00»↜«»	Leftwards Wave Arrow
+«#00ff00»↝«»	Rightwards Wave Arrow
+«#00ff00»↞«»	Leftwards Two Headed Arrow
+«#00ff00»↟«»	Upwards Two Headed Arrow
+«#00ff00»↠«»	Rightwards Two Headed Arrow
+«#00ff00»↡«»	Downwards Two Headed Arrow
+«#00ff00»↢«»	Leftwards Arrow with Tail
+«#00ff00»↣«»	Rightwards Arrow with Tail
+«#00ff00»↤«»	Leftwards Arrow From Bar
+«#00ff00»↥«»	Upwards Arrow From Bar
+«#00ff00»↦«»	Rightwards Arrow From Bar
+«#00ff00»↧«»	Downwards Arrow From Bar
+«#00ff00»↨«»	Up Down Arrow with Base
+«#00ff00»↩«»	Leftwards Arrow with Hook
+«#00ff00»↪«»	Rightwards Arrow with Hook
+«#00ff00»↫«»	Leftwards Arrow with Loop
+«#00ff00»↬«»	Rightwards Arrow with Loop
+«#00ff00»↭«»	Left Right Wave Arrow
+«#00ff00»↮«»	Left Right Arrow with Stroke
+«#00ff00»↯«»	Downwards Zigzag Arrow
+«#00ff00»↰«»	Upwards Arrow with Tip Leftwards
+«#00ff00»↱«»	Upwards Arrow with Tip Rightwards
+«#00ff00»↲«»	Downwards Arrow with Tip Leftwards
+«#00ff00»↳«»	Downwards Arrow with Tip Rightwards
+«#00ff00»↴«»	Rightwards Arrow with Corner Downwards
+«#00ff00»↵«»	Downwards Arrow with Corner Leftwards
+«#00ff00»↶«»	Anticlockwise Top Semicircle Arrow
+«#00ff00»↷«»	Clockwise Top Semicircle Arrow
+«#00ff00»↸«»	North West Arrow To Long Bar
+«#00ff00»↹«»	Leftwards Arrow To Bar Over Rightwards Arrow To Bar
+«#00ff00»↺«»	Anticlockwise Open Circle Arrow
+«#00ff00»↻«»	Clockwise Open Circle Arrow
+«#00ff00»↼«»	Leftwards Harpoon with Barb Upwards
+«#00ff00»↽«»	Leftwards Harpoon with Barb Downwards
+«#00ff00»↾«»	Upwards Harpoon with Barb Rightwards
+«#00ff00»↿«»	Upwards Harpoon with Barb Leftwards
+«#00ff00»⇀«»	Rightwards Harpoon with Barb Upwards
+«#00ff00»⇁«»	Rightwards Harpoon with Barb Downwards
+«#00ff00»⇂«»	Downwards Harpoon with Barb Rightwards
+«#00ff00»⇃«»	Downwards Harpoon with Barb Leftwards
+«#00ff00»⇄«»	Rightwards Arrow Over Leftwards Arrow
+«#00ff00»⇅«»	Upwards Arrow Leftwards of Downwards Arrow
+«#00ff00»⇆«»	Leftwards Arrow Over Rightwards Arrow
+«#00ff00»⇇«»	Leftwards Paired Arrows
+«#00ff00»⇈«»	Upwards Paired Arrows
+«#00ff00»⇉«»	Rightwards Paired Arrows
+«#00ff00»⇊«»	Downwards Paired Arrows
+«#00ff00»⇋«»	Leftwards Harpoon Over Rightwards Harpoon
+«#00ff00»⇌«»	Rightwards Harpoon Over Leftwards Harpoon
+«#00ff00»⇍«»	Leftwards Double Arrow with Stroke
+«#00ff00»⇎«»	Left Right Double Arrow with Stroke
+«#00ff00»⇏«»	Rightwards Double Arrow with Stroke
+«#00ff00»⇐«»	Leftwards Double Arrow
+«#00ff00»⇑«»	Upwards Double Arrow
+«#00ff00»⇒«»	Rightwards Double Arrow
+«#00ff00»⇓«»	Downwards Double Arrow
+«#00ff00»⇔«»	Left Right Double Arrow
+«#00ff00»⇕«»	Up Down Double Arrow
+«#00ff00»⇖«»	North West Double Arrow
+«#00ff00»⇗«»	North East Double Arrow
+«#00ff00»⇘«»	South East Double Arrow
+«#00ff00»⇙«»	South West Double Arrow
+«#00ff00»⇚«»	Leftwards Triple Arrow
+«#00ff00»⇛«»	Rightwards Triple Arrow
+«#00ff00»⇜«»	Leftwards Squiggle Arrow
+«#00ff00»⇝«»	Rightwards Squiggle Arrow
+«#00ff00»⇞«»	Upwards Arrow with Double Stroke
+«#00ff00»⇟«»	Downwards Arrow with Double Stroke
+«#00ff00»⇠«»	Leftwards Dashed Arrow
+«#00ff00»⇡«»	Upwards Dashed Arrow
+«#00ff00»⇢«»	Rightwards Dashed Arrow
+«#00ff00»⇣«»	Downwards Dashed Arrow
+«#00ff00»⇤«»	Leftwards Arrow To Bar
+«#00ff00»⇥«»	Rightwards Arrow To Bar
+«#00ff00»⇦«»	Leftwards White Arrow
+«#00ff00»⇧«»	Upwards White Arrow
+«#00ff00»⇨«»	Rightwards White Arrow
+«#00ff00»⇩«»	Downwards White Arrow
+«#00ff00»⇪«»	Upwards White Arrow From Bar
+«#00ff00»⇫«»	Upwards White Arrow On Pedestal
+«#00ff00»⇬«»	Upwards White Arrow On Pedestal with Horizontal Bar
+«#00ff00»⇭«»	Upwards White Arrow On Pedestal with Vertical Bar
+«#00ff00»⇮«»	Upwards White Double Arrow
+«#00ff00»⇯«»	Upwards White Double Arrow On Pedestal
+«#00ff00»⇰«»	Rightwards White Arrow From Wall
+«#00ff00»⇱«»	North West Arrow To Corner
+«#00ff00»⇲«»	South East Arrow To Corner
+«#00ff00»⇳«»	Up Down White Arrow
+«#00ff00»⇴«»	Right Arrow with Small Circle
+«#00ff00»⇵«»	Downwards Arrow Leftwards of Upwards Arrow
+«#00ff00»⇶«»	Three Rightwards Arrows
+«#00ff00»⇷«»	Leftwards Arrow with Vertical Stroke
+«#00ff00»⇸«»	Rightwards Arrow with Vertical Stroke
+«#00ff00»⇹«»	Left Right Arrow with Vertical Stroke
+«#00ff00»⇺«»	Leftwards Arrow with Double Vertical Stroke
+«#00ff00»⇻«»	Rightwards Arrow with Double Vertical Stroke
+«#00ff00»⇼«»	Left Right Arrow with Double Vertical Stroke
+«#00ff00»⇽«»	Leftwards Open-headed Arrow
+«#00ff00»⇾«»	Rightwards Open-headed Arrow
+«#00ff00»⇿«»	Left Right Open-headed Arrow", },
+        ]
+    },
+    {
+        "name": "Block Elements",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+▀▁▂▃▄▅▆▇█▉▊▋▌▍▎▏▐░▒▓▔▕▖▗▘▙▚▛▜▝▞▟", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2580",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»▀«»	Upper Half Block
+«#00ff00»▁«»	Lower One Eighth Block
+«#00ff00»▂«»	Lower One Quarter Block
+«#00ff00»▃«»	Lower Three Eighths Block
+«#00ff00»▄«»	Lower Half Block
+«#00ff00»▅«»	Lower Five Eighths Block
+«#00ff00»▆«»	Lower Three Quarters Block
+«#00ff00»▇«»	Lower Seven Eighths Block
+«#00ff00»█«»	Full Block
+«#00ff00»▉«»	Left Seven Eighths Block
+«#00ff00»▊«»	Left Three Quarters Block
+«#00ff00»▋«»	Left Five Eighths Block
+«#00ff00»▌«»	Left Half Block
+«#00ff00»▍«»	Left Three Eighths Block
+«#00ff00»▎«»	Left One Quarter Block
+«#00ff00»▏«»	Left One Eighth Block
+«#00ff00»▐«»	Right Half Block
+«#00ff00»░«»	Light Shade
+«#00ff00»▒«»	Medium Shade
+«#00ff00»▓«»	Dark Shade
+«#00ff00»▔«»	Upper One Eighth Block
+«#00ff00»▕«»	Right One Eighth Block
+«#00ff00»▖«»	Quadrant Lower Left
+«#00ff00»▗«»	Quadrant Lower Right
+«#00ff00»▘«»	Quadrant Upper Left
+«#00ff00»▙«»	Quadrant Upper Left and Lower Left and Lower Right
+«#00ff00»▚«»	Quadrant Upper Left and Lower Right
+«#00ff00»▛«»	Quadrant Upper Left and Upper Right and Lower Left
+«#00ff00»▜«»	Quadrant Upper Left and Upper Right and Lower Right
+«#00ff00»▝«»	Quadrant Upper Right
+«#00ff00»▞«»	Quadrant Upper Right and Lower Left
+«#00ff00»▟«»	Quadrant Upper Right and Lower Left and Lower Right", },
+        ]
+    },
+    {
+        "name": "Miscellaneous Mathematical Symbols-A",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⟀⟁⟂⟃⟄⟅⟆⟇⟈⟉⟊⟋⟌⟍⟎⟏⟐⟑⟒⟓⟔⟕⟖⟗⟘⟙⟚⟛⟜⟝⟞⟟⟠⟡⟢⟣⟤⟥⟦⟧
+⟨⟩⟪⟫⟬⟭⟮⟯", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+27C0",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⟀«»	Three Dimensional Angle
+«#00ff00»⟁«»	White Triangle Containing Small White Triangle
+«#00ff00»⟂«»	Perpendicular
+«#00ff00»⟃«»	Open Subset
+«#00ff00»⟄«»	Open Superset
+«#00ff00»⟅«»	Left S-shaped Bag Delimiter
+«#00ff00»⟆«»	Right S-shaped Bag Delimiter
+«#00ff00»⟇«»	or with Dot Inside
+«#00ff00»⟈«»	Reverse Solidus Preceding Subset
+«#00ff00»⟉«»	Superset Preceding Solidus
+«#00ff00»⟊«»	Vertical Bar with Horizontal Stroke
+«#00ff00»⟋«»	Mathematical Rising Diagonal
+«#00ff00»⟌«»	Long Division
+«#00ff00»⟍«»	Mathematical Falling Diagonal
+«#00ff00»⟎«»	Squared Logical and
+«#00ff00»⟏«»	Squared Logical or
+«#00ff00»⟐«»	White Diamond with Centred Dot
+«#00ff00»⟑«»	and with Dot
+«#00ff00»⟒«»	Element of Opening Upwards
+«#00ff00»⟓«»	Lower Right Corner with Dot
+«#00ff00»⟔«»	Upper Left Corner with Dot
+«#00ff00»⟕«»	Left Outer Join
+«#00ff00»⟖«»	Right Outer Join
+«#00ff00»⟗«»	Full Outer Join
+«#00ff00»⟘«»	Large Up Tack
+«#00ff00»⟙«»	Large Down Tack
+«#00ff00»⟚«»	Left and Right Double Turnstile
+«#00ff00»⟛«»	Left and Right Tack
+«#00ff00»⟜«»	Left Multimap
+«#00ff00»⟝«»	Long Right Tack
+«#00ff00»⟞«»	Long Left Tack
+«#00ff00»⟟«»	Up Tack with Circle Above
+«#00ff00»⟠«»	Lozenge Divided By Horizontal Rule
+«#00ff00»⟡«»	White Concave-sided Diamond
+«#00ff00»⟢«»	White Concave-sided Diamond with Leftwards Tick
+«#00ff00»⟣«»	White Concave-sided Diamond with Rightwards Tick
+«#00ff00»⟤«»	White Square with Leftwards Tick
+«#00ff00»⟥«»	White Square with Rightwards Tick
+«#00ff00»⟦«»	Mathematical Left White Square Bracket
+«#00ff00»⟧«»	Mathematical Right White Square Bracket
+«#00ff00»⟨«»	Mathematical Left Angle Bracket
+«#00ff00»⟩«»	Mathematical Right Angle Bracket
+«#00ff00»⟪«»	Mathematical Left Double Angle Bracket
+«#00ff00»⟫«»	Mathematical Right Double Angle Bracket
+«#00ff00»⟬«»	Mathematical Left White Tortoise Shell Bracket
+«#00ff00»⟭«»	Mathematical Right White Tortoise Shell Bracket
+«#00ff00»⟮«»	Mathematical Left Flattened Parenthesis
+«#00ff00»⟯«»	Mathematical Right Flattened Parenthesis", },
+        ]
+    },
+    {
+        "name": "Supplemental Mathematical Operators",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⨀⨁⨂⨃⨄⨅⨆⨇⨈⨉⨊⨋⨌⨍⨎⨏⨐⨑⨒⨓⨔⨕⨖⨗⨘⨙⨚⨛⨜⨝⨞⨟⨠⨡⨢⨣⨤⨥
+⨦⨧⨨⨩⨪⨫⨬⨭⨮⨯⨰⨱⨲⨳⨴⨵⨶⨷⨸⨹⨺⨻⨼⨽⨾⨿⩀⩁⩂⩃⩄⩅⩆⩇⩈⩉⩊⩋
+⩌⩍⩎⩏⩐⩑⩒⩓⩔⩕⩖⩗⩘⩙⩚⩛⩜⩝⩞⩟⩠⩡⩢⩣⩤⩥⩦⩧⩨⩩⩪⩫⩬⩭⩮⩯⩰⩱
+⩲⩳⩴⩵⩶⩷⩸⩹⩺⩻⩼⩽⩾⩿⪀⪁⪂⪃⪄⪅⪆⪇⪈⪉⪊⪋⪌⪍⪎⪏⪐⪑⪒⪓⪔⪕⪖⪗
+⪘⪙⪚⪛⪜⪝⪞⪟⪠⪡⪢⪣⪤⪥⪦⪧⪨⪩⪪⪫⪬⪭⪮⪯⪰⪱⪲⪳⪴⪵⪶⪷⪸⪹⪺⪻⪼⪽
+⪾⪿⫀⫁⫂⫃⫄⫅⫆⫇⫈⫉⫊⫋⫌⫍⫎⫏⫐⫑⫒⫓⫔⫕⫖⫗⫘⫙⫚⫛⫝̸⫝⫞⫟⫠⫡⫢⫣
+⫤⫥⫦⫧⫨⫩⫪⫫⫬⫭⫮⫯⫰⫱⫲⫳⫴⫵⫶⫷⫸⫹⫺⫻⫼⫽⫾⫿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2A00",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⨀«»	N-ary Circled Dot Operator
+«#00ff00»⨁«»	N-ary Circled Plus Operator
+«#00ff00»⨂«»	N-ary Circled Times Operator
+«#00ff00»⨃«»	N-ary Union Operator with Dot
+«#00ff00»⨄«»	N-ary Union Operator with Plus
+«#00ff00»⨅«»	N-ary Square Intersection Operator
+«#00ff00»⨆«»	N-ary Square Union Operator
+«#00ff00»⨇«»	Two Logical and Operator
+«#00ff00»⨈«»	Two Logical or Operator
+«#00ff00»⨉«»	N-ary Times Operator
+«#00ff00»⨊«»	Modulo Two Sum
+«#00ff00»⨋«»	Summation with Integral
+«#00ff00»⨌«»	Quadruple Integral Operator
+«#00ff00»⨍«»	Finite Part Integral
+«#00ff00»⨎«»	Integral with Double Stroke
+«#00ff00»⨏«»	Integral Average with Slash
+«#00ff00»⨐«»	Circulation Function
+«#00ff00»⨑«»	Anticlockwise Integration
+«#00ff00»⨒«»	Line Integration with Rectangular Path Around Pole
+«#00ff00»⨓«»	Line Integration with Semicircular Path Around Pole
+«#00ff00»⨔«»	Line Integration Not Including The Pole
+«#00ff00»⨕«»	Integral Around A Point Operator
+«#00ff00»⨖«»	Quaternion Integral Operator
+«#00ff00»⨗«»	Integral with Leftwards Arrow with Hook
+«#00ff00»⨘«»	Integral with Times Sign
+«#00ff00»⨙«»	Integral with Intersection
+«#00ff00»⨚«»	Integral with Union
+«#00ff00»⨛«»	Integral with Overbar
+«#00ff00»⨜«»	Integral with Underbar
+«#00ff00»⨝«»	Join
+«#00ff00»⨞«»	Large Left Triangle Operator
+«#00ff00»⨟«»	Z Notation Schema Composition
+«#00ff00»⨠«»	Z Notation Schema Piping
+«#00ff00»⨡«»	Z Notation Schema Projection
+«#00ff00»⨢«»	Plus Sign with Small Circle Above
+«#00ff00»⨣«»	Plus Sign with Circumflex Accent Above
+«#00ff00»⨤«»	Plus Sign with Tilde Above
+«#00ff00»⨥«»	Plus Sign with Dot Below
+«#00ff00»⨦«»	Plus Sign with Tilde Below
+«#00ff00»⨧«»	Plus Sign with Subscript Two
+«#00ff00»⨨«»	Plus Sign with Black Triangle
+«#00ff00»⨩«»	Minus Sign with Comma Above
+«#00ff00»⨪«»	Minus Sign with Dot Below
+«#00ff00»⨫«»	Minus Sign with Falling Dots
+«#00ff00»⨬«»	Minus Sign with Rising Dots
+«#00ff00»⨭«»	Plus Sign In Left Half Circle
+«#00ff00»⨮«»	Plus Sign In Right Half Circle
+«#00ff00»⨯«»	Vector or Cross Product
+«#00ff00»⨰«»	Multiplication Sign with Dot Above
+«#00ff00»⨱«»	Multiplication Sign with Underbar
+«#00ff00»⨲«»	Semidirect Product with Bottom Closed
+«#00ff00»⨳«»	Smash Product
+«#00ff00»⨴«»	Multiplication Sign In Left Half Circle
+«#00ff00»⨵«»	Multiplication Sign In Right Half Circle
+«#00ff00»⨶«»	Circled Multiplication Sign with Circumflex Accent
+«#00ff00»⨷«»	Multiplication Sign In Double Circle
+«#00ff00»⨸«»	Circled Division Sign
+«#00ff00»⨹«»	Plus Sign In Triangle
+«#00ff00»⨺«»	Minus Sign In Triangle
+«#00ff00»⨻«»	Multiplication Sign In Triangle
+«#00ff00»⨼«»	Interior Product
+«#00ff00»⨽«»	Righthand Interior Product
+«#00ff00»⨾«»	Z Notation Relational Composition
+«#00ff00»⨿«»	Amalgamation or Coproduct
+«#00ff00»⩀«»	Intersection with Dot
+«#00ff00»⩁«»	Union with Minus Sign
+«#00ff00»⩂«»	Union with Overbar
+«#00ff00»⩃«»	Intersection with Overbar
+«#00ff00»⩄«»	Intersection with Logical and
+«#00ff00»⩅«»	Union with Logical or
+«#00ff00»⩆«»	Union Above Intersection
+«#00ff00»⩇«»	Intersection Above Union
+«#00ff00»⩈«»	Union Above Bar Above Intersection
+«#00ff00»⩉«»	Intersection Above Bar Above Union
+«#00ff00»⩊«»	Union Beside and Joined with Union
+«#00ff00»⩋«»	Intersection Beside and Joined with Intersection
+«#00ff00»⩌«»	Closed Union with Serifs
+«#00ff00»⩍«»	Closed Intersection with Serifs
+«#00ff00»⩎«»	Double Square Intersection
+«#00ff00»⩏«»	Double Square Union
+«#00ff00»⩐«»	Closed Union with Serifs and Smash Product
+«#00ff00»⩑«»	Logical and with Dot Above
+«#00ff00»⩒«»	Logical or with Dot Above
+«#00ff00»⩓«»	Double Logical and
+«#00ff00»⩔«»	Double Logical or
+«#00ff00»⩕«»	Two Intersecting Logical and
+«#00ff00»⩖«»	Two Intersecting Logical or
+«#00ff00»⩗«»	Sloping Large or
+«#00ff00»⩘«»	Sloping Large and
+«#00ff00»⩙«»	Logical or Overlapping Logical and
+«#00ff00»⩚«»	Logical and with Middle Stem
+«#00ff00»⩛«»	Logical or with Middle Stem
+«#00ff00»⩜«»	Logical and with Horizontal Dash
+«#00ff00»⩝«»	Logical or with Horizontal Dash
+«#00ff00»⩞«»	Logical and with Double Overbar
+«#00ff00»⩟«»	Logical and with Underbar
+«#00ff00»⩠«»	Logical and with Double Underbar
+«#00ff00»⩡«»	Small Vee with Underbar
+«#00ff00»⩢«»	Logical or with Double Overbar
+«#00ff00»⩣«»	Logical or with Double Underbar
+«#00ff00»⩤«»	Z Notation Domain Antirestriction
+«#00ff00»⩥«»	Z Notation Range Antirestriction
+«#00ff00»⩦«»	Equals Sign with Dot Below
+«#00ff00»⩧«»	Identical with Dot Above
+«#00ff00»⩨«»	Triple Horizontal Bar with Double Vertical Stroke
+«#00ff00»⩩«»	Triple Horizontal Bar with Triple Vertical Stroke
+«#00ff00»⩪«»	Tilde Operator with Dot Above
+«#00ff00»⩫«»	Tilde Operator with Rising Dots
+«#00ff00»⩬«»	Similar Minus Similar
+«#00ff00»⩭«»	Congruent with Dot Above
+«#00ff00»⩮«»	Equals with Asterisk
+«#00ff00»⩯«»	Almost Equal To with Circumflex Accent
+«#00ff00»⩰«»	Approximately Equal or Equal To
+«#00ff00»⩱«»	Equals Sign Above Plus Sign
+«#00ff00»⩲«»	Plus Sign Above Equals Sign
+«#00ff00»⩳«»	Equals Sign Above Tilde Operator
+«#00ff00»⩴«»	Double Colon Equal
+«#00ff00»⩵«»	Two Consecutive Equals Signs
+«#00ff00»⩶«»	Three Consecutive Equals Signs
+«#00ff00»⩷«»	Equals Sign with Two Dots Above and Two Dots Below
+«#00ff00»⩸«»	Equivalent with Four Dots Above
+«#00ff00»⩹«»	Less-than with Circle Inside
+«#00ff00»⩺«»	Greater-than with Circle Inside
+«#00ff00»⩻«»	Less-than with Question Mark Above
+«#00ff00»⩼«»	Greater-than with Question Mark Above
+«#00ff00»⩽«»	Less-than or Slanted Equal To
+«#00ff00»⩾«»	Greater-than or Slanted Equal To
+«#00ff00»⩿«»	Less-than or Slanted Equal To with Dot Inside
+«#00ff00»⪀«»	Greater-than or Slanted Equal To with Dot Inside
+«#00ff00»⪁«»	Less-than or Slanted Equal To with Dot Above
+«#00ff00»⪂«»	Greater-than or Slanted Equal To with Dot Above
+«#00ff00»⪃«»	Less-than or Slanted Equal To with Dot Above Right
+«#00ff00»⪄«»	Greater-than or Slanted Equal To with Dot Above Left
+«#00ff00»⪅«»	Less-than or Approximate
+«#00ff00»⪆«»	Greater-than or Approximate
+«#00ff00»⪇«»	Less-than and Single-line Not Equal To
+«#00ff00»⪈«»	Greater-than and Single-line Not Equal To
+«#00ff00»⪉«»	Less-than and Not Approximate
+«#00ff00»⪊«»	Greater-than and Not Approximate
+«#00ff00»⪋«»	Less-than Above Double-line Equal Above Greater-than
+«#00ff00»⪌«»	Greater-than Above Double-line Equal Above Less-than
+«#00ff00»⪍«»	Less-than Above Similar or Equal
+«#00ff00»⪎«»	Greater-than Above Similar or Equal
+«#00ff00»⪏«»	Less-than Above Similar Above Greater-than
+«#00ff00»⪐«»	Greater-than Above Similar Above Less-than
+«#00ff00»⪑«»	Less-than Above Greater-than Above Double-line Equal
+«#00ff00»⪒«»	Greater-than Above Less-than Above Double-line Equal
+«#00ff00»⪓«»	Less-than Above Slanted Equal Above Greater-than Above Slanted Equal
+«#00ff00»⪔«»	Greater-than Above Slanted Equal Above Less-than Above Slanted Equal
+«#00ff00»⪕«»	Slanted Equal To or Less-than
+«#00ff00»⪖«»	Slanted Equal To or Greater-than
+«#00ff00»⪗«»	Slanted Equal To or Less-than with Dot Inside
+«#00ff00»⪘«»	Slanted Equal To or Greater-than with Dot Inside
+«#00ff00»⪙«»	Double-line Equal To or Less-than
+«#00ff00»⪚«»	Double-line Equal To or Greater-than
+«#00ff00»⪛«»	Double-line Slanted Equal To or Less-than
+«#00ff00»⪜«»	Double-line Slanted Equal To or Greater-than
+«#00ff00»⪝«»	Similar or Less-than
+«#00ff00»⪞«»	Similar or Greater-than
+«#00ff00»⪟«»	Similar Above Less-than Above Equals Sign
+«#00ff00»⪠«»	Similar Above Greater-than Above Equals Sign
+«#00ff00»⪡«»	Double Nested Less-than
+«#00ff00»⪢«»	Double Nested Greater-than
+«#00ff00»⪣«»	Double Nested Less-than with Underbar
+«#00ff00»⪤«»	Greater-than Overlapping Less-than
+«#00ff00»⪥«»	Greater-than Beside Less-than
+«#00ff00»⪦«»	Less-than Closed By Curve
+«#00ff00»⪧«»	Greater-than Closed By Curve
+«#00ff00»⪨«»	Less-than Closed By Curve Above Slanted Equal
+«#00ff00»⪩«»	Greater-than Closed By Curve Above Slanted Equal
+«#00ff00»⪪«»	Smaller Than
+«#00ff00»⪫«»	Larger Than
+«#00ff00»⪬«»	Smaller Than or Equal To
+«#00ff00»⪭«»	Larger Than or Equal To
+«#00ff00»⪮«»	Equals Sign with Bumpy Above
+«#00ff00»⪯«»	Precedes Above Single-line Equals Sign
+«#00ff00»⪰«»	Succeeds Above Single-line Equals Sign
+«#00ff00»⪱«»	Precedes Above Single-line Not Equal To
+«#00ff00»⪲«»	Succeeds Above Single-line Not Equal To
+«#00ff00»⪳«»	Precedes Above Equals Sign
+«#00ff00»⪴«»	Succeeds Above Equals Sign
+«#00ff00»⪵«»	Precedes Above Not Equal To
+«#00ff00»⪶«»	Succeeds Above Not Equal To
+«#00ff00»⪷«»	Precedes Above Almost Equal To
+«#00ff00»⪸«»	Succeeds Above Almost Equal To
+«#00ff00»⪹«»	Precedes Above Not Almost Equal To
+«#00ff00»⪺«»	Succeeds Above Not Almost Equal To
+«#00ff00»⪻«»	Double Precedes
+«#00ff00»⪼«»	Double Succeeds
+«#00ff00»⪽«»	Subset with Dot
+«#00ff00»⪾«»	Superset with Dot
+«#00ff00»⪿«»	Subset with Plus Sign Below
+«#00ff00»⫀«»	Superset with Plus Sign Below
+«#00ff00»⫁«»	Subset with Multiplication Sign Below
+«#00ff00»⫂«»	Superset with Multiplication Sign Below
+«#00ff00»⫃«»	Subset of or Equal To with Dot Above
+«#00ff00»⫄«»	Superset of or Equal To with Dot Above
+«#00ff00»⫅«»	Subset of Above Equals Sign
+«#00ff00»⫆«»	Superset of Above Equals Sign
+«#00ff00»⫇«»	Subset of Above Tilde Operator
+«#00ff00»⫈«»	Superset of Above Tilde Operator
+«#00ff00»⫉«»	Subset of Above Almost Equal To
+«#00ff00»⫊«»	Superset of Above Almost Equal To
+«#00ff00»⫋«»	Subset of Above Not Equal To
+«#00ff00»⫌«»	Superset of Above Not Equal To
+«#00ff00»⫍«»	Square Left Open Box Operator
+«#00ff00»⫎«»	Square Right Open Box Operator
+«#00ff00»⫏«»	Closed Subset
+«#00ff00»⫐«»	Closed Superset
+«#00ff00»⫑«»	Closed Subset or Equal To
+«#00ff00»⫒«»	Closed Superset or Equal To
+«#00ff00»⫓«»	Subset Above Superset
+«#00ff00»⫔«»	Superset Above Subset
+«#00ff00»⫕«»	Subset Above Subset
+«#00ff00»⫖«»	Superset Above Superset
+«#00ff00»⫗«»	Superset Beside Subset
+«#00ff00»⫘«»	Superset Beside and Joined By Dash with Subset
+«#00ff00»⫙«»	Element of Opening Downwards
+«#00ff00»⫚«»	Pitchfork with Tee Top
+«#00ff00»⫛«»	Transversal Intersection
+«#00ff00»⫝̸«»	Forking
+«#00ff00»⫝«»	Nonforking
+«#00ff00»⫞«»	Short Left Tack
+«#00ff00»⫟«»	Short Down Tack
+«#00ff00»⫠«»	Short Up Tack
+«#00ff00»⫡«»	Perpendicular with S
+«#00ff00»⫢«»	Vertical Bar Triple Right Turnstile
+«#00ff00»⫣«»	Double Vertical Bar Left Turnstile
+«#00ff00»⫤«»	Vertical Bar Double Left Turnstile
+«#00ff00»⫥«»	Double Vertical Bar Double Left Turnstile
+«#00ff00»⫦«»	Long Dash From Left Member of Double Vertical
+«#00ff00»⫧«»	Short Down Tack with Overbar
+«#00ff00»⫨«»	Short Up Tack with Underbar
+«#00ff00»⫩«»	Short Up Tack Above Short Down Tack
+«#00ff00»⫪«»	Double Down Tack
+«#00ff00»⫫«»	Double Up Tack
+«#00ff00»⫬«»	Double Stroke Not Sign
+«#00ff00»⫭«»	Reversed Double Stroke Not Sign
+«#00ff00»⫮«»	Does Not Divide with Reversed Negation Slash
+«#00ff00»⫯«»	Vertical Line with Circle Above
+«#00ff00»⫰«»	Vertical Line with Circle Below
+«#00ff00»⫱«»	Down Tack with Circle Below
+«#00ff00»⫲«»	Parallel with Horizontal Stroke
+«#00ff00»⫳«»	Parallel with Tilde Operator
+«#00ff00»⫴«»	Triple Vertical Bar Binary Relation
+«#00ff00»⫵«»	Triple Vertical Bar with Horizontal Stroke
+«#00ff00»⫶«»	Triple Colon Operator
+«#00ff00»⫷«»	Triple Nested Less-than
+«#00ff00»⫸«»	Triple Nested Greater-than
+«#00ff00»⫹«»	Double-line Slanted Less-than or Equal To
+«#00ff00»⫺«»	Double-line Slanted Greater-than or Equal To
+«#00ff00»⫻«»	Triple Solidus Binary Relation
+«#00ff00»⫼«»	Large Triple Vertical Bar Operator
+«#00ff00»⫽«»	Double Solidus Operator
+«#00ff00»⫾«»	White Vertical Bar
+«#00ff00»⫿«»	N-ary White Vertical Bar", },
+        ]
+    },
+    {
+        "name": "Supplemental Arrows-A",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⟰⟱⟲⟳⟴⟵⟶⟷⟸⟹⟺⟻⟼⟽⟾⟿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+27F0",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⟰«»	Upwards Quadruple Arrow
+«#00ff00»⟱«»	Downwards Quadruple Arrow
+«#00ff00»⟲«»	Anticlockwise Gapped Circle Arrow
+«#00ff00»⟳«»	Clockwise Gapped Circle Arrow
+«#00ff00»⟴«»	Right Arrow with Circled Plus
+«#00ff00»⟵«»	Long Leftwards Arrow
+«#00ff00»⟶«»	Long Rightwards Arrow
+«#00ff00»⟷«»	Long Left Right Arrow
+«#00ff00»⟸«»	Long Leftwards Double Arrow
+«#00ff00»⟹«»	Long Rightwards Double Arrow
+«#00ff00»⟺«»	Long Left Right Double Arrow
+«#00ff00»⟻«»	Long Leftwards Arrow From Bar
+«#00ff00»⟼«»	Long Rightwards Arrow From Bar
+«#00ff00»⟽«»	Long Leftwards Double Arrow From Bar
+«#00ff00»⟾«»	Long Rightwards Double Arrow From Bar
+«#00ff00»⟿«»	Long Rightwards Squiggle Arrow", },
+        ]
+    },
+    {
+        "name": "Supplemental Arrows-B",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⤀⤁⤂⤃⤄⤅⤆⤇⤈⤉⤊⤋⤌⤍⤎⤏⤐⤑⤒⤓⤔⤕⤖⤗⤘⤙⤚⤛⤜⤝⤞⤟⤠⤡⤢⤣⤤⤥⤦⤧
+⤨⤩⤪⤫⤬⤭⤮⤯⤰⤱⤲⤳⤴⤵⤶⤷⤸⤹⤺⤻⤼⤽⤾⤿⥀⥁⥂⥃⥄⥅⥆⥇⥈⥉⥊⥋⥌⥍⥎⥏
+⥐⥑⥒⥓⥔⥕⥖⥗⥘⥙⥚⥛⥜⥝⥞⥟⥠⥡⥢⥣⥤⥥⥦⥧⥨⥩⥪⥫⥬⥭⥮⥯⥰⥱⥲⥳⥴⥵⥶⥷
+⥸⥹⥺⥻⥼⥽⥾⥿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2900",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⤀«»	Rightwards Two-headed Arrow with Vertical Stroke
+«#00ff00»⤁«»	Rightwards Two-headed Arrow with Double Vertical Stroke
+«#00ff00»⤂«»	Leftwards Double Arrow with Vertical Stroke
+«#00ff00»⤃«»	Rightwards Double Arrow with Vertical Stroke
+«#00ff00»⤄«»	Left Right Double Arrow with Vertical Stroke
+«#00ff00»⤅«»	Rightwards Two-headed Arrow From Bar
+«#00ff00»⤆«»	Leftwards Double Arrow From Bar
+«#00ff00»⤇«»	Rightwards Double Arrow From Bar
+«#00ff00»⤈«»	Downwards Arrow with Horizontal Stroke
+«#00ff00»⤉«»	Upwards Arrow with Horizontal Stroke
+«#00ff00»⤊«»	Upwards Triple Arrow
+«#00ff00»⤋«»	Downwards Triple Arrow
+«#00ff00»⤌«»	Leftwards Double Dash Arrow
+«#00ff00»⤍«»	Rightwards Double Dash Arrow
+«#00ff00»⤎«»	Leftwards Triple Dash Arrow
+«#00ff00»⤏«»	Rightwards Triple Dash Arrow
+«#00ff00»⤐«»	Rightwards Two-headed Triple Dash Arrow
+«#00ff00»⤑«»	Rightwards Arrow with Dotted Stem
+«#00ff00»⤒«»	Upwards Arrow To Bar
+«#00ff00»⤓«»	Downwards Arrow To Bar
+«#00ff00»⤔«»	Rightwards Arrow with Tail with Vertical Stroke
+«#00ff00»⤕«»	Rightwards Arrow with Tail with Double Vertical Stroke
+«#00ff00»⤖«»	Rightwards Two-headed Arrow with Tail
+«#00ff00»⤗«»	Rightwards Two-headed Arrow with Tail with Vertical Stroke
+«#00ff00»⤘«»	Rightwards Two-headed Arrow with Tail with Double Vertical Stroke
+«#00ff00»⤙«»	Leftwards Arrow-tail
+«#00ff00»⤚«»	Rightwards Arrow-tail
+«#00ff00»⤛«»	Leftwards Double Arrow-tail
+«#00ff00»⤜«»	Rightwards Double Arrow-tail
+«#00ff00»⤝«»	Leftwards Arrow To Black Diamond
+«#00ff00»⤞«»	Rightwards Arrow To Black Diamond
+«#00ff00»⤟«»	Leftwards Arrow From Bar To Black Diamond
+«#00ff00»⤠«»	Rightwards Arrow From Bar To Black Diamond
+«#00ff00»⤡«»	North West and South East Arrow
+«#00ff00»⤢«»	North East and South West Arrow
+«#00ff00»⤣«»	North West Arrow with Hook
+«#00ff00»⤤«»	North East Arrow with Hook
+«#00ff00»⤥«»	South East Arrow with Hook
+«#00ff00»⤦«»	South West Arrow with Hook
+«#00ff00»⤧«»	North West Arrow and North East Arrow
+«#00ff00»⤨«»	North East Arrow and South East Arrow
+«#00ff00»⤩«»	South East Arrow and South West Arrow
+«#00ff00»⤪«»	South West Arrow and North West Arrow
+«#00ff00»⤫«»	Rising Diagonal Crossing Falling Diagonal
+«#00ff00»⤬«»	Falling Diagonal Crossing Rising Diagonal
+«#00ff00»⤭«»	South East Arrow Crossing North East Arrow
+«#00ff00»⤮«»	North East Arrow Crossing South East Arrow
+«#00ff00»⤯«»	Falling Diagonal Crossing North East Arrow
+«#00ff00»⤰«»	Rising Diagonal Crossing South East Arrow
+«#00ff00»⤱«»	North East Arrow Crossing North West Arrow
+«#00ff00»⤲«»	North West Arrow Crossing North East Arrow
+«#00ff00»⤳«»	Wave Arrow Pointing Directly Right
+«#00ff00»⤴«»	Arrow Pointing Rightwards Then Curving Upwards
+«#00ff00»⤵«»	Arrow Pointing Rightwards Then Curving Downwards
+«#00ff00»⤶«»	Arrow Pointing Downwards Then Curving Leftwards
+«#00ff00»⤷«»	Arrow Pointing Downwards Then Curving Rightwards
+«#00ff00»⤸«»	Right-side Arc Clockwise Arrow
+«#00ff00»⤹«»	Left-side Arc Anticlockwise Arrow
+«#00ff00»⤺«»	Top Arc Anticlockwise Arrow
+«#00ff00»⤻«»	Bottom Arc Anticlockwise Arrow
+«#00ff00»⤼«»	Top Arc Clockwise Arrow with Minus
+«#00ff00»⤽«»	Top Arc Anticlockwise Arrow with Plus
+«#00ff00»⤾«»	Lower Right Semicircular Clockwise Arrow
+«#00ff00»⤿«»	Lower Left Semicircular Anticlockwise Arrow
+«#00ff00»⥀«»	Anticlockwise Closed Circle Arrow
+«#00ff00»⥁«»	Clockwise Closed Circle Arrow
+«#00ff00»⥂«»	Rightwards Arrow Above Short Leftwards Arrow
+«#00ff00»⥃«»	Leftwards Arrow Above Short Rightwards Arrow
+«#00ff00»⥄«»	Short Rightwards Arrow Above Leftwards Arrow
+«#00ff00»⥅«»	Rightwards Arrow with Plus Below
+«#00ff00»⥆«»	Leftwards Arrow with Plus Below
+«#00ff00»⥇«»	Rightwards Arrow Through X
+«#00ff00»⥈«»	Left Right Arrow Through Small Circle
+«#00ff00»⥉«»	Upwards Two-headed Arrow From Small Circle
+«#00ff00»⥊«»	Left Barb Up Right Barb Down Harpoon
+«#00ff00»⥋«»	Left Barb Down Right Barb Up Harpoon
+«#00ff00»⥌«»	Up Barb Right Down Barb Left Harpoon
+«#00ff00»⥍«»	Up Barb Left Down Barb Right Harpoon
+«#00ff00»⥎«»	Left Barb Up Right Barb Up Harpoon
+«#00ff00»⥏«»	Up Barb Right Down Barb Right Harpoon
+«#00ff00»⥐«»	Left Barb Down Right Barb Down Harpoon
+«#00ff00»⥑«»	Up Barb Left Down Barb Left Harpoon
+«#00ff00»⥒«»	Leftwards Harpoon with Barb Up To Bar
+«#00ff00»⥓«»	Rightwards Harpoon with Barb Up To Bar
+«#00ff00»⥔«»	Upwards Harpoon with Barb Right To Bar
+«#00ff00»⥕«»	Downwards Harpoon with Barb Right To Bar
+«#00ff00»⥖«»	Leftwards Harpoon with Barb Down To Bar
+«#00ff00»⥗«»	Rightwards Harpoon with Barb Down To Bar
+«#00ff00»⥘«»	Upwards Harpoon with Barb Left To Bar
+«#00ff00»⥙«»	Downwards Harpoon with Barb Left To Bar
+«#00ff00»⥚«»	Leftwards Harpoon with Barb Up From Bar
+«#00ff00»⥛«»	Rightwards Harpoon with Barb Up From Bar
+«#00ff00»⥜«»	Upwards Harpoon with Barb Right From Bar
+«#00ff00»⥝«»	Downwards Harpoon with Barb Right From Bar
+«#00ff00»⥞«»	Leftwards Harpoon with Barb Down From Bar
+«#00ff00»⥟«»	Rightwards Harpoon with Barb Down From Bar
+«#00ff00»⥠«»	Upwards Harpoon with Barb Left From Bar
+«#00ff00»⥡«»	Downwards Harpoon with Barb Left From Bar
+«#00ff00»⥢«»	Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down
+«#00ff00»⥣«»	Upwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right
+«#00ff00»⥤«»	Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down
+«#00ff00»⥥«»	Downwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right
+«#00ff00»⥦«»	Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up
+«#00ff00»⥧«»	Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down
+«#00ff00»⥨«»	Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up
+«#00ff00»⥩«»	Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down
+«#00ff00»⥪«»	Leftwards Harpoon with Barb Up Above Long Dash
+«#00ff00»⥫«»	Leftwards Harpoon with Barb Down Below Long Dash
+«#00ff00»⥬«»	Rightwards Harpoon with Barb Up Above Long Dash
+«#00ff00»⥭«»	Rightwards Harpoon with Barb Down Below Long Dash
+«#00ff00»⥮«»	Upwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right
+«#00ff00»⥯«»	Downwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right
+«#00ff00»⥰«»	Right Double Arrow with Rounded Head
+«#00ff00»⥱«»	Equals Sign Above Rightwards Arrow
+«#00ff00»⥲«»	Tilde Operator Above Rightwards Arrow
+«#00ff00»⥳«»	Leftwards Arrow Above Tilde Operator
+«#00ff00»⥴«»	Rightwards Arrow Above Tilde Operator
+«#00ff00»⥵«»	Rightwards Arrow Above Almost Equal To
+«#00ff00»⥶«»	Less-than Above Leftwards Arrow
+«#00ff00»⥷«»	Leftwards Arrow Through Less-than
+«#00ff00»⥸«»	Greater-than Above Rightwards Arrow
+«#00ff00»⥹«»	Subset Above Rightwards Arrow
+«#00ff00»⥺«»	Leftwards Arrow Through Subset
+«#00ff00»⥻«»	Superset Above Leftwards Arrow
+«#00ff00»⥼«»	Left Fish Tail
+«#00ff00»⥽«»	Right Fish Tail
+«#00ff00»⥾«»	Up Fish Tail
+«#00ff00»⥿«»	Down Fish Tail", },
+        ]
+    },
+    {
+        "name": "Mathematical Operators",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+∀∁∂∃∄∅∆∇∈∉∊∋∌∍∎∏∐∑−∓∔∕∖∗∘∙√∛∜∝∞∟∠∡∢∣∤∥∦∧
+∨∩∪∫∬∭∮∯∰∱∲∳∴∵∶∷∸∹∺∻∼∽∾∿≀≁≂≃≄≅≆≇≈≉≊≋≌≍≎≏
+≐≑≒≓≔≕≖≗≘≙≚≛≜≝≞≟≠≡≢≣≤≥≦≧≨≩≪≫≬≭≮≯≰≱≲≳≴≵≶≷
+≸≹≺≻≼≽≾≿⊀⊁⊂⊃⊄⊅⊆⊇⊈⊉⊊⊋⊌⊍⊎⊏⊐⊑⊒⊓⊔⊕⊖⊗⊘⊙⊚⊛⊜⊝⊞⊟
+⊠⊡⊢⊣⊤⊥⊦⊧⊨⊩⊪⊫⊬⊭⊮⊯⊰⊱⊲⊳⊴⊵⊶⊷⊸⊹⊺⊻⊼⊽⊾⊿⋀⋁⋂⋃⋄⋅⋆⋇
+⋈⋉⋊⋋⋌⋍⋎⋏⋐⋑⋒⋓⋔⋕⋖⋗⋘⋙⋚⋛⋜⋝⋞⋟⋠⋡⋢⋣⋤⋥⋦⋧⋨⋩⋪⋫⋬⋭⋮⋯
+⋰⋱⋲⋳⋴⋵⋶⋷⋸⋹⋺⋻⋼⋽⋾⋿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2200",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»∀«»	for All
+«#00ff00»∁«»	Complement
+«#00ff00»∂«»	Partial Differential
+«#00ff00»∃«»	There Exists
+«#00ff00»∄«»	There Does Not Exist
+«#00ff00»∅«»	Empty Set
+«#00ff00»∆«»	Increment
+«#00ff00»∇«»	Nabla
+«#00ff00»∈«»	Element of
+«#00ff00»∉«»	Not An Element of
+«#00ff00»∊«»	Small Element of
+«#00ff00»∋«»	Contains As Member
+«#00ff00»∌«»	Does Not Contain As Member
+«#00ff00»∍«»	Small Contains As Member
+«#00ff00»∎«»	End of Proof
+«#00ff00»∏«»	N-ary Product
+«#00ff00»∐«»	N-ary Coproduct
+«#00ff00»∑«»	N-ary Summation
+«#00ff00»−«»	Minus Sign
+«#00ff00»∓«»	Minus-or-plus Sign
+«#00ff00»∔«»	Dot Plus
+«#00ff00»∕«»	Division Slash
+«#00ff00»∖«»	Set Minus
+«#00ff00»∗«»	Asterisk Operator
+«#00ff00»∘«»	Ring Operator
+«#00ff00»∙«»	Bullet Operator
+«#00ff00»√«»	Square Root
+«#00ff00»∛«»	Cube Root
+«#00ff00»∜«»	Fourth Root
+«#00ff00»∝«»	Proportional To
+«#00ff00»∞«»	Infinity
+«#00ff00»∟«»	Right Angle
+«#00ff00»∠«»	Angle
+«#00ff00»∡«»	Measured Angle
+«#00ff00»∢«»	Spherical Angle
+«#00ff00»∣«»	Divides
+«#00ff00»∤«»	Does Not Divide
+«#00ff00»∥«»	Parallel To
+«#00ff00»∦«»	Not Parallel To
+«#00ff00»∧«»	Logical and
+«#00ff00»∨«»	Logical or
+«#00ff00»∩«»	Intersection
+«#00ff00»∪«»	Union
+«#00ff00»∫«»	Integral
+«#00ff00»∬«»	Double Integral
+«#00ff00»∭«»	Triple Integral
+«#00ff00»∮«»	Contour Integral
+«#00ff00»∯«»	Surface Integral
+«#00ff00»∰«»	Volume Integral
+«#00ff00»∱«»	Clockwise Integral
+«#00ff00»∲«»	Clockwise Contour Integral
+«#00ff00»∳«»	Anticlockwise Contour Integral
+«#00ff00»∴«»	Therefore
+«#00ff00»∵«»	Because
+«#00ff00»∶«»	Ratio
+«#00ff00»∷«»	Proportion
+«#00ff00»∸«»	Dot Minus
+«#00ff00»∹«»	Excess
+«#00ff00»∺«»	Geometric Proportion
+«#00ff00»∻«»	Homothetic
+«#00ff00»∼«»	Tilde Operator
+«#00ff00»∽«»	Reversed Tilde
+«#00ff00»∾«»	Inverted Lazy S
+«#00ff00»∿«»	Sine Wave
+«#00ff00»≀«»	Wreath Product
+«#00ff00»≁«»	Not Tilde
+«#00ff00»≂«»	Minus Tilde
+«#00ff00»≃«»	Asymptotically Equal To
+«#00ff00»≄«»	Not Asymptotically Equal To
+«#00ff00»≅«»	Approximately Equal To
+«#00ff00»≆«»	Approximately But Not Actually Equal To
+«#00ff00»≇«»	Neither Approximately Nor Actually Equal To
+«#00ff00»≈«»	Almost Equal To
+«#00ff00»≉«»	Not Almost Equal To
+«#00ff00»≊«»	Almost Equal or Equal To
+«#00ff00»≋«»	Triple Tilde
+«#00ff00»≌«»	All Equal To
+«#00ff00»≍«»	Equivalent To
+«#00ff00»≎«»	Geometrically Equivalent To
+«#00ff00»≏«»	Difference Between
+«#00ff00»≐«»	Approaches The Limit
+«#00ff00»≑«»	Geometrically Equal To
+«#00ff00»≒«»	Approximately Equal To or The Image of
+«#00ff00»≓«»	Image of or Approximately Equal To
+«#00ff00»≔«»	Colon Equals
+«#00ff00»≕«»	Equals Colon
+«#00ff00»≖«»	Ring In Equal To
+«#00ff00»≗«»	Ring Equal To
+«#00ff00»≘«»	Corresponds To
+«#00ff00»≙«»	Estimates
+«#00ff00»≚«»	Equiangular To
+«#00ff00»≛«»	Star Equals
+«#00ff00»≜«»	Delta Equal To
+«#00ff00»≝«»	Equal To By Definition
+«#00ff00»≞«»	Measured By
+«#00ff00»≟«»	Questioned Equal To
+«#00ff00»≠«»	Not Equal To
+«#00ff00»≡«»	Identical To
+«#00ff00»≢«»	Not Identical To
+«#00ff00»≣«»	Strictly Equivalent To
+«#00ff00»≤«»	Less-than or Equal To
+«#00ff00»≥«»	Greater-than or Equal To
+«#00ff00»≦«»	Less-than Over Equal To
+«#00ff00»≧«»	Greater-than Over Equal To
+«#00ff00»≨«»	Less-than But Not Equal To
+«#00ff00»≩«»	Greater-than But Not Equal To
+«#00ff00»≪«»	Much Less-than
+«#00ff00»≫«»	Much Greater-than
+«#00ff00»≬«»	Between
+«#00ff00»≭«»	Not Equivalent To
+«#00ff00»≮«»	Not Less-than
+«#00ff00»≯«»	Not Greater-than
+«#00ff00»≰«»	Neither Less-than Nor Equal To
+«#00ff00»≱«»	Neither Greater-than Nor Equal To
+«#00ff00»≲«»	Less-than or Equivalent To
+«#00ff00»≳«»	Greater-than or Equivalent To
+«#00ff00»≴«»	Neither Less-than Nor Equivalent To
+«#00ff00»≵«»	Neither Greater-than Nor Equivalent To
+«#00ff00»≶«»	Less-than or Greater-than
+«#00ff00»≷«»	Greater-than or Less-than
+«#00ff00»≸«»	Neither Less-than Nor Greater-than
+«#00ff00»≹«»	Neither Greater-than Nor Less-than
+«#00ff00»≺«»	Precedes
+«#00ff00»≻«»	Succeeds
+«#00ff00»≼«»	Precedes or Equal To
+«#00ff00»≽«»	Succeeds or Equal To
+«#00ff00»≾«»	Precedes or Equivalent To
+«#00ff00»≿«»	Succeeds or Equivalent To
+«#00ff00»⊀«»	Does Not Precede
+«#00ff00»⊁«»	Does Not Succeed
+«#00ff00»⊂«»	Subset of
+«#00ff00»⊃«»	Superset of
+«#00ff00»⊄«»	Not A Subset of
+«#00ff00»⊅«»	Not A Superset of
+«#00ff00»⊆«»	Subset of or Equal To
+«#00ff00»⊇«»	Superset of or Equal To
+«#00ff00»⊈«»	Neither A Subset of Nor Equal To
+«#00ff00»⊉«»	Neither A Superset of Nor Equal To
+«#00ff00»⊊«»	Subset of with Not Equal To
+«#00ff00»⊋«»	Superset of with Not Equal To
+«#00ff00»⊌«»	Multiset
+«#00ff00»⊍«»	Multiset Multiplication
+«#00ff00»⊎«»	Multiset Union
+«#00ff00»⊏«»	Square Image of
+«#00ff00»⊐«»	Square Original of
+«#00ff00»⊑«»	Square Image of or Equal To
+«#00ff00»⊒«»	Square Original of or Equal To
+«#00ff00»⊓«»	Square Cap
+«#00ff00»⊔«»	Square Cup
+«#00ff00»⊕«»	Circled Plus
+«#00ff00»⊖«»	Circled Minus
+«#00ff00»⊗«»	Circled Times
+«#00ff00»⊘«»	Circled Division Slash
+«#00ff00»⊙«»	Circled Dot Operator
+«#00ff00»⊚«»	Circled Ring Operator
+«#00ff00»⊛«»	Circled Asterisk Operator
+«#00ff00»⊜«»	Circled Equals
+«#00ff00»⊝«»	Circled Dash
+«#00ff00»⊞«»	Squared Plus
+«#00ff00»⊟«»	Squared Minus
+«#00ff00»⊠«»	Squared Times
+«#00ff00»⊡«»	Squared Dot Operator
+«#00ff00»⊢«»	Right Tack
+«#00ff00»⊣«»	Left Tack
+«#00ff00»⊤«»	Down Tack
+«#00ff00»⊥«»	Up Tack
+«#00ff00»⊦«»	Assertion
+«#00ff00»⊧«»	Models
+«#00ff00»⊨«»	True
+«#00ff00»⊩«»	Forces
+«#00ff00»⊪«»	Triple Vertical Bar Right Turnstile
+«#00ff00»⊫«»	Double Vertical Bar Double Right Turnstile
+«#00ff00»⊬«»	Does Not Prove
+«#00ff00»⊭«»	Not True
+«#00ff00»⊮«»	Does Not Force
+«#00ff00»⊯«»	Negated Double Vertical Bar Double Right Turnstile
+«#00ff00»⊰«»	Precedes Under Relation
+«#00ff00»⊱«»	Succeeds Under Relation
+«#00ff00»⊲«»	Normal Subgroup of
+«#00ff00»⊳«»	Contains As Normal Subgroup
+«#00ff00»⊴«»	Normal Subgroup of or Equal To
+«#00ff00»⊵«»	Contains As Normal Subgroup or Equal To
+«#00ff00»⊶«»	Original of
+«#00ff00»⊷«»	Image of
+«#00ff00»⊸«»	Multimap
+«#00ff00»⊹«»	Hermitian Conjugate Matrix
+«#00ff00»⊺«»	Intercalate
+«#00ff00»⊻«»	Xor
+«#00ff00»⊼«»	Nand
+«#00ff00»⊽«»	Nor
+«#00ff00»⊾«»	Right Angle with Arc
+«#00ff00»⊿«»	Right Triangle
+«#00ff00»⋀«»	N-ary Logical and
+«#00ff00»⋁«»	N-ary Logical or
+«#00ff00»⋂«»	N-ary Intersection
+«#00ff00»⋃«»	N-ary Union
+«#00ff00»⋄«»	Diamond Operator
+«#00ff00»⋅«»	Dot Operator
+«#00ff00»⋆«»	Star Operator
+«#00ff00»⋇«»	Division Times
+«#00ff00»⋈«»	Bowtie
+«#00ff00»⋉«»	Left Normal Factor Semidirect Product
+«#00ff00»⋊«»	Right Normal Factor Semidirect Product
+«#00ff00»⋋«»	Left Semidirect Product
+«#00ff00»⋌«»	Right Semidirect Product
+«#00ff00»⋍«»	Reversed Tilde Equals
+«#00ff00»⋎«»	Curly Logical or
+«#00ff00»⋏«»	Curly Logical and
+«#00ff00»⋐«»	Double Subset
+«#00ff00»⋑«»	Double Superset
+«#00ff00»⋒«»	Double Intersection
+«#00ff00»⋓«»	Double Union
+«#00ff00»⋔«»	Pitchfork
+«#00ff00»⋕«»	Equal and Parallel To
+«#00ff00»⋖«»	Less-than with Dot
+«#00ff00»⋗«»	Greater-than with Dot
+«#00ff00»⋘«»	Very Much Less-than
+«#00ff00»⋙«»	Very Much Greater-than
+«#00ff00»⋚«»	Less-than Equal To or Greater-than
+«#00ff00»⋛«»	Greater-than Equal To or Less-than
+«#00ff00»⋜«»	Equal To or Less-than
+«#00ff00»⋝«»	Equal To or Greater-than
+«#00ff00»⋞«»	Equal To or Precedes
+«#00ff00»⋟«»	Equal To or Succeeds
+«#00ff00»⋠«»	Does Not Precede or Equal
+«#00ff00»⋡«»	Does Not Succeed or Equal
+«#00ff00»⋢«»	Not Square Image of or Equal To
+«#00ff00»⋣«»	Not Square Original of or Equal To
+«#00ff00»⋤«»	Square Image of or Not Equal To
+«#00ff00»⋥«»	Square Original of or Not Equal To
+«#00ff00»⋦«»	Less-than But Not Equivalent To
+«#00ff00»⋧«»	Greater-than But Not Equivalent To
+«#00ff00»⋨«»	Precedes But Not Equivalent To
+«#00ff00»⋩«»	Succeeds But Not Equivalent To
+«#00ff00»⋪«»	Not Normal Subgroup of
+«#00ff00»⋫«»	Does Not Contain As Normal Subgroup
+«#00ff00»⋬«»	Not Normal Subgroup of or Equal To
+«#00ff00»⋭«»	Does Not Contain As Normal Subgroup or Equal
+«#00ff00»⋮«»	Vertical Ellipsis
+«#00ff00»⋯«»	Midline Horizontal Ellipsis
+«#00ff00»⋰«»	Up Right Diagonal Ellipsis
+«#00ff00»⋱«»	Down Right Diagonal Ellipsis
+«#00ff00»⋲«»	Element of with Long Horizontal Stroke
+«#00ff00»⋳«»	Element of with Vertical Bar At End of Horizontal Stroke
+«#00ff00»⋴«»	Small Element of with Vertical Bar At End of Horizontal Stroke
+«#00ff00»⋵«»	Element of with Dot Above
+«#00ff00»⋶«»	Element of with Overbar
+«#00ff00»⋷«»	Small Element of with Overbar
+«#00ff00»⋸«»	Element of with Underbar
+«#00ff00»⋹«»	Element of with Two Horizontal Strokes
+«#00ff00»⋺«»	Contains with Long Horizontal Stroke
+«#00ff00»⋻«»	Contains with Vertical Bar At End of Horizontal Stroke
+«#00ff00»⋼«»	Small Contains with Vertical Bar At End of Horizontal Stroke
+«#00ff00»⋽«»	Contains with Overbar
+«#00ff00»⋾«»	Small Contains with Overbar
+«#00ff00»⋿«»	Z Notation Bag Membership", },
+        ]
+    },
+    {
+        "name": "Control Pictures",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+␀␁␂␃␄␅␆␇␈␉␊␋␌␍␎␏␐␑␒␓␔␕␖␗␘␙␚␛␜␝␞␟␠␡␢␣␤␥
+␦", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2400",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»␀«»	Symbol for Null
+«#00ff00»␁«»	Symbol for Start of Heading
+«#00ff00»␂«»	Symbol for Start of Text
+«#00ff00»␃«»	Symbol for End of Text
+«#00ff00»␄«»	Symbol for End of Transmission
+«#00ff00»␅«»	Symbol for Enquiry
+«#00ff00»␆«»	Symbol for Acknowledge
+«#00ff00»␇«»	Symbol for Bell
+«#00ff00»␈«»	Symbol for Backspace
+«#00ff00»␉«»	Symbol for Horizontal Tabulation
+«#00ff00»␊«»	Symbol for Line Feed
+«#00ff00»␋«»	Symbol for Vertical Tabulation
+«#00ff00»␌«»	Symbol for Form Feed
+«#00ff00»␍«»	Symbol for Carriage Return
+«#00ff00»␎«»	Symbol for Shift Out
+«#00ff00»␏«»	Symbol for Shift In
+«#00ff00»␐«»	Symbol for Data Link Escape
+«#00ff00»␑«»	Symbol for Device Control One
+«#00ff00»␒«»	Symbol for Device Control Two
+«#00ff00»␓«»	Symbol for Device Control Three
+«#00ff00»␔«»	Symbol for Device Control Four
+«#00ff00»␕«»	Symbol for Negative Acknowledge
+«#00ff00»␖«»	Symbol for Synchronous Idle
+«#00ff00»␗«»	Symbol for End of Transmission Block
+«#00ff00»␘«»	Symbol for Cancel
+«#00ff00»␙«»	Symbol for End of Medium
+«#00ff00»␚«»	Symbol for Substitute
+«#00ff00»␛«»	Symbol for Escape
+«#00ff00»␜«»	Symbol for File Separator
+«#00ff00»␝«»	Symbol for Group Separator
+«#00ff00»␞«»	Symbol for Record Separator
+«#00ff00»␟«»	Symbol for Unit Separator
+«#00ff00»␠«»	Symbol for Space
+«#00ff00»␡«»	Symbol for Delete
+«#00ff00»␢«»	Blank Symbol
+«#00ff00»␣«»	Open Box
+«#00ff00»␤«»	Symbol for Newline
+«#00ff00»␥«»	Symbol for Delete Form Two
+«#00ff00»␦«»	Symbol for Substitute Form Two", },
+        ]
+    },
+    {
+        "name": "Letterlike Symbols",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+℀℁ℂ℃℄℅℆ℇ℈℉ℊℋℌℍℎℏℐℑℒℓ℔ℕ№℗℘ℙℚℛℜℝ℞℟℠℡™℣ℤ℥
+Ω℧ℨ℩KÅℬℭ℮ℯℰℱℲℳℴℵℶℷℸℹ℺℻ℼℽℾℿ⅀⅁⅂⅃⅄ⅅⅆⅇⅈⅉ⅊⅋
+⅌⅍ⅎ⅏", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2100",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»℀«»	Account of
+«#00ff00»℁«»	Addressed To The Subject
+«#00ff00»ℂ«»	Double-struck Capital C
+«#00ff00»℃«»	Degree Celsius
+«#00ff00»℄«»	Centre Line Symbol
+«#00ff00»℅«»	Care of
+«#00ff00»℆«»	Cada Una
+«#00ff00»ℇ«»	Euler Constant
+«#00ff00»℈«»	Scruple
+«#00ff00»℉«»	Degree Fahrenheit
+«#00ff00»ℊ«»	Script Small G
+«#00ff00»ℋ«»	Script Capital H
+«#00ff00»ℌ«»	Black-letter Capital H
+«#00ff00»ℍ«»	Double-struck Capital H
+«#00ff00»ℎ«»	Planck Constant
+«#00ff00»ℏ«»	Planck Constant Over Two Pi
+«#00ff00»ℐ«»	Script Capital I
+«#00ff00»ℑ«»	Black-letter Capital I
+«#00ff00»ℒ«»	Script Capital L
+«#00ff00»ℓ«»	Script Small L
+«#00ff00»℔«»	L B Bar Symbol
+«#00ff00»ℕ«»	Double-struck Capital N
+«#00ff00»№«»	Numero Sign
+«#00ff00»℗«»	Sound Recording Copyright
+«#00ff00»℘«»	Script Capital P
+«#00ff00»ℙ«»	Double-struck Capital P
+«#00ff00»ℚ«»	Double-struck Capital Q
+«#00ff00»ℛ«»	Script Capital R
+«#00ff00»ℜ«»	Black-letter Capital R
+«#00ff00»ℝ«»	Double-struck Capital R
+«#00ff00»℞«»	Prescription Take
+«#00ff00»℟«»	Response
+«#00ff00»℠«»	Service Mark
+«#00ff00»℡«»	Telephone Sign
+«#00ff00»™«»	Trade Mark Sign
+«#00ff00»℣«»	Versicle
+«#00ff00»ℤ«»	Double-struck Capital Z
+«#00ff00»℥«»	Ounce Sign
+«#00ff00»Ω«»	Ohm Sign
+«#00ff00»℧«»	Inverted Ohm Sign
+«#00ff00»ℨ«»	Black-letter Capital Z
+«#00ff00»℩«»	Turned Greek Small Letter Iota
+«#00ff00»K«»	Kelvin Sign
+«#00ff00»Å«»	Angstrom Sign
+«#00ff00»ℬ«»	Script Capital B
+«#00ff00»ℭ«»	Black-letter Capital C
+«#00ff00»℮«»	Estimated Symbol
+«#00ff00»ℯ«»	Script Small E
+«#00ff00»ℰ«»	Script Capital E
+«#00ff00»ℱ«»	Script Capital F
+«#00ff00»Ⅎ«»	Turned Capital F
+«#00ff00»ℳ«»	Script Capital M
+«#00ff00»ℴ«»	Script Small O
+«#00ff00»ℵ«»	Alef Symbol
+«#00ff00»ℶ«»	Bet Symbol
+«#00ff00»ℷ«»	Gimel Symbol
+«#00ff00»ℸ«»	Dalet Symbol
+«#00ff00»ℹ«»	Information Source
+«#00ff00»℺«»	Rotated Capital Q
+«#00ff00»℻«»	Facsimile Sign
+«#00ff00»ℼ«»	Double-struck Small Pi
+«#00ff00»ℽ«»	Double-struck Small Gamma
+«#00ff00»ℾ«»	Double-struck Capital Gamma
+«#00ff00»ℿ«»	Double-struck Capital Pi
+«#00ff00»⅀«»	Double-struck N-ary Summation
+«#00ff00»⅁«»	Turned Sans-serif Capital G
+«#00ff00»⅂«»	Turned Sans-serif Capital L
+«#00ff00»⅃«»	Reversed Sans-serif Capital L
+«#00ff00»⅄«»	Turned Sans-serif Capital Y
+«#00ff00»ⅅ«»	Double-struck Italic Capital D
+«#00ff00»ⅆ«»	Double-struck Italic Small D
+«#00ff00»ⅇ«»	Double-struck Italic Small E
+«#00ff00»ⅈ«»	Double-struck Italic Small I
+«#00ff00»ⅉ«»	Double-struck Italic Small J
+«#00ff00»⅊«»	Property Line
+«#00ff00»⅋«»	Turned Ampersand
+«#00ff00»⅌«»	Per Sign
+«#00ff00»⅍«»	Aktieselskab
+«#00ff00»ⅎ«»	Turned Small F
+«#00ff00»⅏«»	Symbol for Samaritan Source", },
+        ]
+    },
+    {
+        "name": "Enclosed Alphanumerics",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅
+⒆⒇⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫
+⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏⓐⓑ
+ⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ⓪⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴⓵⓶⓷
+⓸⓹⓺⓻⓼⓽⓾⓿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2460",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»①«»	Circled Digit One
+«#00ff00»②«»	Circled Digit Two
+«#00ff00»③«»	Circled Digit Three
+«#00ff00»④«»	Circled Digit Four
+«#00ff00»⑤«»	Circled Digit Five
+«#00ff00»⑥«»	Circled Digit Six
+«#00ff00»⑦«»	Circled Digit Seven
+«#00ff00»⑧«»	Circled Digit Eight
+«#00ff00»⑨«»	Circled Digit Nine
+«#00ff00»⑩«»	Circled Number Ten
+«#00ff00»⑪«»	Circled Number Eleven
+«#00ff00»⑫«»	Circled Number Twelve
+«#00ff00»⑬«»	Circled Number Thirteen
+«#00ff00»⑭«»	Circled Number Fourteen
+«#00ff00»⑮«»	Circled Number Fifteen
+«#00ff00»⑯«»	Circled Number Sixteen
+«#00ff00»⑰«»	Circled Number Seventeen
+«#00ff00»⑱«»	Circled Number Eighteen
+«#00ff00»⑲«»	Circled Number Nineteen
+«#00ff00»⑳«»	Circled Number Twenty
+«#00ff00»⑴«»	Parenthesized Digit One
+«#00ff00»⑵«»	Parenthesized Digit Two
+«#00ff00»⑶«»	Parenthesized Digit Three
+«#00ff00»⑷«»	Parenthesized Digit Four
+«#00ff00»⑸«»	Parenthesized Digit Five
+«#00ff00»⑹«»	Parenthesized Digit Six
+«#00ff00»⑺«»	Parenthesized Digit Seven
+«#00ff00»⑻«»	Parenthesized Digit Eight
+«#00ff00»⑼«»	Parenthesized Digit Nine
+«#00ff00»⑽«»	Parenthesized Number Ten
+«#00ff00»⑾«»	Parenthesized Number Eleven
+«#00ff00»⑿«»	Parenthesized Number Twelve
+«#00ff00»⒀«»	Parenthesized Number Thirteen
+«#00ff00»⒁«»	Parenthesized Number Fourteen
+«#00ff00»⒂«»	Parenthesized Number Fifteen
+«#00ff00»⒃«»	Parenthesized Number Sixteen
+«#00ff00»⒄«»	Parenthesized Number Seventeen
+«#00ff00»⒅«»	Parenthesized Number Eighteen
+«#00ff00»⒆«»	Parenthesized Number Nineteen
+«#00ff00»⒇«»	Parenthesized Number Twenty
+«#00ff00»⒈«»	Digit One Full Stop
+«#00ff00»⒉«»	Digit Two Full Stop
+«#00ff00»⒊«»	Digit Three Full Stop
+«#00ff00»⒋«»	Digit Four Full Stop
+«#00ff00»⒌«»	Digit Five Full Stop
+«#00ff00»⒍«»	Digit Six Full Stop
+«#00ff00»⒎«»	Digit Seven Full Stop
+«#00ff00»⒏«»	Digit Eight Full Stop
+«#00ff00»⒐«»	Digit Nine Full Stop
+«#00ff00»⒑«»	Number Ten Full Stop
+«#00ff00»⒒«»	Number Eleven Full Stop
+«#00ff00»⒓«»	Number Twelve Full Stop
+«#00ff00»⒔«»	Number Thirteen Full Stop
+«#00ff00»⒕«»	Number Fourteen Full Stop
+«#00ff00»⒖«»	Number Fifteen Full Stop
+«#00ff00»⒗«»	Number Sixteen Full Stop
+«#00ff00»⒘«»	Number Seventeen Full Stop
+«#00ff00»⒙«»	Number Eighteen Full Stop
+«#00ff00»⒚«»	Number Nineteen Full Stop
+«#00ff00»⒛«»	Number Twenty Full Stop
+«#00ff00»⒜«»	Parenthesized Latin Small Letter A
+«#00ff00»⒝«»	Parenthesized Latin Small Letter B
+«#00ff00»⒞«»	Parenthesized Latin Small Letter C
+«#00ff00»⒟«»	Parenthesized Latin Small Letter D
+«#00ff00»⒠«»	Parenthesized Latin Small Letter E
+«#00ff00»⒡«»	Parenthesized Latin Small Letter F
+«#00ff00»⒢«»	Parenthesized Latin Small Letter G
+«#00ff00»⒣«»	Parenthesized Latin Small Letter H
+«#00ff00»⒤«»	Parenthesized Latin Small Letter I
+«#00ff00»⒥«»	Parenthesized Latin Small Letter J
+«#00ff00»⒦«»	Parenthesized Latin Small Letter K
+«#00ff00»⒧«»	Parenthesized Latin Small Letter L
+«#00ff00»⒨«»	Parenthesized Latin Small Letter M
+«#00ff00»⒩«»	Parenthesized Latin Small Letter N
+«#00ff00»⒪«»	Parenthesized Latin Small Letter O
+«#00ff00»⒫«»	Parenthesized Latin Small Letter P
+«#00ff00»⒬«»	Parenthesized Latin Small Letter Q
+«#00ff00»⒭«»	Parenthesized Latin Small Letter R
+«#00ff00»⒮«»	Parenthesized Latin Small Letter S
+«#00ff00»⒯«»	Parenthesized Latin Small Letter T
+«#00ff00»⒰«»	Parenthesized Latin Small Letter U
+«#00ff00»⒱«»	Parenthesized Latin Small Letter V
+«#00ff00»⒲«»	Parenthesized Latin Small Letter W
+«#00ff00»⒳«»	Parenthesized Latin Small Letter X
+«#00ff00»⒴«»	Parenthesized Latin Small Letter Y
+«#00ff00»⒵«»	Parenthesized Latin Small Letter Z
+«#00ff00»Ⓐ«»	Circled Latin Capital Letter A
+«#00ff00»Ⓑ«»	Circled Latin Capital Letter B
+«#00ff00»Ⓒ«»	Circled Latin Capital Letter C
+«#00ff00»Ⓓ«»	Circled Latin Capital Letter D
+«#00ff00»Ⓔ«»	Circled Latin Capital Letter E
+«#00ff00»Ⓕ«»	Circled Latin Capital Letter F
+«#00ff00»Ⓖ«»	Circled Latin Capital Letter G
+«#00ff00»Ⓗ«»	Circled Latin Capital Letter H
+«#00ff00»Ⓘ«»	Circled Latin Capital Letter I
+«#00ff00»Ⓙ«»	Circled Latin Capital Letter J
+«#00ff00»Ⓚ«»	Circled Latin Capital Letter K
+«#00ff00»Ⓛ«»	Circled Latin Capital Letter L
+«#00ff00»Ⓜ«»	Circled Latin Capital Letter M
+«#00ff00»Ⓝ«»	Circled Latin Capital Letter N
+«#00ff00»Ⓞ«»	Circled Latin Capital Letter O
+«#00ff00»Ⓟ«»	Circled Latin Capital Letter P
+«#00ff00»Ⓠ«»	Circled Latin Capital Letter Q
+«#00ff00»Ⓡ«»	Circled Latin Capital Letter R
+«#00ff00»Ⓢ«»	Circled Latin Capital Letter S
+«#00ff00»Ⓣ«»	Circled Latin Capital Letter T
+«#00ff00»Ⓤ«»	Circled Latin Capital Letter U
+«#00ff00»Ⓥ«»	Circled Latin Capital Letter V
+«#00ff00»Ⓦ«»	Circled Latin Capital Letter W
+«#00ff00»Ⓧ«»	Circled Latin Capital Letter X
+«#00ff00»Ⓨ«»	Circled Latin Capital Letter Y
+«#00ff00»Ⓩ«»	Circled Latin Capital Letter Z
+«#00ff00»ⓐ«»	Circled Latin Small Letter A
+«#00ff00»ⓑ«»	Circled Latin Small Letter B
+«#00ff00»ⓒ«»	Circled Latin Small Letter C
+«#00ff00»ⓓ«»	Circled Latin Small Letter D
+«#00ff00»ⓔ«»	Circled Latin Small Letter E
+«#00ff00»ⓕ«»	Circled Latin Small Letter F
+«#00ff00»ⓖ«»	Circled Latin Small Letter G
+«#00ff00»ⓗ«»	Circled Latin Small Letter H
+«#00ff00»ⓘ«»	Circled Latin Small Letter I
+«#00ff00»ⓙ«»	Circled Latin Small Letter J
+«#00ff00»ⓚ«»	Circled Latin Small Letter K
+«#00ff00»ⓛ«»	Circled Latin Small Letter L
+«#00ff00»ⓜ«»	Circled Latin Small Letter M
+«#00ff00»ⓝ«»	Circled Latin Small Letter N
+«#00ff00»ⓞ«»	Circled Latin Small Letter O
+«#00ff00»ⓟ«»	Circled Latin Small Letter P
+«#00ff00»ⓠ«»	Circled Latin Small Letter Q
+«#00ff00»ⓡ«»	Circled Latin Small Letter R
+«#00ff00»ⓢ«»	Circled Latin Small Letter S
+«#00ff00»ⓣ«»	Circled Latin Small Letter T
+«#00ff00»ⓤ«»	Circled Latin Small Letter U
+«#00ff00»ⓥ«»	Circled Latin Small Letter V
+«#00ff00»ⓦ«»	Circled Latin Small Letter W
+«#00ff00»ⓧ«»	Circled Latin Small Letter X
+«#00ff00»ⓨ«»	Circled Latin Small Letter Y
+«#00ff00»ⓩ«»	Circled Latin Small Letter Z
+«#00ff00»⓪«»	Circled Digit Zero
+«#00ff00»⓫«»	Negative Circled Number Eleven
+«#00ff00»⓬«»	Negative Circled Number Twelve
+«#00ff00»⓭«»	Negative Circled Number Thirteen
+«#00ff00»⓮«»	Negative Circled Number Fourteen
+«#00ff00»⓯«»	Negative Circled Number Fifteen
+«#00ff00»⓰«»	Negative Circled Number Sixteen
+«#00ff00»⓱«»	Negative Circled Number Seventeen
+«#00ff00»⓲«»	Negative Circled Number Eighteen
+«#00ff00»⓳«»	Negative Circled Number Nineteen
+«#00ff00»⓴«»	Negative Circled Number Twenty
+«#00ff00»⓵«»	Double Circled Digit One
+«#00ff00»⓶«»	Double Circled Digit Two
+«#00ff00»⓷«»	Double Circled Digit Three
+«#00ff00»⓸«»	Double Circled Digit Four
+«#00ff00»⓹«»	Double Circled Digit Five
+«#00ff00»⓺«»	Double Circled Digit Six
+«#00ff00»⓻«»	Double Circled Digit Seven
+«#00ff00»⓼«»	Double Circled Digit Eight
+«#00ff00»⓽«»	Double Circled Digit Nine
+«#00ff00»⓾«»	Double Circled Number Ten
+«#00ff00»⓿«»	Negative Circled Digit Zero", },
+        ]
+    },
+    {
+        "name": "General Punctuation",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+           ​‌‍‎‏‐‑‒–—―‖‗‘’‚‛“”„‟†‡•‣․‥
+…‧  ‪‫‬‭‮ ‰‱′″‴‵‶‷‸‹›※‼‽‾‿⁀⁁⁂⁃⁄⁅⁆⁇⁈⁉⁊⁋
+⁌⁍⁎⁏⁐⁑⁒⁓⁔⁕⁖⁗⁘⁙⁚⁛⁜⁝⁞ ⁠⁡⁢⁣⁤⁦⁧⁨⁩⁪⁫⁬⁭⁮⁯", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2000",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00» «»	En Quad
+«#00ff00» «»	Em Quad
+«#00ff00» «»	En Space
+«#00ff00» «»	Em Space
+«#00ff00» «»	Three-per-em Space
+«#00ff00» «»	Four-per-em Space
+«#00ff00» «»	Six-per-em Space
+«#00ff00» «»	Figure Space
+«#00ff00» «»	Punctuation Space
+«#00ff00» «»	Thin Space
+«#00ff00» «»	Hair Space
+«#00ff00»​«»	Zero Width Space
+«#00ff00»‌«»	Zero Width Non-joiner
+«#00ff00»‍«»	Zero Width Joiner
+«#00ff00»‎«»	Left-to-right Mark
+«#00ff00»‏«»	Right-to-left Mark
+«#00ff00»‐«»	Hyphen
+«#00ff00»‑«»	Non-breaking Hyphen
+«#00ff00»‒«»	Figure Dash
+«#00ff00»–«»	En Dash
+«#00ff00»—«»	Em Dash
+«#00ff00»―«»	Horizontal Bar
+«#00ff00»‖«»	Double Vertical Line
+«#00ff00»‗«»	Double Low Line
+«#00ff00»‘«»	Left Single Quotation Mark
+«#00ff00»’«»	Right Single Quotation Mark
+«#00ff00»‚«»	Single Low-9 Quotation Mark
+«#00ff00»‛«»	Single High-reversed-9 Quotation Mark
+«#00ff00»“«»	Left Double Quotation Mark
+«#00ff00»”«»	Right Double Quotation Mark
+«#00ff00»„«»	Double Low-9 Quotation Mark
+«#00ff00»‟«»	Double High-reversed-9 Quotation Mark
+«#00ff00»†«»	Dagger
+«#00ff00»‡«»	Double Dagger
+«#00ff00»•«»	Bullet
+«#00ff00»‣«»	Triangular Bullet
+«#00ff00»․«»	One Dot Leader
+«#00ff00»‥«»	Two Dot Leader
+«#00ff00»…«»	Horizontal Ellipsis
+«#00ff00»‧«»	Hyphenation Point
+«#00ff00» «»	Line Separator
+«#00ff00» «»	Paragraph Separator
+«#00ff00»‪«»	Left-to-right Embedding
+«#00ff00»‫«»	Right-to-left Embedding
+«#00ff00»‬«»	Pop Directional Formatting
+«#00ff00»‭«»	Left-to-right Override
+«#00ff00»‮«»	Right-to-left Override
+«#00ff00» «»	Narrow No-break Space
+«#00ff00»‰«»	Per Mille Sign
+«#00ff00»‱«»	Per Ten Thousand Sign
+«#00ff00»′«»	Prime
+«#00ff00»″«»	Double Prime
+«#00ff00»‴«»	Triple Prime
+«#00ff00»‵«»	Reversed Prime
+«#00ff00»‶«»	Reversed Double Prime
+«#00ff00»‷«»	Reversed Triple Prime
+«#00ff00»‸«»	Caret
+«#00ff00»‹«»	Single Left-pointing Angle Quotation Mark
+«#00ff00»›«»	Single Right-pointing Angle Quotation Mark
+«#00ff00»※«»	Reference Mark
+«#00ff00»‼«»	Double Exclamation Mark
+«#00ff00»‽«»	Interrobang
+«#00ff00»‾«»	Overline
+«#00ff00»‿«»	Undertie
+«#00ff00»⁀«»	Character Tie
+«#00ff00»⁁«»	Caret Insertion Point
+«#00ff00»⁂«»	Asterism
+«#00ff00»⁃«»	Hyphen Bullet
+«#00ff00»⁄«»	Fraction Slash
+«#00ff00»⁅«»	Left Square Bracket with Quill
+«#00ff00»⁆«»	Right Square Bracket with Quill
+«#00ff00»⁇«»	Double Question Mark
+«#00ff00»⁈«»	Question Exclamation Mark
+«#00ff00»⁉«»	Exclamation Question Mark
+«#00ff00»⁊«»	Tironian Sign Et
+«#00ff00»⁋«»	Reversed Pilcrow Sign
+«#00ff00»⁌«»	Black Leftwards Bullet
+«#00ff00»⁍«»	Black Rightwards Bullet
+«#00ff00»⁎«»	Low Asterisk
+«#00ff00»⁏«»	Reversed Semicolon
+«#00ff00»⁐«»	Close Up
+«#00ff00»⁑«»	Two Asterisks Aligned Vertically
+«#00ff00»⁒«»	Commercial Minus Sign
+«#00ff00»⁓«»	Swung Dash
+«#00ff00»⁔«»	Inverted Undertie
+«#00ff00»⁕«»	Flower Punctuation Mark
+«#00ff00»⁖«»	Three Dot Punctuation
+«#00ff00»⁗«»	Quadruple Prime
+«#00ff00»⁘«»	Four Dot Punctuation
+«#00ff00»⁙«»	Five Dot Punctuation
+«#00ff00»⁚«»	Two Dot Punctuation
+«#00ff00»⁛«»	Four Dot Mark
+«#00ff00»⁜«»	Dotted Cross
+«#00ff00»⁝«»	Tricolon
+«#00ff00»⁞«»	Vertical Four Dots
+«#00ff00» «»	Medium Mathematical Space
+«#00ff00»⁠«»	Word Joiner
+«#00ff00»⁡«»	Function Application
+«#00ff00»⁢«»	Invisible Times
+«#00ff00»⁣«»	Invisible Separator
+«#00ff00»⁤«»	Invisible Plus
+«#00ff00»⁦«»	Left-to-right Isolate
+«#00ff00»⁧«»	Right-to-left Isolate
+«#00ff00»⁨«»	First Strong Isolate
+«#00ff00»⁩«»	Pop Directional Isolate
+«#00ff00»⁪«»	Inhibit Symmetric Swapping
+«#00ff00»⁫«»	Activate Symmetric Swapping
+«#00ff00»⁬«»	Inhibit Arabic Form Shaping
+«#00ff00»⁭«»	Activate Arabic Form Shaping
+«#00ff00»⁮«»	National Digit Shapes
+«#00ff00»⁯«»	Nominal Digit Shapes", },
+        ]
+    },
+    {
+        "name": "Superscripts and Subscripts",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⁰ⁱ⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿ₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎ₐₑₒₓₔₕₖₗₘ
+ₙₚₛₜ", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+2070",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⁰«»	Superscript Zero
+«#00ff00»ⁱ«»	Superscript Latin Small Letter I
+«#00ff00»⁴«»	Superscript Four
+«#00ff00»⁵«»	Superscript Five
+«#00ff00»⁶«»	Superscript Six
+«#00ff00»⁷«»	Superscript Seven
+«#00ff00»⁸«»	Superscript Eight
+«#00ff00»⁹«»	Superscript Nine
+«#00ff00»⁺«»	Superscript Plus Sign
+«#00ff00»⁻«»	Superscript Minus
+«#00ff00»⁼«»	Superscript Equals Sign
+«#00ff00»⁽«»	Superscript Left Parenthesis
+«#00ff00»⁾«»	Superscript Right Parenthesis
+«#00ff00»ⁿ«»	Superscript Latin Small Letter N
+«#00ff00»₀«»	Subscript Zero
+«#00ff00»₁«»	Subscript One
+«#00ff00»₂«»	Subscript Two
+«#00ff00»₃«»	Subscript Three
+«#00ff00»₄«»	Subscript Four
+«#00ff00»₅«»	Subscript Five
+«#00ff00»₆«»	Subscript Six
+«#00ff00»₇«»	Subscript Seven
+«#00ff00»₈«»	Subscript Eight
+«#00ff00»₉«»	Subscript Nine
+«#00ff00»₊«»	Subscript Plus Sign
+«#00ff00»₋«»	Subscript Minus
+«#00ff00»₌«»	Subscript Equals Sign
+«#00ff00»₍«»	Subscript Left Parenthesis
+«#00ff00»₎«»	Subscript Right Parenthesis
+«#00ff00»ₐ«»	Latin Subscript Small Letter A
+«#00ff00»ₑ«»	Latin Subscript Small Letter E
+«#00ff00»ₒ«»	Latin Subscript Small Letter O
+«#00ff00»ₓ«»	Latin Subscript Small Letter X
+«#00ff00»ₔ«»	Latin Subscript Small Letter Schwa
+«#00ff00»ₕ«»	Latin Subscript Small Letter H
+«#00ff00»ₖ«»	Latin Subscript Small Letter K
+«#00ff00»ₗ«»	Latin Subscript Small Letter L
+«#00ff00»ₘ«»	Latin Subscript Small Letter M
+«#00ff00»ₙ«»	Latin Subscript Small Letter N
+«#00ff00»ₚ«»	Latin Subscript Small Letter P
+«#00ff00»ₛ«»	Latin Subscript Small Letter S
+«#00ff00»ₜ«»	Latin Subscript Small Letter T", },
+        ]
+    },
+    {
+        "name": "Currency Symbols",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+20A0",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»₠«»	Euro-currency Sign
+«#00ff00»₡«»	Colon Sign
+«#00ff00»₢«»	Cruzeiro Sign
+«#00ff00»₣«»	French Franc Sign
+«#00ff00»₤«»	Lira Sign
+«#00ff00»₥«»	Mill Sign
+«#00ff00»₦«»	Naira Sign
+«#00ff00»₧«»	Peseta Sign
+«#00ff00»₨«»	Rupee Sign
+«#00ff00»₩«»	Won Sign
+«#00ff00»₪«»	New Sheqel Sign
+«#00ff00»₫«»	Dong Sign
+«#00ff00»€«»	Euro Sign
+«#00ff00»₭«»	Kip Sign
+«#00ff00»₮«»	Tugrik Sign
+«#00ff00»₯«»	Drachma Sign
+«#00ff00»₰«»	German Penny Sign
+«#00ff00»₱«»	Peso Sign
+«#00ff00»₲«»	Guarani Sign
+«#00ff00»₳«»	Austral Sign
+«#00ff00»₴«»	Hryvnia Sign
+«#00ff00»₵«»	Cedi Sign
+«#00ff00»₶«»	Livre Tournois Sign
+«#00ff00»₷«»	Spesmilo Sign
+«#00ff00»₸«»	Tenge Sign
+«#00ff00»₹«»	Indian Rupee Sign
+«#00ff00»₺«»	Turkish Lira Sign
+«#00ff00»₻«»	Nordic Mark Sign
+«#00ff00»₼«»	Manat Sign
+«#00ff00»₽«»	Ruble Sign
+«#00ff00»₾«»	Lari Sign
+«#00ff00»₿«»	Bitcoin Sign", },
+        ]
+    },
+    {
+        "name": "Combining Diacritical Marks for Symbols",
+        "category": "⚑ FancyText Unicode ⚑",
+        "civilopediaText": [
+            { "size": 25,
+              "padding": 1,
+              "text": "
+⃒⃓⃘⃙⃚⃐⃑⃔⃕⃖⃗⃛⃜⃝⃞⃟⃠⃡⃢⃣⃤⃥⃦⃪⃫⃨⃬⃭⃮⃯⃧⃩⃰", },
+
+            { "separator": true },
+            {  "text": "This link opens the Compart Unicode block page in your browser. Copy characters or inspect the block there.",
+               "link": "https://www.compart.com/en/unicode/block/U+20D0",
+               "color": "#00FFFF",
+               "size": 16, },
+
+            { "size": 22, "text": "
+«#00ff00»⃐«»	Combining Left Harpoon Above
+«#00ff00»⃑«»	Combining Right Harpoon Above
+«#00ff00»⃒«»	Combining Long Vertical Line Overlay
+«#00ff00»⃓«»	Combining Short Vertical Line Overlay
+«#00ff00»⃔«»	Combining Anticlockwise Arrow Above
+«#00ff00»⃕«»	Combining Clockwise Arrow Above
+«#00ff00»⃖«»	Combining Left Arrow Above
+«#00ff00»⃗«»	Combining Right Arrow Above
+«#00ff00»⃘«»	Combining Ring Overlay
+«#00ff00»⃙«»	Combining Clockwise Ring Overlay
+«#00ff00»⃚«»	Combining Anticlockwise Ring Overlay
+«#00ff00»⃛«»	Combining Three Dots Above
+«#00ff00»⃜«»	Combining Four Dots Above
+«#00ff00»⃝«»	Combining Enclosing Circle
+«#00ff00»⃞«»	Combining Enclosing Square
+«#00ff00»⃟«»	Combining Enclosing Diamond
+«#00ff00»⃠«»	Combining Enclosing Circle Backslash
+«#00ff00»⃡«»	Combining Left Right Arrow Above
+«#00ff00»⃢«»	Combining Enclosing Screen
+«#00ff00»⃣«»	Combining Enclosing Keycap
+«#00ff00»⃤«»	Combining Enclosing Upward Pointing Triangle
+«#00ff00»⃥«»	Combining Reverse Solidus Overlay
+«#00ff00»⃦«»	Combining Double Vertical Stroke Overlay
+«#00ff00»⃧«»	Combining Annuity Symbol
+«#00ff00»⃨«»	Combining Triple Underdot
+«#00ff00»⃩«»	Combining Wide Bridge Above
+«#00ff00»⃪«»	Combining Leftwards Arrow Overlay
+«#00ff00»⃫«»	Combining Long Double Solidus Overlay
+«#00ff00»⃬«»	Combining Rightwards Harpoon with Barb Downwards
+«#00ff00»⃭«»	Combining Leftwards Harpoon with Barb Downwards
+«#00ff00»⃮«»	Combining Left Arrow Below
+«#00ff00»⃯«»	Combining Right Arrow Below
+«#00ff00»⃰«»	Combining Asterisk Above", },
+        ]
+    },
 
 
 ]
