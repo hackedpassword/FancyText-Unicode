@@ -61,3 +61,19 @@ https://github.com/yairm210/Unciv/tree/master/android/ImagesToNotAddToGame
   (status)
 - **U+2190–U+21FF** (Arrows) – **1** entry  
   (rightArrow)
+
+## 4. Aggregate table symbol listing
+| block range      | block name                            | chars                 |
+| :--------------- | :------------------------------------ | :-------------------- |
+| U+0080..U+00FF   | Latin-1 Supplement                    | ¤                     |
+| U+2000..U+206F   | General Punctuation                   | † ‡ … ⁂               |
+| U+2190..U+21FF   | Arrows                                | ↑ ↓ →                 |
+| U+2200..U+22FF   | Mathematical Operators                | ∞                     |
+| U+2300..U+23FF   | Miscellaneous Technical               | ⏳ ⍾ ⌣ ⌚               |
+| U+25A0..U+25FF   | Geometric Shapes                      | ◉                     |
+| U+2600..U+26FF   | Miscellaneous Symbols                 | ♡ ⚙ ♪ ☮ ♬ ⚒ ⛤ ⚖ ⚛ ☠ ⛏ |
+| U+2700..U+27BF   | Dingbats                              | ➡ ✯                   |
+| U+1F300..U+1F5FF | Miscellaneous Symbols and Pictographs | 🍏 🔬 🎵 🕊           |
+| U+1F600..U+1F64F | Emoticons                             | 😀                    |
+| U+1F900..U+1F9FF | Supplemental Symbols and Pictographs  | 🧪                    |
+| U+FF00..U+FFEF   | Halfwidth and Fullwidth Forms         | ￪ ￬                   |
