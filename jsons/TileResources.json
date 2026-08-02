@@ -1,0 +1,47 @@
+[
+
+	{
+		"name": "←↑→↓↔↕↖↗↘↙↚↛↜↝↞↟↠↡",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [Grassland],
+		"improvedBy": [],
+		"uniques": [],
+	},
+	{
+		"name": "↢↣↤↥↦↧↨↩↪↫↬↭↮↯↰↱↲↳↴↵",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [Grassland],
+		"improvedBy": [],
+		"uniques": [],
+	},
+	{
+		"name": "↶↷↸↹↺↻↼↽↾↿⇀⇁⇂⇃⇄⇅⇆⇇⇈⇉⇊",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [Grassland],
+		"improvedBy": [],
+		"uniques": [],
+	},
+	{
+		"name": "⇋⇌⇍⇎⇏⇐⇑⇒⇓⇔⇕⇖⇗⇘⇙⇚⇛",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [Grassland],
+		"improvedBy": [],
+		"uniques": [],
+	},
+	{
+		"name": "⇜⇝⇞⇟⇠⇡⇢⇣⇤⇥⇦⇧⇨⇩⇪⇫⇬⇭⇮⇯⇰",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [Grassland],
+		"improvedBy": [],
+		"uniques": [],
+	},
+	{
+		"name": "⇱⇲⇳⇴⇵⇶⇷⇸⇹⇺⇻⇼⇽⇾⇿",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [Grassland],
+		"improvedBy": [],
+		"uniques": [],
+	},
+
+
+]
