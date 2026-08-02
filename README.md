@@ -2,9 +2,21 @@
 
 ## What is this?
 
-A 2-part mod: In-game, prepend city with a symbol for better management, and, aiding modders (or players) to visualize unicode characters via a Tutorials menu section.
+A two part mod:
+1. Prepend cities with a symbol relative to their type for better management,
+2. Visualizing unicode characters via a Tutorials menu section that can be used for modding or unit/city naming.
 
-⚠ Note! Unicode is notoriously variable with what symbols render where, depending on code impementation, platform, etc. For example, the map editor cannot render certain symbols, while the tutorials screen can.
+In-game, this is what you'd see in the spy screen for example - notice capitals and CS's are clearly marked:
+
+![](https://raw.githubusercontent.com/hackedpassword/Unciv-Assets/refs/heads/main/Images/FancytextUnicode/fancytextUnicode_example.png)
+
+## Why could this be helpful?
+
+Unicode is notoriously variable on rendering symbols, per screen, per platform, etc.
+
+⚠ For example, the map editor cannot render certain symbols, while the tutorials screen can. Android and Windows do not have a unified font base.
+
+[PR#15166](https://github.com/yairm210/Unciv/pull/15166) addressed one such issue lately. Alternative solutions to font rendering issues might be addressed by a mod like [SomeTroglodyte/Sort-Icons](https://github.com/SomeTroglodyte/Sort-Icons).
 
 ## How to use
 
@@ -12,10 +24,9 @@ A 2-part mod: In-game, prepend city with a symbol for better management, and, ai
 2. Select FancytextUnicode as an add-on mod
 3. Start the game
 
-Now if you press F1 or tap to Civilopedia, under the *Tutorials* section, you will see this new section.
+Now if you press F1 or tap to Civilopedia, under the *Tutorials* section, you will see a new `FancyText Unicode` section. The subsections demonstrate various symbols.
 
-The subsections demonstrate the various symbols that can render in-game. Many unicode symbols do not, these do.
-
+⚠ Symbols that render in tutorials may not render in another screen.
 
 
 # Preview of Tutorial.json
