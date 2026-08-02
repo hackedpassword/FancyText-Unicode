@@ -18,6 +18,8 @@ Unicode is notoriously variable on rendering symbols, per screen, per platform, 
 
 [PR#15166](https://github.com/yairm210/Unciv/pull/15166) addressed one such issue lately. Alternative solutions to font rendering issues might be addressed by a mod like [SomeTroglodyte/Sort-Icons](https://github.com/SomeTroglodyte/Sort-Icons).
 
+💡 New: There are now Resources named with symbols from the Arrows block (U+2190) and a test render map. Glyph resources enable render testing in Editor and World screens.
+
 ## How to use
 
 1. Start a new game, G&K base
